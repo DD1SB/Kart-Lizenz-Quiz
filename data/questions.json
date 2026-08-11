@@ -5,11 +5,14 @@
     "catalogStand": "01/2025",
     "regulations": "DMSB-Reglements 2024",
     "questionCount": 111,
-    "solutionStatus": "provisional",
+    "solutionStatus": "in-review",
     "note": "Der DMSB-Fragenkatalog enthält keine offizielle Lösungsschablone. Die hinterlegten Lösungen sind ein Arbeitsstand und müssen vor einer produktiven Veröffentlichung fachlich gegengeprüft werden.",
     "source": "DMSB Fragenkatalog Kart, Stand 01/2025",
-    "appVersion": "0.3",
-    "quickTips": "QuickTipps are learning aids; source references are being verified question by question."
+    "appVersion": "0.4",
+    "quickTips": "QuickTipps are learning aids; source references are being verified question by question.",
+    "dataVersion": "0.2",
+    "dataUpdated": "2026-08-11",
+    "solutionStatusLabel": "Lösungen und Erklärungen werden fachlich geprüft"
   },
   "chapters": {
     "1": "Struktur CIK und DMSB",

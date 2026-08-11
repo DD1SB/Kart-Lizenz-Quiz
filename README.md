@@ -2,6 +2,15 @@
 
 Kinderfreundlicher, statischer Lerntrainer für Fragen aus dem **„Fragenkatalog für DMSB-anerkannte Fahrer-Lizenzlehrgänge Kart“**.
 
+## Versionsstand
+
+- **App:** v0.4
+- **Quiz-Datenbestand:** v0.2, Stand 11.08.2026
+- **DMSB-Quellkatalog:** Stand 01/2025
+- **Lösungen/Erklärungen:** in fachlicher Prüfung
+
+App-Version und Quiz-Datenbestand werden getrennt versioniert. Eine reine Korrektur an Lösung, QuickTipp oder Quellenangabe kann deshalb den Datenbestand erhöhen, ohne dass sich die Anwendung selbst ändert.
+
 ## Stand dieser Version
 
 - Lernmodus mit zufälligen Fragen
