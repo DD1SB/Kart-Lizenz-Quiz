@@ -581,7 +581,7 @@
     {
       "id": "3.14",
       "chapter": 3,
-      "question": "Was    muss ein      Teilnehmer    tun,     wenn er kurzfristig                             an     der Veranstaltungsteilnahme verhindert ist (z. B. Krankheit)?",
+      "question": "Was muss ein Teilnehmer tun, wenn er kurzfristig an der Veranstaltungsteilnahme verhindert ist (z. B. Krankheit)?",
       "answers": [
         {
           "text": "Er muss nichts tun.",
@@ -910,7 +910,7 @@
         },
         {
           "text": "Der Fahrer muss innerhalb der nächsten drei Runden in den Reparaturbereich einfahren",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Der Fahrer darf im Reparaturbereich die Hilfe seines Mechanikers in Anspruch nehmen",
@@ -919,7 +919,7 @@
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "low",
-      "quickTip": "Merke dir für diese Frage: Der Fahrer wird aufgefordert, wegen eines technischen Defektes bei der nächsten Möglichkeit, die Reparaturzone anzufahren / Der Fahrer muss innerhalb der nächsten drei Runden in den Reparaturbereich einfahren / Der Fahrer darf im Reparaturbereich die Hilfe seines Mechanikers in Anspruch nehmen",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer wird aufgefordert, wegen eines technischen Defektes bei der nächsten Möglichkeit, die Reparaturzone anzufahren /  Genauer: der Fahrer muss unmittelbar im Anschluss seine Box ansteuern um den Schaden beheben zu lassen",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
@@ -1194,12 +1194,12 @@
         },
         {
           "text": "Die maximal zulässige Geschwindigkeit beträgt 50 km/h",
-          "correct": true
+          "correct": false
         }
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "high",
-      "quickTip": "Merke dir für diese Frage: Das Rennen ist jetzt neutralisiert und es herrscht Überholverbot / Der führende Fahrer ist für die reduzierte Geschwindigkeit verantwortlich / Es ist in einer Reihe hinter dem Führenden so geschlossen wie möglich zu fahren / Die maximal zulässige Geschwindigkeit beträgt 50 km/h",
+      "quickTip": "Merke dir für diese Frage: Das Rennen ist jetzt neutralisiert und es herrscht Überholverbot / Der führende Fahrer ist für die stark (!) reduzierte Geschwindigkeit verantwortlich / Es ist in einer Reihe hinter dem Führenden so geschlossen wie möglich zu fahren / ",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
@@ -1469,7 +1469,7 @@
           "correct": true
         },
         {
-          "text": "Er darf die gesamte Fahrbeinbreite nutzen und die anderen suchen sich die beste Linie zum Überholen",
+          "text": "Er darf die gesamte Fahrbahnbreite nutzen und die anderen suchen sich die beste Linie zum Überholen",
           "correct": false
         },
         {
@@ -1854,7 +1854,7 @@
         },
         {
           "text": "Ja, er darf nach Verlassen des Wiegebereiches wieder in die korrekte Position gebracht werden",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Ja, er darf zwischen Zielflagge und der Wiegeprozedur wieder in die korrekte Position gebracht werden",
@@ -1863,7 +1863,7 @@
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "low",
-      "quickTip": "Merke dir für diese Frage: Ja, er darf in der Reparaturzone während des Rennens wieder in die korrekte Position gebracht werden / Ja, er darf nach Verlassen des Wiegebereiches wieder in die korrekte Position gebracht werden",
+      "quickTip": "Merke dir für diese Frage: Das Zurücksetzen eines ausgelösten Frontspoiler-Befestigungskits wird als Reparatur angesehen. Dieses Zurücksetzen ist ausschließlich in der Reparaturzone erlaubt, wenn diese vor dem Ende des entsprechenden Wettbewerbsteils auf dem dafür vorgeschriebenen Weg erreicht wird.",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
@@ -2678,7 +2678,7 @@
           "correct": true
         },
         {
-          "text": "Der Helm dar nicht älter als drei Jahre sein",
+          "text": "Der Helm darf nicht älter als drei Jahre sein",
           "correct": false
         }
       ],
