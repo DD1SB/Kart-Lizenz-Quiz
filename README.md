@@ -2,7 +2,7 @@
 
 Kinderfreundlicher, statischer Lerntrainer für Fragen aus dem **„Fragenkatalog für DMSB-anerkannte Fahrer-Lizenzlehrgänge Kart“**.
 
-## Stand dieser ersten Version
+## Stand dieser Version
 
 - Lernmodus mit zufälligen Fragen
 - adaptive Gewichtung: neue bzw. häufig falsch beantwortete Fragen erscheinen öfter
@@ -13,7 +13,7 @@ Kinderfreundlicher, statischer Lerntrainer für Fragen aus dem **„Fragenkatalo
 - Lernstatistik in `localStorage`
 - responsives Layout für Smartphone, Tablet und Desktop
 - kein Backend und keine Anmeldung nötig
-- derzeit 38 Fragen mit **vorläufig hinterlegten Lösungen**
+- vollständiger Katalog mit **111 Fragen** und vorläufig hinterlegter Lösungsschablone
 
 > Der DMSB veröffentlicht zusammen mit dem Fragenkatalog keine Lösungsschablone. Die hinterlegten Lösungen sind deshalb nicht offiziell und müssen vor produktivem Einsatz fachlich geprüft werden.
 
