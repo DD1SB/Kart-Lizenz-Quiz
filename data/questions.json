@@ -946,7 +946,7 @@
         },
         {
           "text": "Der betreffende Fahrer ist von diesem Rennen disqualifiziert",
-          "correct": true
+          "correct": false
         },
         {
           "text": "Der betreffende Fahrer ist von dieser Veranstaltung disqualifiziert",
@@ -955,7 +955,7 @@
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "low",
-      "quickTip": "Merke dir für diese Frage: Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden / Der betreffende Fahrer ist von diesem Rennen disqualifiziert",
+      "quickTip": "Merke dir für diese Frage: Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden / CHECKEN : Der betreffende Fahrer ist von diesem Rennen disqualifiziert?",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
@@ -1854,7 +1854,7 @@
         },
         {
           "text": "Ja, er darf nach Verlassen des Wiegebereiches wieder in die korrekte Position gebracht werden",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Ja, er darf zwischen Zielflagge und der Wiegeprozedur wieder in die korrekte Position gebracht werden",
@@ -1863,11 +1863,11 @@
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "low",
-      "quickTip": "Merke dir für diese Frage: Das Zurücksetzen eines ausgelösten Frontspoiler-Befestigungskits wird als Reparatur angesehen. Dieses Zurücksetzen ist ausschließlich in der Reparaturzone erlaubt, wenn diese vor dem Ende des entsprechenden Wettbewerbsteils auf dem dafür vorgeschriebenen Weg erreicht wird.",
+      "quickTip": "Merke dir für diese Frage: Ist der Frontspoiler während der Fahrt ausgelöst, darfst du ihn nicht einfach zurückdrücken. Das gilt als Reparatur und ist während des Wettbewerbsteils nur in der Reparaturzone erlaubt. Auch nach dem Abwinken bis zum Wiegebereich darf am Kart nichts verändert werden.",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
-          "section": "Teil B – Sportliches Reglement"
+          "section": "Teil B – Sportliches Reglement - Art. B.18 b)"
         }
       ]
     },
