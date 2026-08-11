@@ -7,7 +7,9 @@
     "questionCount": 111,
     "solutionStatus": "provisional",
     "note": "Der DMSB-Fragenkatalog enthält keine offizielle Lösungsschablone. Die hinterlegten Lösungen sind ein Arbeitsstand und müssen vor einer produktiven Veröffentlichung fachlich gegengeprüft werden.",
-    "source": "DMSB Fragenkatalog Kart, Stand 01/2025"
+    "source": "DMSB Fragenkatalog Kart, Stand 01/2025",
+    "appVersion": "0.3",
+    "quickTips": "QuickTipps are learning aids; source references are being verified question by question."
   },
   "chapters": {
     "1": "Struktur CIK und DMSB",
@@ -41,7 +43,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: DMSB - Deutscher Motor Sport Bund",
+      "sources": []
     },
     {
       "id": "1.02",
@@ -66,7 +70,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die CIK ist die Kommission für den Kartsport innerhalb der FIA / Die CIK ist zuständig für Welt- und Europameisterschaften im Kartsport",
+      "sources": []
     },
     {
       "id": "1.03",
@@ -91,7 +97,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Ich beantrage diese Lizenz im Internet unter dmsb.de / Ich sollte mich dazu in meinem Club von einem erfahrenen Kartfahrer oder Trainer beraten lassen",
+      "sources": []
     },
     {
       "id": "2.01",
@@ -112,7 +120,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: DMSB-Kartreglement / DMSB-Veranstaltungsreglement",
+      "sources": []
     },
     {
       "id": "2.02",
@@ -133,7 +143,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Spezifische Bestimmungen für die CIK-Meisterschaften/Prädikate (\"Specific Prescriptions\") / Technisches Reglement der CIK-FIA (z.B. für die Klassen Mini, OK, OK-Junior, KZ2 etc.) / Internationales Sportgesetz der FIA",
+      "sources": []
     },
     {
       "id": "2.03",
@@ -154,7 +166,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Internationale Kart-Lizenz",
+      "sources": []
     },
     {
       "id": "2.04",
@@ -175,7 +189,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Englisch und Französisch",
+      "sources": []
     },
     {
       "id": "2.05",
@@ -196,7 +212,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Im Internet unter www.dmsb.de / Im Internet unter www.cikfia.com",
+      "sources": []
     },
     {
       "id": "3.01",
@@ -221,7 +239,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In der Veranstaltungsausschreibung",
+      "sources": []
     },
     {
       "id": "3.02",
@@ -250,7 +270,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Mit der Dokumentenabnahme / Registrierung",
+      "sources": []
     },
     {
       "id": "3.03",
@@ -271,7 +293,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Ja, der Veranstalter kann eine Nennung ablehnen, wenn er die Ablehnung begründet",
+      "sources": []
     },
     {
       "id": "3.04",
@@ -296,7 +320,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Lizenzen vom Fahrer und Bewerber, wenn dieser nicht gleich dem Fahrer ist / Nennbestätigung",
+      "sources": []
     },
     {
       "id": "3.05",
@@ -321,7 +347,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Sicherheitsausrüstung (Fahreranzug, Helm, Handschuhe und Schuhe) / Das einsatzbereite Kart",
+      "sources": []
     },
     {
       "id": "3.06",
@@ -346,7 +374,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In der Ausschreibung ist beschrieben, wann und wo die Fahrerbesprechung stattfindet / Die Fahrerbesprechung ist auch im offiziellen Zeitplan der Veranstaltung aufgeführt",
+      "sources": []
     },
     {
       "id": "3.07",
@@ -367,7 +397,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer muss bei der Fahrerbesprechung anwesend sein",
+      "sources": []
     },
     {
       "id": "3.08",
@@ -388,7 +420,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Vom Rennleiter oder Renndirektor",
+      "sources": []
     },
     {
       "id": "3.09",
@@ -409,7 +443,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Aus der Veranstaltungsausschreibung",
+      "sources": []
     },
     {
       "id": "3.10",
@@ -466,7 +502,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Rennen zum Norddeutschen ADAC Kart Cup (NAKC): Clubsport / Kart-Europameisterschaft in Wackersdorf: International / ADAC Kart Masters: National A / Rotax Max Challenge Germany: National A",
+      "sources": []
     },
     {
       "id": "3.11",
@@ -487,7 +525,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Protest",
+      "sources": []
     },
     {
       "id": "3.12",
@@ -508,7 +548,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: 30 Minuten",
+      "sources": []
     },
     {
       "id": "3.13",
@@ -529,7 +571,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja",
+      "sources": []
     },
     {
       "id": "3.14",
@@ -550,7 +594,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss sich beim Veranstalter sobald als möglich abmelden/entschuldigen",
+      "sources": []
     },
     {
       "id": "3.15",
@@ -571,7 +617,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss sich im Rennbüro abmelden",
+      "sources": []
     },
     {
       "id": "3.16",
@@ -592,7 +640,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss seinen Platz sauber und ohne Zurücklassen von Müll verlassen / Er muss darauf achten, dass alle Abfälle umweltgerecht entsorgt werden",
+      "sources": []
     },
     {
       "id": "4.01",
@@ -613,7 +663,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Rollender Start / Stehender Start",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.02",
@@ -634,7 +691,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Absolvierung der Dokumentenabnahme / Das Kart muss die Technische Abnahme erfolgreich absolviert haben",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.03",
@@ -655,7 +719,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Durch die weiße Begrenzungslinie",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.04",
@@ -676,7 +747,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein, Kerbs gehören nicht zur Rennstreckenbreite",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.05",
@@ -705,7 +783,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer darf mit seinem Kart mit zwei Rädern über die Fahrbahnbegrenzung fahren / Der Fahrer darf sich beim versehentlichen Verlassen der Rennstrecke keinen Vorteil verschaffen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.06",
@@ -730,7 +815,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Er muss seine Geschwindigkeit reduzieren / Er fährt die Runde vorsichtig zu Ende und fährt zurück in den Servicebereich / Er darf nicht mehr überholen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.07",
@@ -755,7 +847,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Das Rennen ist zu Ende und die Geschwindigkeit muss reduziert werden (es gilt Überholverbot)",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.08",
@@ -776,7 +875,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer wird vom Rennleiter wegen seiner Fahrweise verwarnt",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.09",
@@ -809,7 +915,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer wird aufgefordert, wegen eines technischen Defektes bei der nächsten Möglichkeit, die Reparaturzone anzufahren / Der Fahrer muss innerhalb der nächsten drei Runden in den Reparaturbereich einfahren / Der Fahrer darf im Reparaturbereich die Hilfe seines Mechanikers in Anspruch nehmen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.10",
@@ -838,7 +951,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden / Der betreffende Fahrer ist von diesem Rennen disqualifiziert",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.11",
@@ -867,7 +987,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die gelbe Flagge bedeutet Gefahr im folgenden Streckenabschnitt / Es darf nicht mehr überholt werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.12",
@@ -896,7 +1023,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die gelben Flaggen bedeuten Gefahr im folgenden Streckenabschnitt / Es befindet sich ein Hindernis (Kart) oder auch Sportwarte auf der Strecke / Es gilt Überholverbot / Die Geschwindigkeit muss stark reduziert werden, notfalls muss man anhalten können",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.13",
@@ -921,7 +1055,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Vorsicht, die Streckenbeschaffenheit hat sich verschlechtert (Nässe, Schmutz o. ä.)",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.14",
@@ -946,7 +1087,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Da sich schnellere Fahrer dahinter befinden, muss er schnellstmöglich das Überholen ermöglicht werden / Der Fahrer muss so schnell wie möglich die Ideallinie verlassen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.15",
@@ -971,7 +1119,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Vorsicht, ein langsames Fahrzeug befindet sich unmittelbar vor ihm",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.16",
@@ -1000,7 +1155,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Das Überholverbot ist ab der gezeigten grünen Flagge aufgehoben / Es kann wieder im normalen Renntempo weitergefahren werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.17",
@@ -1033,7 +1195,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Das Rennen ist jetzt neutralisiert und es herrscht Überholverbot / Der führende Fahrer ist für die reduzierte Geschwindigkeit verantwortlich / Es ist in einer Reihe hinter dem Führenden so geschlossen wie möglich zu fahren / Die maximal zulässige Geschwindigkeit beträgt 50 km/h",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.18",
@@ -1058,7 +1227,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Vorstartbereich kann bis 5 Minuten vor der geplanten Startzeit betreten werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.19",
@@ -1083,7 +1259,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Es darf kein Reservematerial in den Vorstartbereich mitgenommen werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.20",
@@ -1108,7 +1291,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ein Mechaniker",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.21",
@@ -1133,7 +1323,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Es darf der Luftdruck der Reifen korrigiert werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.22",
@@ -1158,7 +1355,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er kann nur noch von der Reparaturzone aus ins Rennen nachstarten",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.23",
@@ -1179,7 +1383,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Formationsrunde",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.24",
@@ -1204,7 +1415,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ja er darf überholen, wenn dadurch kein anderer Fahrer behindert/gefährdet wird / Er darf bis zur „roten Linie“ überholen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.25",
@@ -1229,7 +1447,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss das Kart so schnell wie möglich von der Rennstrecke entfernen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.26",
@@ -1254,7 +1479,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Er fährt schonend und hebt diese zwei Runden einen Arm / Er muss mit größter Rücksicht außerhalb der Ideallinie fahren / Er darf keinen anderen Fahrer auf seiner schnellen Runde behindern",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.27",
@@ -1275,7 +1507,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Es ist dem Fahrer freigestellt, vier Regenreifen oder vier Slickreifen zu montieren",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.28",
@@ -1300,7 +1539,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Er muss besonders auf die nachfolgenden Fahrer achten / Er darf die Trennlinie zwischen Rennstrecke und Boxeneinfahrt nicht mehr überfahren / Er muss die Geschwindigkeit reduzieren, damit er gefahrlos in die Boxengasse einfahren kann",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.29",
@@ -1325,7 +1571,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Bis zum Verlassen des Vorstartbereiches muss er den Rennleiter informiert haben",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.30",
@@ -1350,7 +1603,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Die Geschwindigkeit in der Boxengasse kann in der Veranstaltungsausschreibung geregelt sein / Die Geschwindigkeit muss jederzeit angemessen sein",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.31",
@@ -1375,7 +1635,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nur in der Reparaturzone",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.32",
@@ -1400,7 +1667,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ja, er darf wieder zurückfahren, allerdings ohne einen anderen Fahrer zu behindern / Ja, er darf wieder zurückfahren, wenn er sich dadurch keinen Vorteil verschafft / Er sollte drauf achten, ob die Reifen seines Karts verschmutzt sind und dadurch den Grip verloren haben",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.33",
@@ -1425,7 +1699,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Er darf wieder auf seinen Startplatz fahren / Er darf solange auf seinen Startplatz fahren, so lange die rote Flagge vor dem Feld gezeigt wird",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.34",
@@ -1450,7 +1731,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Geschwindigkeit ist zu verringern, nicht mehr überholen und langsam Richtung Start/Ziel fahren / Den Weisungen der Sportwarte der Streckensicherung und der Offiziellen ist zu folgen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.35",
@@ -1475,7 +1763,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Die Karts starten in einer Reihe in der Reihenfolge, die in der Runde vor dem Abbruch festgestellt wird / Es wird unter „SLOW“-Bedingungen gestartet und frühestens nach einer Runde erfolgt die Startfreigabe",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.36",
@@ -1500,7 +1795,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Sie dürfen nach dem Startsignal überholen, aber erst nach dem Überfahren der „gelben Linie“",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.37",
@@ -1525,7 +1827,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Sie dürfen nach dem Überqueren der Startlinie überholen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.38",
@@ -1550,7 +1859,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ja, er darf in der Reparaturzone während des Rennens wieder in die korrekte Position gebracht werden / Ja, er darf nach Verlassen des Wiegebereiches wieder in die korrekte Position gebracht werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.39",
@@ -1579,7 +1895,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Das Rennergebnis ist die Reihenfolge nach der gemäß Ausschreibung absolvierten Rundenzahl / Andi Feuerstein, da er nach Ende der vorgesehenen Rundenzahl geführt hat",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.40",
@@ -1604,7 +1927,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er verlässt sofort die Ideallinie und stellt das Kart neben der Strecke ab",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.41",
@@ -1629,7 +1959,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Harry Hurtig stellt einen schriftlichen Antrag an den Rennleiter mit der Bitte um Startzulassung",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.42",
@@ -1654,7 +1991,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Das Kart unterliegt zwischen dem Abwinken und dem Ende der Wiegeprozedur den Park-Fermé Bestimmungen / Der Fahrer muss darauf achten, dass auch in der Auslaufrunde der Frontspoiler nicht ausgelöst wird",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.43",
@@ -1679,7 +2023,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer muss die Anweisungen der Sportwarte der Streckensicherung befolgen / Der Fahrer muss an seinem Kart warten bis er vom Abschleppfahrzeug des Veranstalters abgeholt wird",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "4.44",
@@ -1704,7 +2055,14 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Sobald die offiziellen Ergebnisse publiziert wurden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
     },
     {
       "id": "5.01",
@@ -1729,7 +2087,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Online auf der DMSB-Internetseite unter www.dmsbnet.de",
+      "sources": []
     },
     {
       "id": "5.02",
@@ -1750,7 +2110,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Bis zum Ende des jeweiligen Kalenderjahres",
+      "sources": []
     },
     {
       "id": "5.03",
@@ -1775,7 +2137,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Mindestens die Nationale DMSB-Lizenz Stufe C / Die DMSB Race Card",
+      "sources": []
     },
     {
       "id": "5.04",
@@ -1800,7 +2164,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein, da die Lizenz nicht mehr gültig ist",
+      "sources": []
     },
     {
       "id": "5.05",
@@ -1821,7 +2187,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Sie entspricht der Nationalen Lizenz Stufe C",
+      "sources": []
     },
     {
       "id": "5.06",
@@ -1846,7 +2214,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die DMSB Race Card gilt nur für die beantragte Veranstaltung",
+      "sources": []
     },
     {
       "id": "6.01",
@@ -1871,7 +2241,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Rennleiter",
+      "sources": []
     },
     {
       "id": "6.02",
@@ -1896,7 +2268,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die Sportkommissare",
+      "sources": []
     },
     {
       "id": "6.03",
@@ -1921,7 +2295,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Protest",
+      "sources": []
     },
     {
       "id": "6.04",
@@ -1946,7 +2322,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Es muss in jedem Fall schriftlich erfolgen / Die Zeitdauer zum Einlegen dieses Rechtsmittels ist eingeschränkt",
+      "sources": []
     },
     {
       "id": "6.05",
@@ -1971,7 +2349,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Berufung",
+      "sources": []
     },
     {
       "id": "6.06",
@@ -1996,7 +2376,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Rennleiter",
+      "sources": []
     },
     {
       "id": "6.07",
@@ -2021,7 +2403,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer / Bewerber",
+      "sources": []
     },
     {
       "id": "7.01",
@@ -2046,7 +2430,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Aus der Veranstaltungsausschreibung",
+      "sources": []
     },
     {
       "id": "7.02",
@@ -2067,7 +2453,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Technische Kommissar",
+      "sources": []
     },
     {
       "id": "7.03",
@@ -2088,7 +2476,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: An den festgelegten Standorten der Streckenposten",
+      "sources": []
     },
     {
       "id": "7.04",
@@ -2109,7 +2499,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die Geschwindigkeit ist zu verringern und es herrscht Überholverbot",
+      "sources": []
     },
     {
       "id": "7.05",
@@ -2130,7 +2522,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja",
+      "sources": []
     },
     {
       "id": "8.01",
@@ -2151,7 +2545,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Das Kart muss bereits mit den richtigen Startnummern versehen sein / Das Kart muss sich in dem Zustand befinden, wie es auch zum Wettbewerb eingesetzt werden soll",
+      "sources": []
     },
     {
       "id": "8.02",
@@ -2176,7 +2572,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Er muss vor dem erneuten Einsatz das reparierte Kart bei den Technischen Kommissaren vorführen",
+      "sources": []
     },
     {
       "id": "8.03",
@@ -2201,7 +2599,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Diese Markierung befindet sich hinten am oder in der Nähe des Kragens",
+      "sources": []
     },
     {
       "id": "8.04",
@@ -2226,7 +2626,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In den Mini-Klassen",
+      "sources": []
     },
     {
       "id": "8.05",
@@ -2251,7 +2653,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Im DMSB-Kart-Reglement",
+      "sources": []
     },
     {
       "id": "8.06",
@@ -2276,7 +2680,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "medium"
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Die Helme müssen bestimmten Normen und Standards entsprechen / Der Helm muss den betreffenden Bestimmungen des DMSB-Kart-Reglement, Teil D, entsprechen",
+      "sources": []
     },
     {
       "id": "8.07",
@@ -2293,7 +2699,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
     },
     {
       "id": "8.08",
@@ -2326,7 +2734,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Zugelassener Schutzhelm / Handschuhe / Schuhe",
+      "sources": []
     },
     {
       "id": "8.09",
@@ -2351,7 +2761,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
     },
     {
       "id": "8.10",
@@ -2376,7 +2788,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja, wenn der Helmhersteller dieses zulässt",
+      "sources": []
     },
     {
       "id": "9.01",
@@ -2393,7 +2807,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja",
+      "sources": []
     },
     {
       "id": "9.02",
@@ -2410,7 +2826,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
     },
     {
       "id": "9.03",
@@ -2431,7 +2849,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein, hierzu muss er sich erkundigen (z. B. bei seinem Arzt oder mithilfe der Verbotsliste der WADA/NADA",
+      "sources": []
     },
     {
       "id": "9.04",
@@ -2460,7 +2880,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ein Verstoß kann zum Entzug der Fahrerlizenz führen / Der Fahrer kann für eine bestimmte Zeit suspendiert werden / Disqualifikation vom betreffenden Wettbewerb",
+      "sources": []
     },
     {
       "id": "9.05",
@@ -2477,7 +2899,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In der \"Liste der verbotenen Substanzen\" der Anti-Doping-Agentur (NADA / WADA)",
+      "sources": []
     },
     {
       "id": "9.06",
@@ -2498,7 +2922,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: 0,0 Promille",
+      "sources": []
     },
     {
       "id": "10.01",
@@ -2523,7 +2949,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Das ist die Fahrlinie, die die höchste Geschwindigkeit zulässt und damit die beste Fahrzeit ermöglicht",
+      "sources": []
     },
     {
       "id": "10.02",
@@ -2540,7 +2968,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
     },
     {
       "id": "10.03",
@@ -2557,7 +2987,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Man muss in der Kurve mehr einlenken, weil das Kart mehr zur Kurven-Außenseite drängt",
+      "sources": []
     },
     {
       "id": "10.04",
@@ -2574,7 +3006,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Man muss weniger einlenken oder gar gegenlenken, weil das Heck des Karts nach außen drängt",
+      "sources": []
     },
     {
       "id": "10.05",
@@ -2607,7 +3041,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Möglichst gleichmäßige und angepasste Geschwindigkeit beibehalten, bis das Startsignal erfolgt ist / Auf die Fahrer dahinter achten / Die Linien des Startkorridors dürfen nicht vor dem Startsignal überfahren werden",
+      "sources": []
     },
     {
       "id": "10.06",
@@ -2632,7 +3068,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "low"
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Er darf die Spur einmal wechseln, wenn das Überholmanöver noch nicht begonnen hat / Durch das Spurwechseln darf kein anderer Fahrer behindert werden",
+      "sources": []
     },
     {
       "id": "10.07",
@@ -2649,7 +3087,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
     },
     {
       "id": "10.08",
@@ -2674,7 +3114,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Beim Überholen in einer Kurve kann die Ideallinie nicht gefahren werden und somit könnte eine andere Geschwindigkeit als üblich erforderlich sein / Der überholte Fahrer, der sich auf der inneren Linie befindet, wird ausgangs der Kurve auch nach außen fahren. Ich muss in jedem Fall versuchen, eine Kollision zu vermeiden",
+      "sources": []
     },
     {
       "id": "10.09",
@@ -2695,7 +3137,9 @@
         }
       ],
       "solutionStatus": "provisional",
-      "solutionConfidence": "high"
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Bremspunkt wird eher als üblich sein",
+      "sources": []
     }
   ]
 }
