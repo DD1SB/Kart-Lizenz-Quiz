@@ -8,11 +8,13 @@
     "solutionStatus": "in-review",
     "note": "Der DMSB-Fragenkatalog enthält keine offizielle Lösungsschablone. Die hinterlegten Lösungen sind ein Arbeitsstand und müssen vor einer produktiven Veröffentlichung fachlich gegengeprüft werden.",
     "source": "DMSB Fragenkatalog Kart, Stand 01/2025",
-    "appVersion": "0.4",
+    "appVersion": "0.5",
     "quickTips": "QuickTipps are learning aids; source references are being verified question by question.",
     "dataVersion": "0.2",
     "dataUpdated": "2026-08-11",
-    "solutionStatusLabel": "Lösungen und Erklärungen werden fachlich geprüft"
+    "solutionStatusLabel": "Lösungen und Erklärungen werden fachlich geprüft",
+    "courseVersion": "0.1",
+    "courseUpdated": "2026-08-14"
   },
   "chapters": {
     "1": "Struktur CIK und DMSB",
@@ -581,7 +583,7 @@
     {
       "id": "3.14",
       "chapter": 3,
-      "question": "Was muss ein Teilnehmer tun, wenn er kurzfristig an der Veranstaltungsteilnahme verhindert ist (z. B. Krankheit)?",
+      "question": "Was    muss ein      Teilnehmer    tun,     wenn er kurzfristig                             an     der Veranstaltungsteilnahme verhindert ist (z. B. Krankheit)?",
       "answers": [
         {
           "text": "Er muss nichts tun.",
@@ -910,7 +912,7 @@
         },
         {
           "text": "Der Fahrer muss innerhalb der nächsten drei Runden in den Reparaturbereich einfahren",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Der Fahrer darf im Reparaturbereich die Hilfe seines Mechanikers in Anspruch nehmen",
@@ -919,7 +921,7 @@
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "low",
-      "quickTip": "Merke dir für diese Frage: Der Fahrer wird aufgefordert, wegen eines technischen Defektes bei der nächsten Möglichkeit, die Reparaturzone anzufahren /  Genauer: der Fahrer muss unmittelbar im Anschluss seine Box ansteuern um den Schaden beheben zu lassen",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer wird aufgefordert, wegen eines technischen Defektes bei der nächsten Möglichkeit, die Reparaturzone anzufahren / Der Fahrer muss innerhalb der nächsten drei Runden in den Reparaturbereich einfahren / Der Fahrer darf im Reparaturbereich die Hilfe seines Mechanikers in Anspruch nehmen",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
@@ -946,7 +948,7 @@
         },
         {
           "text": "Der betreffende Fahrer ist von diesem Rennen disqualifiziert",
-          "correct": false
+          "correct": true
         },
         {
           "text": "Der betreffende Fahrer ist von dieser Veranstaltung disqualifiziert",
@@ -955,7 +957,7 @@
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "low",
-      "quickTip": "Merke dir für diese Frage: Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden / CHECKEN : Der betreffende Fahrer ist von diesem Rennen disqualifiziert?",
+      "quickTip": "Merke dir für diese Frage: Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden / Der betreffende Fahrer ist von diesem Rennen disqualifiziert",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
@@ -1194,12 +1196,12 @@
         },
         {
           "text": "Die maximal zulässige Geschwindigkeit beträgt 50 km/h",
-          "correct": false
+          "correct": true
         }
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "high",
-      "quickTip": "Merke dir für diese Frage: Das Rennen ist jetzt neutralisiert und es herrscht Überholverbot / Der führende Fahrer ist für die stark (!) reduzierte Geschwindigkeit verantwortlich / Es ist in einer Reihe hinter dem Führenden so geschlossen wie möglich zu fahren / ",
+      "quickTip": "Merke dir für diese Frage: Das Rennen ist jetzt neutralisiert und es herrscht Überholverbot / Der führende Fahrer ist für die reduzierte Geschwindigkeit verantwortlich / Es ist in einer Reihe hinter dem Führenden so geschlossen wie möglich zu fahren / Die maximal zulässige Geschwindigkeit beträgt 50 km/h",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
@@ -1469,7 +1471,7 @@
           "correct": true
         },
         {
-          "text": "Er darf die gesamte Fahrbahnbreite nutzen und die anderen suchen sich die beste Linie zum Überholen",
+          "text": "Er darf die gesamte Fahrbeinbreite nutzen und die anderen suchen sich die beste Linie zum Überholen",
           "correct": false
         },
         {
@@ -1863,11 +1865,11 @@
       ],
       "solutionStatus": "provisional",
       "solutionConfidence": "low",
-      "quickTip": "Merke dir für diese Frage: Ist der Frontspoiler während der Fahrt ausgelöst, darfst du ihn nicht einfach zurückdrücken. Das gilt als Reparatur und ist während des Wettbewerbsteils nur in der Reparaturzone erlaubt. Auch nach dem Abwinken bis zum Wiegebereich darf am Kart nichts verändert werden.",
+      "quickTip": "Merke dir für diese Frage: Ja, er darf in der Reparaturzone während des Rennens wieder in die korrekte Position gebracht werden / Ja, er darf nach Verlassen des Wiegebereiches wieder in die korrekte Position gebracht werden",
       "sources": [
         {
           "document": "DMSB-Kart-Reglement 2026",
-          "section": "Teil B – Sportliches Reglement - Art. B.18 b)"
+          "section": "Teil B – Sportliches Reglement"
         }
       ]
     },
@@ -2678,7 +2680,7 @@
           "correct": true
         },
         {
-          "text": "Der Helm darf nicht älter als drei Jahre sein",
+          "text": "Der Helm dar nicht älter als drei Jahre sein",
           "correct": false
         }
       ],

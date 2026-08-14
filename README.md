@@ -4,7 +4,7 @@ Kinderfreundlicher, statischer Lerntrainer für Fragen aus dem **„Fragenkatalo
 
 ## Versionsstand
 
-- **App:** v0.4
+- **App:** v0.5
 - **Quiz-Datenbestand:** v0.2, Stand 11.08.2026
 - **DMSB-Quellkatalog:** Stand 01/2025
 - **Lösungen/Erklärungen:** in fachlicher Prüfung
@@ -72,3 +72,8 @@ Damit kann der Fragenkatalog unabhängig von der Anwendung gepflegt oder ausgeta
 Fragentexte basieren auf dem öffentlich verfügbaren DMSB-Fragenkatalog Kart, Stand 01/2025. Dem Dokument liegen laut DMSB die Reglements 2024 zugrunde.
 
 Dieses Projekt ist kein offizielles Angebot des DMSB.
+
+
+## Kursmodus (v0.5)
+
+Pilot für Kapitel 4 mit 7 kurzen Lerneinheiten, Verständnisfragen, lokal gespeichertem Kursfortschritt und direkter Verknüpfung zu passenden DMSB-Originalfragen. Die Kursinhalte liegen getrennt in `data/course.json`.

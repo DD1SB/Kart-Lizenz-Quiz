@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "version": "0.1",
+    "updated": "2026-08-14",
+    "status": "pilot",
+    "title": "Kart-Lizenz-Kurs",
+    "note": "Pilotkurs für Kapitel 4. Die Texte erklären den Stoff in kindgerechter Sprache; die verknüpften DMSB-Fragen bleiben als Originalfragen getrennt."
+  },
+  "chapters": [
+    {
+      "id": "4",
+      "title": "Auf der Rennstrecke",
+      "subtitle": "Flaggen, Start, SLOW, Reparaturzone und Parc Fermé",
+      "lessons": [
+        {
+          "id": "4.1",
+          "title": "Flaggen – die Sprache der Rennleitung",
+          "emoji": "🚩",
+          "minutes": 5,
+          "intro": "Auf der Strecke kann dir die Rennleitung nicht einfach etwas zurufen. Dafür gibt es Flaggen. Wer ihre Sprache versteht, weiß sofort, was zu tun ist.",
+          "sections": [
+            {
+              "heading": "Warum gibt es Flaggen?",
+              "text": "Beim Kartfahren passiert vieles sehr schnell. Eine Gefahr kann hinter der nächsten Kurve liegen, ein Fahrer kann ein technisches Problem haben oder ein Rennen muss beendet werden. Flaggen geben dir solche Informationen sofort. Deshalb schaust du nicht nur auf die Strecke und die anderen Karts, sondern auch auf die Streckenposten."
+            },
+            {
+              "heading": "Drei besonders wichtige Signale",
+              "text": "Gelb bedeutet Gefahr: Geschwindigkeit verringern, besonders aufmerksam sein und nicht überholen. Rot bedeutet, dass Training oder Rennen unterbrochen wird; du fährst kontrolliert weiter und beachtest die Anweisungen. Die schwarz-weiß karierte Flagge beendet Training oder Rennen für dich: Nach dem Abwinken fährst du die vorgeschriebene Auslaufrunde beziehungsweise zum vorgesehenen Bereich."
+            },
+            {
+              "heading": "Flaggen für einen bestimmten Fahrer",
+              "text": "Manche Flaggen werden zusammen mit deiner Startnummer gezeigt. Schwarz-weiß diagonal geteilt ist eine Verwarnung wegen unsportlichen Verhaltens. Schwarz mit orangefarbener Scheibe weist auf ein technisches Problem hin: Du musst bei der nächsten Möglichkeit die Reparaturzone anfahren. Eine schwarze Flagge bedeutet für den betroffenen Fahrer, dass er das Rennen beenden und sich bei der Rennleitung melden muss."
+            }
+          ],
+          "remember": "Flaggen sind Anweisungen, keine Tipps. Auch wenn du die Gefahr selbst noch nicht siehst, gilt das gezeigte Signal.",
+          "questions": [
+            {
+              "q": "Warum musst du eine gelbe Flagge beachten, obwohl du selbst noch keine Gefahr siehst?",
+              "answers": [
+                "Weil der Streckenposten dich vor einer Gefahr warnt, die du vielleicht noch nicht erkennen kannst.",
+                "Nur damit alle Fahrer gleich schnell fahren.",
+                "Gelb ist nur eine Empfehlung."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Der Streckenposten hat einen anderen Blick auf die Situation und warnt dich rechtzeitig."
+            },
+            {
+              "q": "Was ist bei einer gelben Flagge besonders wichtig?",
+              "answers": [
+                "Beschleunigen, damit die Gefahrenstelle schnell vorbei ist.",
+                "Geschwindigkeit verringern, aufmerksam sein und nicht überholen.",
+                "Nur den Fahrer direkt vor mir nicht überholen."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Im Gefahrenbereich gilt Überholverbot und du musst so fahren, dass du reagieren kannst."
+            },
+            {
+              "q": "Die schwarze Flagge mit orangefarbener Scheibe wird mit deiner Startnummer gezeigt. Was ist der Grund?",
+              "answers": [
+                "Ein technisches Problem an deinem Kart.",
+                "Du hast das Rennen gewonnen.",
+                "Die Strecke ist wieder frei."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Das Signal weist den betroffenen Fahrer auf ein technisches Problem hin."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.06",
+            "4.07",
+            "4.08",
+            "4.09",
+            "4.10",
+            "4.11",
+            "4.12",
+            "4.13",
+            "4.14",
+            "4.15",
+            "4.16"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.5 Flaggen / Startampel"
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "SLOW und Rennunterbrechung",
+          "emoji": "🐢",
+          "minutes": 5,
+          "intro": "Manchmal ist Weiterfahren möglich, aber normales Renntempo wäre zu gefährlich. Dann kann das Rennen neutralisiert werden.",
+          "sections": [
+            {
+              "heading": "Was bedeutet SLOW?",
+              "text": "Werden gelbe Flaggen zusammen mit einem SLOW-Schild gezeigt, ist das Rennen neutralisiert. Es gilt Überholverbot. Die Fahrer bilden eine Reihe hinter dem Führenden und fahren so geschlossen wie möglich. Der Führende bestimmt eine stark reduzierte Geschwindigkeit."
+            },
+            {
+              "heading": "Die Runden zählen weiter",
+              "text": "SLOW ist keine Pause. Die unter SLOW gefahrenen Runden gehören zur Renndistanz. Du bleibst also konzentriert und hältst deine Position."
+            },
+            {
+              "heading": "Wenn Rot gezeigt wird",
+              "text": "Eine rote Flagge unterbricht den Wettbewerb. Dann geht es nicht darum, möglichst schnell noch irgendwohin zu kommen. Du verringerst die Geschwindigkeit, überholst nicht und fährst zu dem im Reglement beziehungsweise von der Rennleitung vorgesehenen Bereich. Dort wartest du auf weitere Anweisungen."
+            }
+          ],
+          "remember": "SLOW heißt: Rennen läuft weiter, aber neutralisiert. Rot heißt: Wettbewerb ist unterbrochen.",
+          "questions": [
+            {
+              "q": "Darfst du während einer SLOW-Phase überholen?",
+              "answers": [
+                "Ja, wenn der Vordermann sehr langsam ist.",
+                "Nein.",
+                "Nur auf der Start-Ziel-Geraden."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Während der Neutralisation gilt Überholverbot."
+            },
+            {
+              "q": "Zählen SLOW-Runden zur Renndistanz?",
+              "answers": [
+                "Ja.",
+                "Nein, sie werden später abgezogen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "SLOW-Runden gehören zur vorgesehenen Rundenzahl."
+            },
+            {
+              "q": "Warum gibt es bei SLOW keine feste Aufgabe, möglichst schnell zum Führenden aufzuschließen?",
+              "answers": [
+                "Weil Sicherheit und eine kontrollierte, geschlossene Reihe wichtiger sind als Renntempo.",
+                "Weil nur der Letzte langsam fahren muss."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Neutralisation soll die gefährliche Situation beherrschbar machen."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.17",
+            "4.34",
+            "4.35",
+            "4.37"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.14 Neutralisation / Unterbrechung / Fortführung"
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Vorstart und Start",
+          "emoji": "🏁",
+          "minutes": 6,
+          "intro": "Ein Rennen beginnt nicht erst beim Startsignal. Schon im Vorstart und in der Formationsrunde gelten feste Regeln.",
+          "sections": [
+            {
+              "heading": "Der Vorstart ist kein Werkstattplatz",
+              "text": "Im Vorstart werden Fahrer und Karts für den Start gesammelt. Der Bereich wird vor dem Rennen geschlossen. Deshalb musst du rechtzeitig dort sein. Nur die ausdrücklich erlaubten Personen und Dinge dürfen hinein; Arbeiten am Kart sind stark eingeschränkt."
+            },
+            {
+              "heading": "Formationsrunde",
+              "text": "Vor dem Start fahren die Karts in ihrer Startordnung. Diese Runde dient dazu, das Feld für den Start zu formieren. Wer seine Position verloren hat, darf sie nur unter den dafür vorgesehenen Bedingungen wieder einnehmen. Eigenmächtiges Drängeln oder gefährliches Überholen gehört nicht dazu."
+            },
+            {
+              "heading": "Rollend oder stehend",
+              "text": "Im Kartsport gibt es rollende und stehende Starts. Welche Startart verwendet wird, hängt von der Klasse ab. Entscheidend ist immer das Startsignal und die dafür festgelegte Linie beziehungsweise der Zeitpunkt, ab dem wieder überholt werden darf."
+            }
+          ],
+          "remember": "Rechtzeitig im Vorstart sein, Startordnung beachten und erst dann Rennen fahren, wenn der Start wirklich freigegeben ist.",
+          "questions": [
+            {
+              "q": "Warum solltest du nicht erst in letzter Sekunde zum Vorstart kommen?",
+              "answers": [
+                "Weil der Vorstart vor dem Rennen geschlossen wird.",
+                "Weil dort die schnellsten Runden gemessen werden.",
+                "Weil danach automatisch die Startnummer wechselt."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Wer zu spät kommt, kann seinen normalen Startplatz beziehungsweise die normale Startprozedur verlieren."
+            },
+            {
+              "q": "Wozu dient die Formationsrunde?",
+              "answers": [
+                "Das Feld wird für den Start geordnet.",
+                "Sie ist bereits die erste Rennrunde.",
+                "Man darf dort beliebig Plätze tauschen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Fahrer sollen in der vorgesehenen Ordnung zum Start kommen."
+            },
+            {
+              "q": "Gibt es im Kartsport nur eine einzige Startart?",
+              "answers": [
+                "Ja, immer rollend.",
+                "Ja, immer stehend.",
+                "Nein, es gibt rollende und stehende Starts."
+              ],
+              "correct": [
+                2
+              ],
+              "explain": "Je nach Klasse wird unterschiedlich gestartet."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.01",
+            "4.18",
+            "4.19",
+            "4.20",
+            "4.21",
+            "4.22",
+            "4.23",
+            "4.24",
+            "4.29",
+            "4.33",
+            "4.36"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.9–B.12 Vorstart / Formationsrunde / Start / Fehlstart"
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Sicher fahren – auch wenn etwas schiefgeht",
+          "emoji": "🛠️",
+          "minutes": 5,
+          "intro": "Ein Defekt, ein Dreher oder ein langsames Kart darf nicht zu einer zusätzlichen Gefahr für andere werden.",
+          "sections": [
+            {
+              "heading": "Probleme auf der Strecke",
+              "text": "Wenn dein Kart ein Problem hat, ist zuerst wichtig, dass du niemanden gefährdest. Ein liegen gebliebenes Kart wird an eine möglichst sichere Stelle gebracht, soweit das gefahrlos möglich ist. Anweisungen der Sportwarte haben Vorrang."
+            },
+            {
+              "heading": "Langsamer als die anderen",
+              "text": "Wenn du aus irgendeinem Grund deutlich langsamer fahren musst, beobachtest du besonders aufmerksam den Verkehr. Deine Fahrweise muss vorhersehbar sein. Plötzliche Richtungswechsel vor einem schnelleren Kart sind gefährlich."
+            },
+            {
+              "heading": "Zurück auf die Strecke",
+              "text": "Nach einem Ausritt darfst du nicht blind wieder auf die Ideallinie fahren. Eine Rückkehr ist nur so zulässig, dass andere Teilnehmer nicht gefährdet oder behindert werden und die Regeln für fremde Hilfe eingehalten werden."
+            }
+          ],
+          "remember": "Bei einem Problem gilt zuerst: berechenbar bleiben, niemanden gefährden und die Sportwarte beachten.",
+          "questions": [
+            {
+              "q": "Was ist wichtiger, wenn dein Kart plötzlich ein Problem hat?",
+              "answers": [
+                "Trotzdem unbedingt die Position verteidigen.",
+                "Eine zusätzliche Gefahr vermeiden.",
+                "Sofort auf der Ideallinie anhalten."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Sicherheit geht vor dem Rennergebnis."
+            },
+            {
+              "q": "Du kommst nach einem Ausritt zurück zur Strecke. Was musst du besonders beachten?",
+              "answers": [
+                "Andere Fahrer dürfen nicht gefährdet oder behindert werden.",
+                "Du hast immer Vorfahrt.",
+                "Du musst sofort auf die Ideallinie."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die sichere Rückkehr in den Verkehr ist entscheidend."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.25",
+            "4.26",
+            "4.28",
+            "4.31",
+            "4.32",
+            "4.40",
+            "4.43"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.4 Allgemeine Sicherheit / B.13 Fremde Hilfe und Reparaturzone"
+            }
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Reparaturzone und technische Probleme",
+          "emoji": "🔧",
+          "minutes": 5,
+          "intro": "Reparieren darf man im Rennen nicht einfach überall. Dafür gibt es einen festgelegten Bereich.",
+          "sections": [
+            {
+              "heading": "Warum eine Reparaturzone?",
+              "text": "Arbeiten an einem Kart mitten auf oder direkt neben der Rennstrecke wären gefährlich. Die Reparaturzone schafft einen festgelegten Ort, an dem erlaubte Hilfe stattfinden kann. Wer sie anfährt oder wieder verlässt, muss besonders auf den übrigen Verkehr achten."
+            },
+            {
+              "heading": "Fremde Hilfe",
+              "text": "Fremde Hilfe ist während eines Wettbewerbsteils grundsätzlich nur dort erlaubt, wo das Reglement sie zulässt. Deshalb ist die Reparaturzone so wichtig: Sie trennt Reparatur und Hilfe vom normalen Renngeschehen."
+            },
+            {
+              "heading": "Technisches Signal",
+              "text": "Zeigt die Rennleitung die schwarze Flagge mit orangefarbener Scheibe zusammen mit deiner Startnummer, wurde ein technisches Problem erkannt. Dann fährst du bei der nächsten Möglichkeit die Reparaturzone an. Dort kann das Problem behoben werden, soweit die Regeln dies erlauben."
+            }
+          ],
+          "remember": "Reparaturen gehören in die Reparaturzone – nicht irgendwo an die Strecke.",
+          "questions": [
+            {
+              "q": "Warum gibt es eine Reparaturzone?",
+              "answers": [
+                "Damit Arbeiten und Hilfe in einem festgelegten, sichereren Bereich stattfinden.",
+                "Damit man dort überholen kann.",
+                "Damit jede Runde ein Mechaniker das Kart prüfen kann."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Reparaturen sollen vom normalen Rennverkehr getrennt sein."
+            },
+            {
+              "q": "Was bedeutet die schwarze Flagge mit orangefarbener Scheibe zusammen mit deiner Startnummer?",
+              "answers": [
+                "Technisches Problem – Reparaturzone bei der nächsten Möglichkeit anfahren.",
+                "Sofortiger Rennsieg.",
+                "Freie Fahrt ohne Geschwindigkeitsbegrenzung."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Das Signal informiert den betroffenen Fahrer über ein technisches Problem."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.09",
+            "4.22",
+            "4.28",
+            "4.31",
+            "4.40"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.5 Flaggen / B.13 Reparaturzone"
+            }
+          ]
+        },
+        {
+          "id": "4.6",
+          "title": "Frontspoiler: Nicht einfach zurückdrücken",
+          "emoji": "🧩",
+          "minutes": 4,
+          "intro": "Der Frontspoiler besitzt ein Befestigungssystem, das bei einem entsprechenden Kontakt auslösen kann. Danach gelten klare Regeln.",
+          "sections": [
+            {
+              "heading": "Ausgelöst heißt ausgelöst",
+              "text": "Ist das Frontspoiler-Befestigungskit ausgelöst, darfst du es nicht einfach während der Fahrt oder irgendwo am Streckenrand wieder in Position bringen. Das Zurücksetzen wird als Reparatur angesehen."
+            },
+            {
+              "heading": "Während des Wettbewerbsteils",
+              "text": "Soll der Frontspoiler vor dem Ende des Wettbewerbsteils zurückgesetzt werden, darf das ausschließlich in der Reparaturzone geschehen, wenn diese auf dem vorgeschriebenen Weg erreicht wird."
+            },
+            {
+              "heading": "Nach dem Abwinken",
+              "text": "Auch nach der Zielflagge darf nicht sofort am Kart gearbeitet werden. Bis zum Ende des vorgeschriebenen Bereichs rund um die Wiegeprozedur gelten Parc-Fermé-Bedingungen. Erst nach der Freigabe ist der Wettbewerbsteil für diese Frage praktisch erledigt und der Spoiler kann wieder in Ordnung gebracht werden."
+            }
+          ],
+          "remember": "Frontspoiler zurücksetzen = Reparatur. Im Wettbewerb nur Reparaturzone; nach dem Ziel erst nach Freigabe aus dem Parc Fermé.",
+          "questions": [
+            {
+              "q": "Darfst du einen ausgelösten Frontspoiler während der Fahrt mit der Hand zurückdrücken?",
+              "answers": [
+                "Ja.",
+                "Nein."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Das Zurücksetzen gilt als Reparatur."
+            },
+            {
+              "q": "Wo darf der Frontspoiler während des Wettbewerbsteils regelgerecht zurückgesetzt werden?",
+              "answers": [
+                "In der Reparaturzone.",
+                "Auf der Startaufstellung während der Fahrt.",
+                "An jeder sicheren Stelle neben der Strecke."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Während des Wettbewerbsteils ist dafür die Reparaturzone vorgesehen."
+            },
+            {
+              "q": "Darfst du direkt nach der Zielflagge vor der Waage am Frontspoiler arbeiten?",
+              "answers": [
+                "Ja, das Rennen ist ja abgewinkt.",
+                "Nein, dort gelten noch Parc-Fermé-Regeln."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Nach dem Abwinken darf das Kart bis zur Freigabe nicht einfach verändert werden."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.38",
+            "4.42"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.15 Parc Fermé / B.18 Frontspoiler-Befestigung"
+            }
+          ]
+        },
+        {
+          "id": "4.7",
+          "title": "Ziel, Waage und Parc Fermé",
+          "emoji": "⚖️",
+          "minutes": 5,
+          "intro": "Mit der karierten Flagge ist die schnelle Fahrt vorbei – die Regeln aber noch nicht.",
+          "sections": [
+            {
+              "heading": "Nach der Zielflagge",
+              "text": "Nach dem Abwinken fährst du kontrolliert den vorgeschriebenen Weg. Du darfst nicht plötzlich anhalten, feiern oder am Kart schrauben. Die Veranstaltung braucht ein korrektes Ergebnis und möglicherweise technische Kontrollen."
+            },
+            {
+              "heading": "Warum wird gewogen?",
+              "text": "Im Kartsport gelten technische Vorgaben, zu denen auch Gewichtsbestimmungen gehören können. Deshalb führt der Weg nach dem Rennen in den vorgesehenen Wiege- und Parc-Fermé-Bereich. Dort darf das Kart nicht eigenmächtig verändert werden."
+            },
+            {
+              "heading": "Wann ist wirklich Schluss?",
+              "text": "Ein Wettbewerb ist nicht in dem Augenblick vollständig erledigt, in dem du die Zielflagge siehst. Ergebnis, Kontrollen und die vorgesehenen Fristen gehören ebenfalls zum Ablauf. Für dich heißt das vor allem: Nach dem Ziel weiterhin Anweisungen beachten und das Kart erst verändern, wenn es freigegeben ist."
+            }
+          ],
+          "remember": "Zielflagge bedeutet: Fahrt beendet. Sie bedeutet nicht: Regeln beendet.",
+          "questions": [
+            {
+              "q": "Darfst du direkt nach dem Abwinken am Kart etwas verändern?",
+              "answers": [
+                "Ja, immer.",
+                "Nein, im vorgeschriebenen Parc-Fermé-/Wiegebereich nicht."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Nach dem Ziel können Kontrollen folgen; das Kart muss unverändert bleiben."
+            },
+            {
+              "q": "Warum gibt es nach dem Rennen einen Parc Fermé?",
+              "answers": [
+                "Damit Karts für Kontrollen unverändert bleiben.",
+                "Damit dort noch eine Extrarunde gefahren wird.",
+                "Damit Fahrer ihre Startplätze tauschen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Kontrollen sollen am Zustand nach dem Wettbewerb möglich sein."
+            },
+            {
+              "q": "Ist mit dem Sehen der Zielflagge sofort jede Regel des Wettbewerbs erledigt?",
+              "answers": [
+                "Ja.",
+                "Nein."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Nach dem Abwinken folgen noch vorgeschriebene Abläufe und gegebenenfalls Kontrollen."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.07",
+            "4.39",
+            "4.41",
+            "4.42",
+            "4.43",
+            "4.44"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.15 Beendigung des Rennens / Parc Fermé / Nachkontrolle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
