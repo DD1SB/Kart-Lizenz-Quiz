@@ -1,15 +1,13 @@
-# Prüfung der Lösungsschablone
+# Fachliche Prüfung der Lösungsschablone
 
-Der öffentliche DMSB-Fragenkatalog Kart, Stand 01/2025, enthält 111 Fragen, aber keine offizielle Lösungsschablone. Die in `data/questions.json` hinterlegten Lösungen sind daher ein Arbeitsstand.
+111 Fragen, keine im Projekt vorliegende offizielle Lösungsschablone. `data/questions.json` ist bis v1.0 Arbeitsstand.
 
-Jede Frage enthält zusätzlich `solutionStatus: "provisional"` sowie `solutionConfidence` (`high`, `medium` oder `low`). Diese Felder werden von der Web-App derzeit nicht ausgewertet und dienen nur der redaktionellen Prüfung.
+Interne Priorisierung: **high 74 · medium 18 · low 19**. Bitte trotzdem **alle 111 Fragen** prüfen.
 
-Besonders gegenzuprüfen sind derzeit die mit `solutionConfidence: "low"` markierten Fragen. Vor einer öffentlichen Verwendung sollte die Lösungsschablone gegen die für den Fragenkatalog maßgeblichen DMSB-Reglements 2024 bzw. eine Auskunft des Lehrgangsanbieters/DMSB abgeglichen werden.
+Je Frage: alle richtigen markiert? keine falsche? QuickTipp korrekt/kindgerecht? Quelle tragfähig? neuer Regelstand? verständlich für 8–15-Jährige?
 
-Hinweis: Frage 3.10 ist im Original als Matrix aufgebaut. Für die Web-App wurde sie in einzelne Zuordnungs-Antworten umgeformt, ohne die vier abgefragten Wettbewerbe zu verändern. Frage 8.9 wurde intern als `8.09` normalisiert.
+Besonders betrachtet: **4.09, 4.10, 4.17, 4.38**. Frontspoiler: Zurücksetzen = Reparatur; im Wettbewerbsteil nur Reparaturzone; nach Abwinken bis Wiegebereich Parc Fermé.
 
-## v0.3 – QuickTipps und Quellen
+Sonderfälle: **3.10** Matrix umgeformt; **8.9** intern `8.09`.
 
-Jede Frage besitzt nun die Felder `quickTip` und `sources`. QuickTipps sind bewusst kurz und kindgerecht formuliert. Quellenangaben werden nur dort konkretisiert, wo die Zuordnung belastbar ist; weitere Fundstellen werden frageweise ergänzt. Für Kapitel 4 ist zunächst das DMSB-Kart-Reglement 2026, Teil B (Sportliches Reglement), als Primärquelle hinterlegt.
-
-Die App zeigt QuickTipps im Lernmodus erst nach dem Prüfen der Antwort. In der Prüfungssimulation erscheinen sie ausschließlich in der Auswertung falsch beantworteter Fragen.
+Korrekturen bitte mit sichtbarer ID, z. B. `DMSB 4.38`.

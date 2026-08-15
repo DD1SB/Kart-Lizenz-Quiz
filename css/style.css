@@ -13,3 +13,5 @@
 .exam-summary{margin-top:18px;padding:14px 16px;border-radius:14px;background:#f4f6f5}
 .chapter-status{display:grid;gap:10px}.chapter-status-row{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;padding:12px 0;border-bottom:1px solid #e5e7e6}.chapter-status-row small{display:block;color:#68716d;margin-top:3px}.knowledge{font-size:1.15rem;font-weight:800}
 @media(max-width:520px){.score-big{font-size:1.8rem}.chapter-status-row{align-items:start}}
+
+.review-tools{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin:8px 0 14px}.review-id{font-size:.82rem;color:#68716d}.review-id code{font-weight:800}.btn.mini{padding:8px 11px;min-height:0;font-size:.88rem}@media(max-width:520px){.menu.two{grid-template-columns:1fr}.actions .btn{width:100%}.review-tools .btn{width:auto}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.card{padding:18px 15px}}
