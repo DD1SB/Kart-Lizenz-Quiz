@@ -6,3 +6,5 @@
 @media(max-width:520px){.lesson-card{grid-template-columns:auto 1fr auto;padding:13px}.lesson-emoji{font-size:1.65rem}.lesson-intro{font-size:1.1rem}}
 
 .locked-course{opacity:.82;border:2px dashed #c7cbc9;background:#fafafa}.locked-course h2{color:#555}
+
+.continue-card{border:2px solid #bcdac8;background:#f5fbf7}.continue-card h2{margin-bottom:8px}

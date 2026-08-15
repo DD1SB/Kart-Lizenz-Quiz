@@ -87,3 +87,13 @@ Alle 10 Kapitel sind als Kurs angelegt. Die DMSB-Fragen eines Kapitels werden er
 ### GitHub Pages / Cache
 
 Statische Assets tragen in v0.6 einen Versionsparameter; die JSON-Daten werden mit `cache: no-store` geladen. Dadurch sollten neue Deployments ohne alten Kursstand erscheinen.
+
+
+## v0.7 – Lernfluss
+
+- Weiterlernen direkt von der Startseite
+- Kursfortschritt auf der Startseite
+- Falsch beantwortete Verständnisfragen werden innerhalb der Lektion erneut gestellt
+- Eine Lektion ist erst gemeistert, wenn jede Verständnisfrage mindestens einmal richtig beantwortet wurde
+- Eigene Kapitel-Challenge nach Abschluss aller Lektionen; erst danach gezielte Wiederholung der Fehlerfragen
+- Versions-/Startseiteninformationen bereinigt
