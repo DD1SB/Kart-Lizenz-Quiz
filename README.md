@@ -97,3 +97,14 @@ Statische Assets tragen in v0.6 einen Versionsparameter; die JSON-Daten werden m
 - Eine Lektion ist erst gemeistert, wenn jede Verständnisfrage mindestens einmal richtig beantwortet wurde
 - Eigene Kapitel-Challenge nach Abschluss aller Lektionen; erst danach gezielte Wiederholung der Fehlerfragen
 - Versions-/Startseiteninformationen bereinigt
+
+## v0.8 – Prüfung & Statistik
+
+- Prüfungssimulation: 30 zufällige Fragen
+- 60 Minuten Standard-Prüfungszeit; 90/120 Minuten als Übungsmodi
+- Punkteschema: maximal erreichbare Punkte je Frage = Anzahl richtiger Antworten
+- Teilpunkte nur bei ausschließlich korrekten Markierungen; jede falsche Markierung setzt die Frage auf 0 Punkte
+- Bestehensgrenze: 65 %
+- Prüfungsauswertung mit Punkten, Prozent, vollständig richtigen Fragen, Teilpunkten und Null-Punkte-Fragen
+- Prüfungsverlauf lokal gespeichert
+- Statistik nach Kursfortschritt, Kapitel-Challenge, DMSB-Lernmodus und letzter Prüfung getrennt
