@@ -81,4 +81,9 @@ Pilot für Kapitel 4 mit 7 kurzen Lerneinheiten, Verständnisfragen, lokal gespe
 
 ## Kursmodus – Redaktionsfassung v0.6
 
-Alle 10 Kapitel sind als Kurs angelegt. Die DMSB-Fragen eines Kapitels werden erst freigeschaltet, wenn alle Lerneinheiten des Kapitels abgeschlossen sind. Dieser Stand ist ausdrücklich zur fachlichen Durchsicht gedacht (`courseVersion: 0.2-review`).
+Alle 10 Kapitel sind als Kurs angelegt. Die DMSB-Fragen eines Kapitels werden erst freigeschaltet, wenn alle Lerneinheiten des Kapitels abgeschlossen sind. Dieser Stand ist ausdrücklich zur fachlichen Durchsicht gedacht (`courseVersion: 0.2`).
+
+
+### GitHub Pages / Cache
+
+Statische Assets tragen in v0.6 einen Versionsparameter; die JSON-Daten werden mit `cache: no-store` geladen. Dadurch sollten neue Deployments ohne alten Kursstand erscheinen.
