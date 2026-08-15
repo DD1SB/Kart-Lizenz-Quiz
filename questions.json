@@ -1,0 +1,3150 @@
+{
+  "meta": {
+    "title": "Kart-Lizenz-Quiz",
+    "catalog": "Fragenkatalog für DMSB-anerkannte Fahrer-Lizenzlehrgänge Kart",
+    "catalogStand": "01/2025",
+    "regulations": "DMSB-Reglements 2024",
+    "questionCount": 111,
+    "solutionStatus": "in-review",
+    "note": "Der DMSB-Fragenkatalog enthält keine offizielle Lösungsschablone. Die hinterlegten Lösungen sind ein Arbeitsstand und müssen vor einer produktiven Veröffentlichung fachlich gegengeprüft werden.",
+    "source": "DMSB Fragenkatalog Kart, Stand 01/2025",
+    "appVersion": "0.6",
+    "quickTips": "QuickTipps are learning aids; source references are being verified question by question.",
+    "dataVersion": "0.2",
+    "dataUpdated": "2026-08-11",
+    "solutionStatusLabel": "Lösungen und Erklärungen werden fachlich geprüft",
+    "courseVersion": "0.2-review",
+    "courseUpdated": "2026-08-15"
+  },
+  "chapters": {
+    "1": "Struktur CIK und DMSB",
+    "2": "Internationale und Nationale Regelwerke für den Kartsport",
+    "3": "DMSB-Veranstaltungsreglement",
+    "4": "DMSB-Kartreglement und Flaggenkunde",
+    "5": "DMSB-Lizenzbestimmungen",
+    "6": "Recht und Rechtsprechung im Motorsport / Kartsport",
+    "7": "Sportwarte bei Veranstaltungen",
+    "8": "Vorbereitung des Karts / Sicherheitsausrüstung",
+    "9": "Anti-Doping-Bestimmungen",
+    "10": "Fahrverhalten / Fahrphysik"
+  },
+  "questions": [
+    {
+      "id": "1.01",
+      "chapter": 1,
+      "question": "Welche Dachorganisation ist in Deutschland für die Regelungen für den Motorsport zuständig?",
+      "answers": [
+        {
+          "text": "DMSB - Deutscher Motor Sport Bund",
+          "correct": true
+        },
+        {
+          "text": "ADAC",
+          "correct": false
+        },
+        {
+          "text": "Deutsche Automobilsportvereinigung",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: DMSB - Deutscher Motor Sport Bund",
+      "sources": []
+    },
+    {
+      "id": "1.02",
+      "chapter": 1,
+      "question": "Was verstehst du unter „CIK\"?",
+      "answers": [
+        {
+          "text": "Hersteller für Kartreifen",
+          "correct": false
+        },
+        {
+          "text": "Die CIK ist die Kommission für den Kartsport innerhalb der FIA",
+          "correct": true
+        },
+        {
+          "text": "Die CIK stellt die internationalen Fahrerlizenzen für Kartfahrer aus",
+          "correct": false
+        },
+        {
+          "text": "Die CIK ist zuständig für Welt- und Europameisterschaften im Kartsport",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die CIK ist die Kommission für den Kartsport innerhalb der FIA / Die CIK ist zuständig für Welt- und Europameisterschaften im Kartsport",
+      "sources": []
+    },
+    {
+      "id": "1.03",
+      "chapter": 1,
+      "question": "Um an Kartrennen teilnehmen zu können, brauchst du eine Fahrerlizenz. Wo bekommst du diese Lizenz her?",
+      "answers": [
+        {
+          "text": "Ich kann diese Lizenz bei meinem Club kaufen",
+          "correct": false
+        },
+        {
+          "text": "Ich beantrage diese Lizenz im Internet unter dmsb.de",
+          "correct": true
+        },
+        {
+          "text": "Ich sollte mich dazu in meinem Club von einem erfahrenen Kartfahrer oder Trainer beraten lassen",
+          "correct": true
+        },
+        {
+          "text": "Beim Kauf eines Karts erhalte ich auch eine Lizenz",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Ich beantrage diese Lizenz im Internet unter dmsb.de / Ich sollte mich dazu in meinem Club von einem erfahrenen Kartfahrer oder Trainer beraten lassen",
+      "sources": []
+    },
+    {
+      "id": "2.01",
+      "chapter": 2,
+      "question": "Welche Reglements des DMSB sind für den Kartsport maßgebend und deshalb sehr wichtig?",
+      "answers": [
+        {
+          "text": "DMSB-Rundstreckenreglement",
+          "correct": false
+        },
+        {
+          "text": "DMSB-Kartreglement",
+          "correct": true
+        },
+        {
+          "text": "DMSB-Veranstaltungsreglement",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: DMSB-Kartreglement / DMSB-Veranstaltungsreglement",
+      "sources": []
+    },
+    {
+      "id": "2.02",
+      "chapter": 2,
+      "question": "Welche Reglements der CIK-FIA sind auch für die Regelungen im nationalen Kartsport des DMSB maßgebend?",
+      "answers": [
+        {
+          "text": "Spezifische Bestimmungen für die CIK-Meisterschaften/Prädikate (\"Specific Prescriptions\")",
+          "correct": true
+        },
+        {
+          "text": "Technisches Reglement der CIK-FIA (z.B. für die Klassen Mini, OK, OK-Junior, KZ2 etc.)",
+          "correct": true
+        },
+        {
+          "text": "Internationales Sportgesetz der FIA",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Spezifische Bestimmungen für die CIK-Meisterschaften/Prädikate (\"Specific Prescriptions\") / Technisches Reglement der CIK-FIA (z.B. für die Klassen Mini, OK, OK-Junior, KZ2 etc.) / Internationales Sportgesetz der FIA",
+      "sources": []
+    },
+    {
+      "id": "2.03",
+      "chapter": 2,
+      "question": "Welche Fahrerlizenz ist erforderlich, um an einem internationalen Kartrennen teilnehmen zu dürfen?",
+      "answers": [
+        {
+          "text": "Nationale Kart-Lizenz Stufe A",
+          "correct": false
+        },
+        {
+          "text": "Internationale Kart-Lizenz",
+          "correct": true
+        },
+        {
+          "text": "Nationale Fahrerlizenz Stufe C",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Internationale Kart-Lizenz",
+      "sources": []
+    },
+    {
+      "id": "2.04",
+      "chapter": 2,
+      "question": "Welche beiden sind die offiziellen Sprachen der CIK-FIA?",
+      "answers": [
+        {
+          "text": "Englisch und Französisch",
+          "correct": true
+        },
+        {
+          "text": "Englisch und Deutsch",
+          "correct": false
+        },
+        {
+          "text": "Englisch und Italienisch",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Englisch und Französisch",
+      "sources": []
+    },
+    {
+      "id": "2.05",
+      "chapter": 2,
+      "question": "Wo kann ein Kartfahrer die aktuellen Versionen der gültigen nationalen und internationalen Reglements nachlesen?",
+      "answers": [
+        {
+          "text": "Im Internet unter www.dmsb.de",
+          "correct": true
+        },
+        {
+          "text": "Im Internet unter www.kart-magazin.de",
+          "correct": false
+        },
+        {
+          "text": "Im Internet unter www.cikfia.com",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Im Internet unter www.dmsb.de / Im Internet unter www.cikfia.com",
+      "sources": []
+    },
+    {
+      "id": "3.01",
+      "chapter": 3,
+      "question": "Woher kann man die Teilnahmebedingungen einer Veranstaltung erfahren?",
+      "answers": [
+        {
+          "text": "In der Bahnordnung der jeweiligen Rennstrecke",
+          "correct": false
+        },
+        {
+          "text": "In der Veranstaltungsausschreibung",
+          "correct": true
+        },
+        {
+          "text": "Im DMSB-Kartreglement",
+          "correct": false
+        },
+        {
+          "text": "Vom Teamchef",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In der Veranstaltungsausschreibung",
+      "sources": []
+    },
+    {
+      "id": "3.02",
+      "chapter": 3,
+      "question": "Womit beginnt sportrechtlich eine Kart-Veranstaltung?",
+      "answers": [
+        {
+          "text": "Mit der Zuweisung des Platzes im Fahrerlager",
+          "correct": false
+        },
+        {
+          "text": "Mit der Dokumentenabnahme / Registrierung",
+          "correct": true
+        },
+        {
+          "text": "Mit dem ersten freien Training",
+          "correct": false
+        },
+        {
+          "text": "Mit dem ersten Rennstart",
+          "correct": false
+        },
+        {
+          "text": "Mit der Kennzeichnung des Motors beim Technischen Kommissar",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Mit der Dokumentenabnahme / Registrierung",
+      "sources": []
+    },
+    {
+      "id": "3.03",
+      "chapter": 3,
+      "question": "Kann deine Nennung von einem Veranstalter abgelehnt werden?",
+      "answers": [
+        {
+          "text": "Nein, dass kann ein Veranstalter nicht allein entscheiden",
+          "correct": false
+        },
+        {
+          "text": "Ja, der Veranstalter kann eine Nennung ablehnen, wenn er die Ablehnung begründet",
+          "correct": true
+        },
+        {
+          "text": "Der Veranstalter darf eine Nennung auch ohne Begründung ablehnen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Ja, der Veranstalter kann eine Nennung ablehnen, wenn er die Ablehnung begründet",
+      "sources": []
+    },
+    {
+      "id": "3.04",
+      "chapter": 3,
+      "question": "Was musst du bei der Dokumentenabnahme/Registrierung unbedingt vorzeigen?",
+      "answers": [
+        {
+          "text": "Lizenzen vom Fahrer und Bewerber, wenn dieser nicht gleich dem Fahrer ist",
+          "correct": true
+        },
+        {
+          "text": "Gültiger Führerschein oder Fahrerlaubnis",
+          "correct": false
+        },
+        {
+          "text": "Nennbestätigung",
+          "correct": true
+        },
+        {
+          "text": "Nenngeld in bar",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Lizenzen vom Fahrer und Bewerber, wenn dieser nicht gleich dem Fahrer ist / Nennbestätigung",
+      "sources": []
+    },
+    {
+      "id": "3.05",
+      "chapter": 3,
+      "question": "Zur Technischen Abnahme musst du dem Technischen Kommissar dein Kart zur Kontrolle vorstellen. Was musst du noch vorzeigen?",
+      "answers": [
+        {
+          "text": "Sicherheitsausrüstung (Fahreranzug, Helm, Handschuhe und Schuhe)",
+          "correct": true
+        },
+        {
+          "text": "Das einsatzbereite Kart",
+          "correct": true
+        },
+        {
+          "text": "Eine Probe des verwendeten Kraftstoffs",
+          "correct": false
+        },
+        {
+          "text": "Kartwagen / Trolley",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Sicherheitsausrüstung (Fahreranzug, Helm, Handschuhe und Schuhe) / Das einsatzbereite Kart",
+      "sources": []
+    },
+    {
+      "id": "3.06",
+      "chapter": 3,
+      "question": "Woher kannst du wissen, ob und wann eine Fahrerbesprechung durchgeführt wird?",
+      "answers": [
+        {
+          "text": "In der Ausschreibung ist beschrieben, wann und wo die Fahrerbesprechung stattfindet",
+          "correct": true
+        },
+        {
+          "text": "Die Fahrerbesprechung ist auch im offiziellen Zeitplan der Veranstaltung aufgeführt",
+          "correct": true
+        },
+        {
+          "text": "Die Fahrerbesprechung ist individuell und muss nicht unbedingt durchgeführt werden",
+          "correct": false
+        },
+        {
+          "text": "Das teilt mir mein Teamchef mit",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In der Ausschreibung ist beschrieben, wann und wo die Fahrerbesprechung stattfindet / Die Fahrerbesprechung ist auch im offiziellen Zeitplan der Veranstaltung aufgeführt",
+      "sources": []
+    },
+    {
+      "id": "3.07",
+      "chapter": 3,
+      "question": "Muss der Fahrer selbst bei der Fahrerbesprechung dabei sein, oder genügt es, wenn die Eltern anwesend sind?",
+      "answers": [
+        {
+          "text": "Die Anwesenheit beider Eltern ist ausreichend",
+          "correct": false
+        },
+        {
+          "text": "Es genügt, wenn nur ein Elternteil bei der Fahrerbesprechung anwesend ist",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer muss bei der Fahrerbesprechung anwesend sein",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer muss bei der Fahrerbesprechung anwesend sein",
+      "sources": []
+    },
+    {
+      "id": "3.08",
+      "chapter": 3,
+      "question": "Von wem wird in der Regel die Fahrerbesprechung durchgeführt?",
+      "answers": [
+        {
+          "text": "Vom Besitzer der Kartbahn",
+          "correct": false
+        },
+        {
+          "text": "Vom Rennleiter oder Renndirektor",
+          "correct": true
+        },
+        {
+          "text": "Vom Rennsekretär",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Vom Rennleiter oder Renndirektor",
+      "sources": []
+    },
+    {
+      "id": "3.09",
+      "chapter": 3,
+      "question": "Ein Teilnehmer eines Kartrennens sollte unbedingt wissen, welchen Status (z. B. Clubsport, National, Internationale usw.) der Wettbewerb seiner Klasse hat. Woher kann er das erfahren?",
+      "answers": [
+        {
+          "text": "Aus dem Terminkalender",
+          "correct": false
+        },
+        {
+          "text": "Aus der Veranstaltungsausschreibung",
+          "correct": true
+        },
+        {
+          "text": "Aus den Informationen zur Fahrerbesprechung",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Aus der Veranstaltungsausschreibung",
+      "sources": []
+    },
+    {
+      "id": "3.10",
+      "chapter": 3,
+      "question": "Welchen Status haben die folgenden Wettbewerbe? Welche Zuordnungen sind richtig?",
+      "answers": [
+        {
+          "text": "Rennen zum Norddeutschen ADAC Kart Cup (NAKC): Clubsport",
+          "correct": true
+        },
+        {
+          "text": "Rennen zum Norddeutschen ADAC Kart Cup (NAKC): National A",
+          "correct": false
+        },
+        {
+          "text": "Rennen zum Norddeutschen ADAC Kart Cup (NAKC): International",
+          "correct": false
+        },
+        {
+          "text": "Kart-Europameisterschaft in Wackersdorf: Clubsport",
+          "correct": false
+        },
+        {
+          "text": "Kart-Europameisterschaft in Wackersdorf: National A",
+          "correct": false
+        },
+        {
+          "text": "Kart-Europameisterschaft in Wackersdorf: International",
+          "correct": true
+        },
+        {
+          "text": "ADAC Kart Masters: Clubsport",
+          "correct": false
+        },
+        {
+          "text": "ADAC Kart Masters: National A",
+          "correct": true
+        },
+        {
+          "text": "ADAC Kart Masters: International",
+          "correct": false
+        },
+        {
+          "text": "Rotax Max Challenge Germany: Clubsport",
+          "correct": false
+        },
+        {
+          "text": "Rotax Max Challenge Germany: National A",
+          "correct": true
+        },
+        {
+          "text": "Rotax Max Challenge Germany: International",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Rennen zum Norddeutschen ADAC Kart Cup (NAKC): Clubsport / Kart-Europameisterschaft in Wackersdorf: International / ADAC Kart Masters: National A / Rotax Max Challenge Germany: National A",
+      "sources": []
+    },
+    {
+      "id": "3.11",
+      "chapter": 3,
+      "question": "Wie heißt die offizielle Beschwerdemöglichkeit bei einem DMSB-Kartrennen, die das Sportrecht vorsieht, wenn ein Teilnehmer mit dem Verhalten eines anderen Teilnehmers seiner Klasse nicht einverstanden ist?",
+      "answers": [
+        {
+          "text": "Beschwerde",
+          "correct": false
+        },
+        {
+          "text": "Protest",
+          "correct": true
+        },
+        {
+          "text": "Berufung",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Protest",
+      "sources": []
+    },
+    {
+      "id": "3.12",
+      "chapter": 3,
+      "question": "Wie lange hat ein Teilnehmer Zeit, das Protestrecht anzuwenden, wenn er mit dem Ergebnis eines Rennens, welches am Aushang hängt, nicht einverstanden ist?",
+      "answers": [
+        {
+          "text": "30 Minuten",
+          "correct": true
+        },
+        {
+          "text": "1 Stunde",
+          "correct": false
+        },
+        {
+          "text": "Bis zum Montag nach der Veranstaltung 12:00 Uhr",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: 30 Minuten",
+      "sources": []
+    },
+    {
+      "id": "3.13",
+      "chapter": 3,
+      "question": "Sind die 3 erstplatzierten zur Teilnahme an der Siegerehrung verpflichtet?",
+      "answers": [
+        {
+          "text": "Nein",
+          "correct": false
+        },
+        {
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "text": "Nur, wenn die Siegerehrung unmittelbar nach dem betreffenden Rennen stattfindet",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja",
+      "sources": []
+    },
+    {
+      "id": "3.14",
+      "chapter": 3,
+      "question": "Was    muss ein      Teilnehmer    tun,     wenn er kurzfristig                             an     der Veranstaltungsteilnahme verhindert ist (z. B. Krankheit)?",
+      "answers": [
+        {
+          "text": "Er muss nichts tun.",
+          "correct": false
+        },
+        {
+          "text": "Er muss sich beim Veranstalter sobald als möglich abmelden/entschuldigen",
+          "correct": true
+        },
+        {
+          "text": "Es genügt, in der Folgewoche den Veranstalter entsprechend zu informieren",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss sich beim Veranstalter sobald als möglich abmelden/entschuldigen",
+      "sources": []
+    },
+    {
+      "id": "3.15",
+      "chapter": 3,
+      "question": "Was hat ein Fahrer zu beachten, wenn er vor dem Ende des Wettbewerbs die Veranstaltung verlassen und nach Hause fahren möchte?",
+      "answers": [
+        {
+          "text": "Er sagt dem Nachbarteam im Fahrerlager Bescheid",
+          "correct": false
+        },
+        {
+          "text": "Er muss gar nichts tun, denn es ist ihm überlassen, wann er die Veranstaltung verlassen möchte",
+          "correct": false
+        },
+        {
+          "text": "Er muss sich im Rennbüro abmelden",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss sich im Rennbüro abmelden",
+      "sources": []
+    },
+    {
+      "id": "3.16",
+      "chapter": 3,
+      "question": "Worauf hat ein Teilnehmer zu achten, wenn er am Ende einer Veranstaltung seinen Platz im Fahrerlager verlässt?",
+      "answers": [
+        {
+          "text": "Mit seinem Nenngeld hat er die Reinigung des Fahrerlagers mit bezahlt und muss nichts beachten",
+          "correct": false
+        },
+        {
+          "text": "Er muss seinen Platz sauber und ohne Zurücklassen von Müll verlassen",
+          "correct": true
+        },
+        {
+          "text": "Er muss darauf achten, dass alle Abfälle umweltgerecht entsorgt werden",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss seinen Platz sauber und ohne Zurücklassen von Müll verlassen / Er muss darauf achten, dass alle Abfälle umweltgerecht entsorgt werden",
+      "sources": []
+    },
+    {
+      "id": "4.01",
+      "chapter": 4,
+      "question": "Welche Startarten sind im Kartsport möglich?",
+      "answers": [
+        {
+          "text": "Rollender Start",
+          "correct": true
+        },
+        {
+          "text": "Le Mans-Start",
+          "correct": false
+        },
+        {
+          "text": "Stehender Start",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Rollender Start / Stehender Start",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.02",
+      "chapter": 4,
+      "question": "Was muss ein Teilnehmer absolviert haben, bevor er sein freies Training aufnehmen kann?",
+      "answers": [
+        {
+          "text": "Absolvierung der Dokumentenabnahme",
+          "correct": true
+        },
+        {
+          "text": "Er kann jederzeit fahren, wenn seine Klasse vorgesehen ist. Das freie Training ist nicht offiziell",
+          "correct": false
+        },
+        {
+          "text": "Das Kart muss die Technische Abnahme erfolgreich absolviert haben",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Absolvierung der Dokumentenabnahme / Das Kart muss die Technische Abnahme erfolgreich absolviert haben",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.03",
+      "chapter": 4,
+      "question": "Wodurch wird die Rennstrecke rechts und links begrenzt?",
+      "answers": [
+        {
+          "text": "Durch die vorhandene Grasnarbe",
+          "correct": false
+        },
+        {
+          "text": "Durch die Breite der Kerbs",
+          "correct": false
+        },
+        {
+          "text": "Durch die weiße Begrenzungslinie",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Durch die weiße Begrenzungslinie",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.04",
+      "chapter": 4,
+      "question": "Gehören die Kerbs zur Rennstreckenbreite?",
+      "answers": [
+        {
+          "text": "Nur dann, wenn sie farblich markiert sind",
+          "correct": false
+        },
+        {
+          "text": "Nein, Kerbs gehören nicht zur Rennstreckenbreite",
+          "correct": true
+        },
+        {
+          "text": "Nur dann, wenn dadurch die Rennstreckenbreite 10 Meter nicht überschreitet",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein, Kerbs gehören nicht zur Rennstreckenbreite",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.05",
+      "chapter": 4,
+      "question": "Welche der nachstehenden Situationen sind zulässig und werden vom Rennleiter nicht bestraft?",
+      "answers": [
+        {
+          "text": "Der Fahrer darf mit seinem Kart mit zwei Rädern über die Fahrbahnbegrenzung fahren",
+          "correct": true
+        },
+        {
+          "text": "Die Räder seines Karts dürfen sich komplett außerhalb der Rennstreckenbegrenzung befinden",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer darf sich beim versehentlichen Verlassen der Rennstrecke keinen Vorteil verschaffen",
+          "correct": true
+        },
+        {
+          "text": "Nur wenn ein Überholvorgang es erfordert, darf er die Strecke kurzzeitig verlassen",
+          "correct": false
+        },
+        {
+          "text": "Es darf mit allen vier Rädern die Kerbs jederzeit befahren, wenn der Kerb breit genug ist",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer darf mit seinem Kart mit zwei Rädern über die Fahrbahnbegrenzung fahren / Der Fahrer darf sich beim versehentlichen Verlassen der Rennstrecke keinen Vorteil verschaffen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.06",
+      "chapter": 4,
+      "question": "Was muss ein Fahrer tun, wenn während des freien Trainings an den Streckenposten die rote Flagge geschwenkt wird?",
+      "answers": [
+        {
+          "text": "Er muss am Streckenposten, der die rote Flagge zeigt sofort anhalten",
+          "correct": false
+        },
+        {
+          "text": "Er muss seine Geschwindigkeit reduzieren",
+          "correct": true
+        },
+        {
+          "text": "Er fährt die Runde vorsichtig zu Ende und fährt zurück in den Servicebereich",
+          "correct": true
+        },
+        {
+          "text": "Er darf nicht mehr überholen",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Er muss seine Geschwindigkeit reduzieren / Er fährt die Runde vorsichtig zu Ende und fährt zurück in den Servicebereich / Er darf nicht mehr überholen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.07",
+      "chapter": 4,
+      "question": "Was muss ein Fahrer tun, wenn am Ende des Rennens an der Ziellinie die schwarz-weiß karierte Flagge geschwenkt wird?",
+      "answers": [
+        {
+          "text": "Das Rennen ist zu Ende und die Geschwindigkeit muss reduziert werden (es gilt Überholverbot)",
+          "correct": true
+        },
+        {
+          "text": "Er kann während der Runde nach dieser Flagge anhalten und sich von den Zuschauern feiern lassen",
+          "correct": false
+        },
+        {
+          "text": "Es können alle anderen Teilnehmer mit entsprechender Vorsicht überholt werden",
+          "correct": false
+        },
+        {
+          "text": "Er kann vorsichtig anhalten und ohne fremde Hilfe notwendige Reparaturen durchführen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Das Rennen ist zu Ende und die Geschwindigkeit muss reduziert werden (es gilt Überholverbot)",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.08",
+      "chapter": 4,
+      "question": "Ein Fahrer sieht bei Start und Ziel eine schwarz-weiß diagonal gestreifte Flagge in Verbindung mit seiner Startnummer. Welche Bedeutung hat diese Flagge für ihn?",
+      "answers": [
+        {
+          "text": "Er darf nun nicht mehr überholen",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer wird vom Rennleiter wegen seiner Fahrweise verwarnt",
+          "correct": true
+        },
+        {
+          "text": "Der Fahrer muss das Rennen beenden und sich beim Rennleiter melden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer wird vom Rennleiter wegen seiner Fahrweise verwarnt",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.09",
+      "chapter": 4,
+      "question": "Welche Bedeutung hat die still gehaltene schwarze Flagge mit einer orangefarbenen Scheibe in Verbindung mit einer Startnummer während des Rennens?",
+      "answers": [
+        {
+          "text": "Das Rennen ist unterbrochen und alle Teilnehmer müssen am Ziel anhalten",
+          "correct": false
+        },
+        {
+          "text": "Der betreffende Fahrer wird vom Rennleiter wegen seiner Fahrweise verwarnt",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer wird aufgefordert, wegen eines technischen Defektes bei der nächsten Möglichkeit, die Reparaturzone anzufahren",
+          "correct": true
+        },
+        {
+          "text": "Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer muss innerhalb der nächsten drei Runden in den Reparaturbereich einfahren",
+          "correct": true
+        },
+        {
+          "text": "Der Fahrer darf im Reparaturbereich die Hilfe seines Mechanikers in Anspruch nehmen",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer wird aufgefordert, wegen eines technischen Defektes bei der nächsten Möglichkeit, die Reparaturzone anzufahren / Der Fahrer muss innerhalb der nächsten drei Runden in den Reparaturbereich einfahren / Der Fahrer darf im Reparaturbereich die Hilfe seines Mechanikers in Anspruch nehmen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.10",
+      "chapter": 4,
+      "question": "Welche Bedeutung hat die still gehaltene schwarze Flagge in Verbindung mit einer Startnummer während des Rennens? Was muss ein Fahrer tun?",
+      "answers": [
+        {
+          "text": "Der betreffende Fahrer wird aufgefordert, wegen eines technischen Defektes in die Reparaturzone zu fahren",
+          "correct": false
+        },
+        {
+          "text": "Der betreffende Fahrer wird vom Rennleiter wegen seiner Fahrweise verwarnt",
+          "correct": false
+        },
+        {
+          "text": "Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden",
+          "correct": true
+        },
+        {
+          "text": "Der betreffende Fahrer ist von diesem Rennen disqualifiziert",
+          "correct": true
+        },
+        {
+          "text": "Der betreffende Fahrer ist von dieser Veranstaltung disqualifiziert",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Der betreffende Fahrer muss das Rennen beenden und sich beim Rennleiter melden / Der betreffende Fahrer ist von diesem Rennen disqualifiziert",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.11",
+      "chapter": 4,
+      "question": "Was bedeutet die gelbe Flagge und was muss der Fahrer beachten, wenn während des Trainings oder des Rennens an einem Streckenposten die gelbe Flagge geschwenkt wird?",
+      "answers": [
+        {
+          "text": "Es ist jetzt die letzte Runde",
+          "correct": false
+        },
+        {
+          "text": "Die gelbe Flagge bedeutet Gefahr im folgenden Streckenabschnitt",
+          "correct": true
+        },
+        {
+          "text": "Es darf nicht mehr überholt werden",
+          "correct": true
+        },
+        {
+          "text": "Die Geschwindigkeit muss nicht reduziert werden, da nur eine gelbe Flagge gezeigt wird",
+          "correct": false
+        },
+        {
+          "text": "Es ist ganz rechts zu fahren",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die gelbe Flagge bedeutet Gefahr im folgenden Streckenabschnitt / Es darf nicht mehr überholt werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.12",
+      "chapter": 4,
+      "question": "Was bedeutet und was muss der Fahrer beachten, wenn während des Trainings oder des Rennens an einem Streckenposten doppelte gelbe Flaggen geschwenkt werden?",
+      "answers": [
+        {
+          "text": "Die gelben Flaggen bedeuten Gefahr im folgenden Streckenabschnitt",
+          "correct": true
+        },
+        {
+          "text": "Es befindet sich ein Hindernis (Kart) oder auch Sportwarte auf der Strecke",
+          "correct": true
+        },
+        {
+          "text": "Es gilt Überholverbot",
+          "correct": true
+        },
+        {
+          "text": "Die Geschwindigkeit muss stark reduziert werden, notfalls muss man anhalten können",
+          "correct": true
+        },
+        {
+          "text": "Es ist ganz rechts zu fahren",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die gelben Flaggen bedeuten Gefahr im folgenden Streckenabschnitt / Es befindet sich ein Hindernis (Kart) oder auch Sportwarte auf der Strecke / Es gilt Überholverbot / Die Geschwindigkeit muss stark reduziert werden, notfalls muss man anhalten können",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.13",
+      "chapter": 4,
+      "question": "Was muss der Fahrer beachten, wenn während des Trainings oder des Rennens an den Streckenposten gelbe Flaggen mit roten Streifen gezeigt werden?",
+      "answers": [
+        {
+          "text": "Es ist die letzte Runde",
+          "correct": false
+        },
+        {
+          "text": "Es befindet sich ein Hindernis (Kart) oder auch Sportwarte auf der Strecke",
+          "correct": false
+        },
+        {
+          "text": "Es darf nicht mehr überholt werden",
+          "correct": false
+        },
+        {
+          "text": "Vorsicht, die Streckenbeschaffenheit hat sich verschlechtert (Nässe, Schmutz o. ä.)",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Vorsicht, die Streckenbeschaffenheit hat sich verschlechtert (Nässe, Schmutz o. ä.)",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.14",
+      "chapter": 4,
+      "question": "Was muss der Fahrer beachten, wenn ihm während des Rennens an einem oder mehreren Streckenposten blaue Flaggen gezeigt werden?",
+      "answers": [
+        {
+          "text": "Es darf nicht mehr überholt werden",
+          "correct": false
+        },
+        {
+          "text": "Da sich schnellere Fahrer dahinter befinden, muss er schnellstmöglich das Überholen ermöglicht werden",
+          "correct": true
+        },
+        {
+          "text": "Der Fahrer muss so schnell wie möglich die Ideallinie verlassen",
+          "correct": true
+        },
+        {
+          "text": "Für den betreffenden Fahrer ist das Rennen beendet",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Da sich schnellere Fahrer dahinter befinden, muss er schnellstmöglich das Überholen ermöglicht werden / Der Fahrer muss so schnell wie möglich die Ideallinie verlassen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.15",
+      "chapter": 4,
+      "question": "Was muss der Fahrer beachten, wenn die weiße Flagge geschwenkt wird?",
+      "answers": [
+        {
+          "text": "Es darf nicht mehr überholt werden",
+          "correct": false
+        },
+        {
+          "text": "Vorsicht, ein langsames Fahrzeug befindet sich unmittelbar vor ihm",
+          "correct": true
+        },
+        {
+          "text": "Langsam fahren, das Rennen ist neutralisiert",
+          "correct": false
+        },
+        {
+          "text": "Vorsicht, die Streckenbeschaffenheit hat sich verschlechtert (Nässe, Schmutz o. ä.)",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Vorsicht, ein langsames Fahrzeug befindet sich unmittelbar vor ihm",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.16",
+      "chapter": 4,
+      "question": "Was bedeutet eine geschwenkte grüne Flagge an einem Streckenposten, nachdem am Posten vorher eine gelbe Flagge gezeigt wurde?",
+      "answers": [
+        {
+          "text": "Das Überholverbot ist ab der gezeigten grünen Flagge aufgehoben",
+          "correct": true
+        },
+        {
+          "text": "Das Überholverbot ist aufgehoben, sobald der Fahrer die grüne Flagge sehen kann",
+          "correct": false
+        },
+        {
+          "text": "Diese Flagge hat für Fahrer keine Bedeutung, sie dient nur der Information der Streckenposten",
+          "correct": false
+        },
+        {
+          "text": "Es kann wieder im normalen Renntempo weitergefahren werden",
+          "correct": true
+        },
+        {
+          "text": "Die grüne Flagge wird in der Einführungsrunde gezeigt",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Das Überholverbot ist ab der gezeigten grünen Flagge aufgehoben / Es kann wieder im normalen Renntempo weitergefahren werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.17",
+      "chapter": 4,
+      "question": "Während eines Rennens werden von den Sportwarten der Streckensicherung gelbe Flaggen geschwenkt und ein Schild „SLOW“ gezeigt. Was ist damit gemeint und was müssen die Fahrer beachten.",
+      "answers": [
+        {
+          "text": "Das Rennen ist jetzt neutralisiert und es herrscht Überholverbot",
+          "correct": true
+        },
+        {
+          "text": "Der führende Fahrer ist für die reduzierte Geschwindigkeit verantwortlich",
+          "correct": true
+        },
+        {
+          "text": "Es ist in Doppel-Formation zu fahren",
+          "correct": false
+        },
+        {
+          "text": "Es ist in einer Reihe hinter dem Führenden so geschlossen wie möglich zu fahren",
+          "correct": true
+        },
+        {
+          "text": "Die Runden unter \"SLOW\"-Bedingungen gehören nicht zur vorgesehenen Rundenzahl des Rennens",
+          "correct": false
+        },
+        {
+          "text": "Die maximal zulässige Geschwindigkeit beträgt 50 km/h",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Das Rennen ist jetzt neutralisiert und es herrscht Überholverbot / Der führende Fahrer ist für die reduzierte Geschwindigkeit verantwortlich / Es ist in einer Reihe hinter dem Führenden so geschlossen wie möglich zu fahren / Die maximal zulässige Geschwindigkeit beträgt 50 km/h",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.18",
+      "chapter": 4,
+      "question": "Der Vorstartbereich ist ein besonderer Bereich. Bis zu welchem Zeitpunkt vor einem Rennen ist es erlaubt, in den Vorstartbereich zu kommen?",
+      "answers": [
+        {
+          "text": "Der Vorstartbereich kann jederzeit betreten werden.",
+          "correct": false
+        },
+        {
+          "text": "Der Vorstartbereich kann bis zum Schließen des Vorstarttors betreten werden",
+          "correct": false
+        },
+        {
+          "text": "Der Vorstartbereich kann bis 3 Minuten vor der geplanten Startzeit betreten werden",
+          "correct": false
+        },
+        {
+          "text": "Der Vorstartbereich kann bis 5 Minuten vor der geplanten Startzeit betreten werden",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Vorstartbereich kann bis 5 Minuten vor der geplanten Startzeit betreten werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.19",
+      "chapter": 4,
+      "question": "Welches Reservematerial darf zusätzlich zum rennfertigen Kart mit in den Vorstartbereich genommen werden?",
+      "answers": [
+        {
+          "text": "Es darf kein Reservematerial in den Vorstartbereich mitgenommen werden",
+          "correct": true
+        },
+        {
+          "text": "Es darf ein Ersatzrad für vorn und eines für hinten in den Vorstartbereich mitgenommen werden",
+          "correct": false
+        },
+        {
+          "text": "Es darf ein Ersatz-Frontspoiler mitgenommen werden",
+          "correct": false
+        },
+        {
+          "text": "Es darf eine Reserve-Zündkerze mitgenommen werden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Es darf kein Reservematerial in den Vorstartbereich mitgenommen werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.20",
+      "chapter": 4,
+      "question": "Wer darf mit dem Fahrer den Vorstartbereich betreten?",
+      "answers": [
+        {
+          "text": "In den Juniorenklassen ein Elternteil",
+          "correct": false
+        },
+        {
+          "text": "Ein Mechaniker",
+          "correct": true
+        },
+        {
+          "text": "Zwei Mechaniker",
+          "correct": false
+        },
+        {
+          "text": "Ein Mechaniker und ein Elternteil",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ein Mechaniker",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.21",
+      "chapter": 4,
+      "question": "Welche Arbeiten und welche Einstellungen dürfen im Vorstartbereich am Kart noch durchgeführt werden?",
+      "answers": [
+        {
+          "text": "Es darf die Zündkerze gewechselt werden",
+          "correct": false
+        },
+        {
+          "text": "Es dürfen die Räder gewechselt werden",
+          "correct": false
+        },
+        {
+          "text": "Es darf der Luftdruck der Reifen korrigiert werden",
+          "correct": true
+        },
+        {
+          "text": "Es darf die Spur eingestellt werden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Es darf der Luftdruck der Reifen korrigiert werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.22",
+      "chapter": 4,
+      "question": "Was kann ein Fahrer tun, wenn er zu spät kommt und der Vorstartbereich bereits geschlossen ist, aber er das Rennen trotzdem noch aufnehmen möchte?",
+      "answers": [
+        {
+          "text": "Er kann das Vorstarttor selbst wieder öffnen, so lange die Karts noch im Vorstart stehen",
+          "correct": false
+        },
+        {
+          "text": "Er kann noch mit allen anderen starten, erhält aber eine 10-Sekunden-Zeitstrafe",
+          "correct": false
+        },
+        {
+          "text": "Er muss 125,- Euro Geldstrafe zahlen",
+          "correct": false
+        },
+        {
+          "text": "Er kann nur noch von der Reparaturzone aus ins Rennen nachstarten",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er kann nur noch von der Reparaturzone aus ins Rennen nachstarten",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.23",
+      "chapter": 4,
+      "question": "Wie heißt die Runde, die vor dem eigentlichen Start gefahren wird?",
+      "answers": [
+        {
+          "text": "Formationsrunde",
+          "correct": true
+        },
+        {
+          "text": "Aufwärmrunde",
+          "correct": false
+        },
+        {
+          "text": "Sightseeing Lap",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Formationsrunde",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.24",
+      "chapter": 4,
+      "question": "Ein Fahrer der Klasse Bambini war Trainingsschnellster uns steht zum Rennen 1 normalerweise auf Startplatz eins. Sein Motor springt allerdings etwas verspätet an und er kann den Vorstart erst im Mittelfeld verlassen. Darf er bis zum Start überholen um seinen \"richtigen\" Startplatz wieder einnehmen zu können und was hat er dabei zu beachten?",
+      "answers": [
+        {
+          "text": "Ja er darf überholen, wenn dadurch kein anderer Fahrer behindert/gefährdet wird",
+          "correct": true
+        },
+        {
+          "text": "Er darf bis zur „roten Linie“ überholen",
+          "correct": true
+        },
+        {
+          "text": "Er muss sich dort einsortieren, wo er sich gerade befindet",
+          "correct": false
+        },
+        {
+          "text": "Er muss sich bis auf den letzten Platz zurückfallen lassen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ja er darf überholen, wenn dadurch kein anderer Fahrer behindert/gefährdet wird / Er darf bis zur „roten Linie“ überholen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.25",
+      "chapter": 4,
+      "question": "Während des freien Trainings bleibt ein Fahrer mit defektem Kart auf der Strecke stehen. Was muss der Fahrer tun?",
+      "answers": [
+        {
+          "text": "Er kann das Kart versuchen zu reparieren",
+          "correct": false
+        },
+        {
+          "text": "Er muss das Kart so schnell wie möglich von der Rennstrecke entfernen",
+          "correct": true
+        },
+        {
+          "text": "Er kann das Kart den Rest der Runde schieben und in die Reparaturzone rollen",
+          "correct": false
+        },
+        {
+          "text": "Sein Mechaniker kann zu Hilfe kommen und gemeinsam können sie einen Reparaturversuch unternehmen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er muss das Kart so schnell wie möglich von der Rennstrecke entfernen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.26",
+      "chapter": 4,
+      "question": "Das Zeittraining hat begonnen. Ein Fahrer beginnt erst nach etwa 3 Minuten sein Training. Er weiß, dass er wenigstens noch zwei Runden etwas zurückhaltend fahren soll, da sein Mechaniker einen neuen Kolben in seinen Motor einbauen musste. Was muss der Fahrer bei seiner zunächst verhaltener Fahrweise unbedingt beachten?",
+      "answers": [
+        {
+          "text": "Er fährt schonend und hebt diese zwei Runden einen Arm",
+          "correct": true
+        },
+        {
+          "text": "Er darf die gesamte Fahrbeinbreite nutzen und die anderen suchen sich die beste Linie zum Überholen",
+          "correct": false
+        },
+        {
+          "text": "Er muss mit größter Rücksicht außerhalb der Ideallinie fahren",
+          "correct": true
+        },
+        {
+          "text": "Er darf keinen anderen Fahrer auf seiner schnellen Runde behindern",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Er fährt schonend und hebt diese zwei Runden einen Arm / Er muss mit größter Rücksicht außerhalb der Ideallinie fahren / Er darf keinen anderen Fahrer auf seiner schnellen Runde behindern",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.27",
+      "chapter": 4,
+      "question": "Der Rennleiter erklärt ein Rennen zum \"Wet Race\" oder \"Regenrennen\". Was hat das hinsichtlich der Verwendung der Reifen zu bedeuten?",
+      "answers": [
+        {
+          "text": "Es müssen unbedingt Regenreifen gefahren werden",
+          "correct": false
+        },
+        {
+          "text": "Es ist dem Fahrer freigestellt, vier Regenreifen oder vier Slickreifen zu montieren",
+          "correct": true
+        },
+        {
+          "text": "Der Fahrer muss ein Regenvisier an seinem Helm verwenden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Es ist dem Fahrer freigestellt, vier Regenreifen oder vier Slickreifen zu montieren",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.28",
+      "chapter": 4,
+      "question": "Was muss ein Fahrer beachten, wenn er während des Trainings oder eines Rennens in die Boxengasse einfahren möchte?",
+      "answers": [
+        {
+          "text": "Er muss besonders auf die nachfolgenden Fahrer achten",
+          "correct": true
+        },
+        {
+          "text": "Er darf die Trennlinie zwischen Rennstrecke und Boxeneinfahrt nicht mehr überfahren",
+          "correct": true
+        },
+        {
+          "text": "Er muss bereits an dem letzten Streckenposten vor der Einfahrt Schrittgeschwindigkeit fahren",
+          "correct": false
+        },
+        {
+          "text": "Er muss die Geschwindigkeit reduzieren, damit er gefahrlos in die Boxengasse einfahren kann",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Er muss besonders auf die nachfolgenden Fahrer achten / Er darf die Trennlinie zwischen Rennstrecke und Boxeneinfahrt nicht mehr überfahren / Er muss die Geschwindigkeit reduzieren, damit er gefahrlos in die Boxengasse einfahren kann",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.29",
+      "chapter": 4,
+      "question": "Der Inhaber des Startplatz eins darf, sofern er das möchte, auch von der anderen Seite starten und mit Startplatz zwei tauschen. Wann muss er diesen Wunsch des Startplatzwechsels bekanntgeben?",
+      "answers": [
+        {
+          "text": "Das muss er bereits zur Fahrerbesprechung bekannt geben",
+          "correct": false
+        },
+        {
+          "text": "Bis zum Verlassen des Vorstartbereiches muss er den Rennleiter informiert haben",
+          "correct": true
+        },
+        {
+          "text": "Er muss niemanden informieren; er nimmt einfach diese Position am Ende der Formationsrunde ein",
+          "correct": false
+        },
+        {
+          "text": "Er kann den Startplatz nur tauschen, wenn der andere Fahrer damit einverstanden ist",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Bis zum Verlassen des Vorstartbereiches muss er den Rennleiter informiert haben",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.30",
+      "chapter": 4,
+      "question": "Wie hoch darf die Geschwindigkeit in der Boxengasse sein?",
+      "answers": [
+        {
+          "text": "Maximal 30 km/h",
+          "correct": false
+        },
+        {
+          "text": "Maximal 60 km/h",
+          "correct": false
+        },
+        {
+          "text": "Die Geschwindigkeit in der Boxengasse kann in der Veranstaltungsausschreibung geregelt sein",
+          "correct": true
+        },
+        {
+          "text": "Die Geschwindigkeit muss jederzeit angemessen sein",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Die Geschwindigkeit in der Boxengasse kann in der Veranstaltungsausschreibung geregelt sein / Die Geschwindigkeit muss jederzeit angemessen sein",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.31",
+      "chapter": 4,
+      "question": "Wo darf ein Fahrer während eines Trainings oder Rennens fremde Hilfe erhalten?",
+      "answers": [
+        {
+          "text": "Im sicheren Bereich neben der Rennstrecke",
+          "correct": false
+        },
+        {
+          "text": "Während der Warm up-Runden und vor Beginn der Formationsrunde",
+          "correct": false
+        },
+        {
+          "text": "Nur in der Reparaturzone",
+          "correct": true
+        },
+        {
+          "text": "Nur in der Auslaufrunde nach der karierten Flagge und bis zum Erreichen der Waage",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nur in der Reparaturzone",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.32",
+      "chapter": 4,
+      "question": "Ein Fahrer ist mit seinem Kart wegen eines Bremsfehlers von der Strecke in die Auslaufzone gefahren. Er möchte wieder zurück auf die Strecke fahren um das Rennen fortzusetzen. Darf er das und was hat er dabei zu beachten?",
+      "answers": [
+        {
+          "text": "Ja, er darf wieder zurückfahren, allerdings ohne einen anderen Fahrer zu behindern",
+          "correct": true
+        },
+        {
+          "text": "Ja, er darf wieder zurückfahren, wenn er sich dadurch keinen Vorteil verschafft",
+          "correct": true
+        },
+        {
+          "text": "Er kann so fahren, wie es am besten geht, da alle anderen das Manöver beobachtet haben",
+          "correct": false
+        },
+        {
+          "text": "Er sollte drauf achten, ob die Reifen seines Karts verschmutzt sind und dadurch den Grip verloren haben",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ja, er darf wieder zurückfahren, allerdings ohne einen anderen Fahrer zu behindern / Ja, er darf wieder zurückfahren, wenn er sich dadurch keinen Vorteil verschafft / Er sollte drauf achten, ob die Reifen seines Karts verschmutzt sind und dadurch den Grip verloren haben",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.33",
+      "chapter": 4,
+      "question": "Die Getriebeklasse KZ2 startet stehend. Ein Fahrer erreicht verspätet die Startaufstellung. Alle anderen Fahrer stehen bereits auf ihren Startplätzen. Darf dieser Fahrer auf seinen Startplatz vorfahren? Wenn ja, bis zu welchem Zeitpunkt ist das erlaubt?",
+      "answers": [
+        {
+          "text": "Nein, er kann nur noch als letzter Fahrer starten",
+          "correct": false
+        },
+        {
+          "text": "Er darf wieder auf seinen Startplatz fahren",
+          "correct": true
+        },
+        {
+          "text": "Er darf solange auf seinen Startplatz fahren, so lange die rote Flagge vor dem Feld gezeigt wird",
+          "correct": true
+        },
+        {
+          "text": "Er darf solange auf seinen Startplatz fahren, so lange die roten Lichter der Startampel leuchten",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Er darf wieder auf seinen Startplatz fahren / Er darf solange auf seinen Startplatz fahren, so lange die rote Flagge vor dem Feld gezeigt wird",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.34",
+      "chapter": 4,
+      "question": "Ungefähr bei Rennhälfte werden rote Flaggen gezeigt und das Rennen wird unterbrochen. Was haben die Fahrer zu beachten? Wo müssen die Fahrer anhalten?",
+      "answers": [
+        {
+          "text": "Sie müssen das Rennen zu Ende fahren, dürfen aber nicht mehr überholen",
+          "correct": false
+        },
+        {
+          "text": "Geschwindigkeit ist zu verringern, nicht mehr überholen und langsam Richtung Start/Ziel fahren",
+          "correct": true
+        },
+        {
+          "text": "Sofort und unbedingt anhalten",
+          "correct": false
+        },
+        {
+          "text": "Den Weisungen der Sportwarte der Streckensicherung und der Offiziellen ist zu folgen",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Geschwindigkeit ist zu verringern, nicht mehr überholen und langsam Richtung Start/Ziel fahren / Den Weisungen der Sportwarte der Streckensicherung und der Offiziellen ist zu folgen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.35",
+      "chapter": 4,
+      "question": "Ein nach 5 Runden unterbrochenes Rennen wird wieder gestartet. Wie erfolgt sie Startaufstellung? Wie wird gestartet?",
+      "answers": [
+        {
+          "text": "Es wird mit der ursprünglichen Startaufstellung vom Zeittraining wieder gestartet",
+          "correct": false
+        },
+        {
+          "text": "Die Karts starten in einer Reihe in der Reihenfolge, die in der Runde vor dem Abbruch festgestellt wird",
+          "correct": true
+        },
+        {
+          "text": "Es wird aus Sicherheitsgründen stehend gestartet",
+          "correct": false
+        },
+        {
+          "text": "Es wird unter „SLOW“-Bedingungen gestartet und frühestens nach einer Runde erfolgt die Startfreigabe",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Die Karts starten in einer Reihe in der Reihenfolge, die in der Runde vor dem Abbruch festgestellt wird / Es wird unter „SLOW“-Bedingungen gestartet und frühestens nach einer Runde erfolgt die Startfreigabe",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.36",
+      "chapter": 4,
+      "question": "Das Rennen der Klasse OK-Senioren wird rollend gestartet. Die Fahrer befinden sich in der Formationsrunde. Ab welcher Stelle oder ab welchem Zeitpunkt dürfen die Fahrer überholen?",
+      "answers": [
+        {
+          "text": "Sie dürfen ab der „roten Linie“ überholen",
+          "correct": false
+        },
+        {
+          "text": "Sie dürfen nach dem Startsignal überholen, aber erst nach dem Überfahren der „gelben Linie“",
+          "correct": true
+        },
+        {
+          "text": "Sie dürfen nach dem Startsignal überholen",
+          "correct": false
+        },
+        {
+          "text": "Sie dürfen nach dem Überqueren der Startlinie überholen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Sie dürfen nach dem Startsignal überholen, aber erst nach dem Überfahren der „gelben Linie“",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.37",
+      "chapter": 4,
+      "question": "Im Rennen der Klasse OK-Senioren gibt es eine Neutralisationsphase (\"SLOW\"- Prozedur). Nach insgesamt 4 Runden unter \"SLOW\" beendet der Rennleiter die SLOW-Phase mit der geschwenkten grünen Flagge an der Startlinie (Restart). Ab welcher Stelle oder ab welchem Zeitpunkt dürfen die Fahrer überholen?",
+      "answers": [
+        {
+          "text": "Sie dürfen ab der „roten Linie“ überholen",
+          "correct": false
+        },
+        {
+          "text": "Sie dürfen nach dem Startsignal überholen, aber erst nach dem Überfahren der „gelben Linie“",
+          "correct": false
+        },
+        {
+          "text": "Sie dürfen nach dem Zeigen der grünen Flagge überholen",
+          "correct": false
+        },
+        {
+          "text": "Sie dürfen nach dem Überqueren der Startlinie überholen",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Sie dürfen nach dem Überqueren der Startlinie überholen",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.38",
+      "chapter": 4,
+      "question": "Durch ein versehentliches Auffahren auf den Vordermann in der ersten Rennrunde löste die Befestigung des Frontspoilers aus. Darf der Frontspoiler wieder in die korrekte Position gebracht werden? Wenn ja, was ist dabei zu beachten?",
+      "answers": [
+        {
+          "text": "Ja, er darf in der Reparaturzone während des Rennens wieder in die korrekte Position gebracht werden",
+          "correct": true
+        },
+        {
+          "text": "Ja, er darf während der Fahrt jederzeit wieder in die korrekte Position gebracht werden",
+          "correct": false
+        },
+        {
+          "text": "Ja, er darf nach Verlassen des Wiegebereiches wieder in die korrekte Position gebracht werden",
+          "correct": true
+        },
+        {
+          "text": "Ja, er darf zwischen Zielflagge und der Wiegeprozedur wieder in die korrekte Position gebracht werden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ja, er darf in der Reparaturzone während des Rennens wieder in die korrekte Position gebracht werden / Ja, er darf nach Verlassen des Wiegebereiches wieder in die korrekte Position gebracht werden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.39",
+      "chapter": 4,
+      "question": "Die Renndistanz beträgt gemäß Veranstaltungsausschreibung 18 Runden. Die karierte Flagge wird durch einen Fehler des Rennleiters aber erst nach der 19. Runde gezeigt. Der bis zum Ende der 18. Runde knapp führende Fahrer Andi Feuerstein wird in der letzten Runde vor dem Abwinken vom bis dahin zweitplatzierten Fahrer Tim Kraftmeier überholt, der daraufhin als Sieger abgewinkt wird. Welcher der nachfolgenden Punkte ist richtig und wer von beiden Fahrern ist tatsächlich der Sieger dieses Rennens?",
+      "answers": [
+        {
+          "text": "Das Rennergebnis ist die Reihenfolge nach der gemäß Ausschreibung absolvierten Rundenzahl",
+          "correct": true
+        },
+        {
+          "text": "Das Rennergebnis ist die Reihenfolge zum Zeitpunkt des Zeigens der karierten Flagge",
+          "correct": false
+        },
+        {
+          "text": "Andi Feuerstein, da er nach Ende der vorgesehenen Rundenzahl geführt hat",
+          "correct": true
+        },
+        {
+          "text": "Tim Kraftmeier, weil er zum Rennende geführt hat und die karierte Flagge ist maßgebend",
+          "correct": false
+        },
+        {
+          "text": "Keiner von beiden, da das Rennen wiederholt werden muss",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Das Rennergebnis ist die Reihenfolge nach der gemäß Ausschreibung absolvierten Rundenzahl / Andi Feuerstein, da er nach Ende der vorgesehenen Rundenzahl geführt hat",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.40",
+      "chapter": 4,
+      "question": "Ein Fahrer der Klasse KZ2 bemerkt, dass sein Motor Öl verliert. Es sind nur noch 4 Runden zu fahren. Was muss er tun?",
+      "answers": [
+        {
+          "text": "Er fährt vorsichtig und ohne zu schalten bis zum Ende des Rennens",
+          "correct": false
+        },
+        {
+          "text": "Er verlässt sofort die Ideallinie und stellt das Kart neben der Strecke ab",
+          "correct": true
+        },
+        {
+          "text": "Bei der nächsten Vorbeifahrt bei einem Streckenposten zeigt er auf seinen Motor (Ölflagge)",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer fährt unbeirrt weiter, da das Öl von Rennmotoren sofort verdampft",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Er verlässt sofort die Ideallinie und stellt das Kart neben der Strecke ab",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.41",
+      "chapter": 4,
+      "question": "Der Fahrer Harry Hurtig mit Startnummer 13 war im Zeittraining vom Pech verfolgt und konnte wegen eines Plattfußes am linken Hinterrad nur eine sehr schlechte Zeit fahren, so dass er sich nicht qualifiziert hat. Im Ergebnis des Zeittrainings ist Harry Hurtig mit \"DNQ\" aufgeführt. In der vorläufigen Startaufstellung ist die Startnummer 13 nicht aufgeführt. Was muss Harry Hurtig tun, damit er ggf. im Rennen fahren darf?",
+      "answers": [
+        {
+          "text": "Er kann in der Startaufstellung ohne weiteres auf der letzten Position stehen und starten",
+          "correct": false
+        },
+        {
+          "text": "Harry Hurtig sagt im Vorstart Bescheid, dass er fahren wird",
+          "correct": false
+        },
+        {
+          "text": "Harry Hurtig stellt einen schriftlichen Antrag an den Rennleiter mit der Bitte um Startzulassung",
+          "correct": true
+        },
+        {
+          "text": "Harry Hurtig fragt die Sportkommissare, da nur diese eine Startzulassung erteilen dürfen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Harry Hurtig stellt einen schriftlichen Antrag an den Rennleiter mit der Bitte um Startzulassung",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.42",
+      "chapter": 4,
+      "question": "Was muss der Fahrer ab der Zieldurchfahrt bis zum Verlassen des Bereichs der Waage beachten?",
+      "answers": [
+        {
+          "text": "Er darf andere Karts überholen",
+          "correct": false
+        },
+        {
+          "text": "Das Kart unterliegt zwischen dem Abwinken und dem Ende der Wiegeprozedur den Park-Fermé Bestimmungen",
+          "correct": true
+        },
+        {
+          "text": "Der Fahrer muss die Auslaufrunde im Renntempo absolvieren",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer muss darauf achten, dass auch in der Auslaufrunde der Frontspoiler nicht ausgelöst wird",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Das Kart unterliegt zwischen dem Abwinken und dem Ende der Wiegeprozedur den Park-Fermé Bestimmungen / Der Fahrer muss darauf achten, dass auch in der Auslaufrunde der Frontspoiler nicht ausgelöst wird",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.43",
+      "chapter": 4,
+      "question": "Ein Fahrer bleibt in der Auslaufrunde nach dem Abwinken wegen eines technischen Defektes auf der Strecke stehen. Was muss er beachten?",
+      "answers": [
+        {
+          "text": "Da das Rennen zu Ende ist, dürfen seine Mechaniker ihn mit dem Kart von der Strecke abholen",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer muss die Anweisungen der Sportwarte der Streckensicherung befolgen",
+          "correct": true
+        },
+        {
+          "text": "Der Fahrer darf ins Fahrerlager gehen; um das Kart kümmern sich die Sportwarte der Streckensicherung",
+          "correct": false
+        },
+        {
+          "text": "Der Fahrer muss an seinem Kart warten bis er vom Abschleppfahrzeug des Veranstalters abgeholt wird",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer muss die Anweisungen der Sportwarte der Streckensicherung befolgen / Der Fahrer muss an seinem Kart warten bis er vom Abschleppfahrzeug des Veranstalters abgeholt wird",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "4.44",
+      "chapter": 4,
+      "question": "Wann ist ein Wettbewerb beendet?",
+      "answers": [
+        {
+          "text": "Sobald mit der schwarz-weiß-karierten Flagge das Rennen beendet wurde",
+          "correct": false
+        },
+        {
+          "text": "Sobald alle technischen Nachuntersuchungen abgeschlossen sind",
+          "correct": false
+        },
+        {
+          "text": "Sobald die offiziellen Ergebnisse publiziert wurden",
+          "correct": true
+        },
+        {
+          "text": "Wenn der letzte Teilnehmer das Fahrerlager verlassen hat",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Sobald die offiziellen Ergebnisse publiziert wurden",
+      "sources": [
+        {
+          "document": "DMSB-Kart-Reglement 2026",
+          "section": "Teil B – Sportliches Reglement"
+        }
+      ]
+    },
+    {
+      "id": "5.01",
+      "chapter": 5,
+      "question": "Wie beantragt man in Deutschland eine Fahrerlizenz?",
+      "answers": [
+        {
+          "text": "Schriftlich bei der zuständigen Sportabteilung",
+          "correct": false
+        },
+        {
+          "text": "Online auf der DMSB-Internetseite unter www.dmsbnet.de",
+          "correct": true
+        },
+        {
+          "text": "Durch das Nennformular beim jeweiligen Veranstalter",
+          "correct": false
+        },
+        {
+          "text": "Beim Verein, in dem der Fahrer Mitglied ist",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Online auf der DMSB-Internetseite unter www.dmsbnet.de",
+      "sources": []
+    },
+    {
+      "id": "5.02",
+      "chapter": 5,
+      "question": "Wie lange ist eine Fahrerlizenz des DMSB gültig?",
+      "answers": [
+        {
+          "text": "Vom Ausstellungsdatum 24 Monate",
+          "correct": false
+        },
+        {
+          "text": "3 Kalenderjahre",
+          "correct": false
+        },
+        {
+          "text": "Bis zum Ende des jeweiligen Kalenderjahres",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Bis zum Ende des jeweiligen Kalenderjahres",
+      "sources": []
+    },
+    {
+      "id": "5.03",
+      "chapter": 5,
+      "question": "Welche Lizenz/Genehmigung wird für die Teilnahme an einem Clubsport- Kartrennen benötigt?",
+      "answers": [
+        {
+          "text": "Mindestens die Nationale DMSB-Lizenz Stufe C",
+          "correct": true
+        },
+        {
+          "text": "Eine Unfallversicherung ist ausreichend",
+          "correct": false
+        },
+        {
+          "text": "Mindestens eine Internationale Kart-Lizenz",
+          "correct": false
+        },
+        {
+          "text": "Die DMSB Race Card",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Mindestens die Nationale DMSB-Lizenz Stufe C / Die DMSB Race Card",
+      "sources": []
+    },
+    {
+      "id": "5.04",
+      "chapter": 5,
+      "question": "Darf ein Fahrer an einem DMSB-genehmigten Kartrennen teilnehmen, wenn er eine Lizenz aus dem Vorjahr besitzt?",
+      "answers": [
+        {
+          "text": "Ja, wenn diese innerhalb der letzten 12 Monate ausgestellt wurde",
+          "correct": false
+        },
+        {
+          "text": "Nein, da die Lizenz nicht mehr gültig ist",
+          "correct": true
+        },
+        {
+          "text": "Ja, da die Lizenz nur einmalig beim DMSB beantragt werden muss",
+          "correct": false
+        },
+        {
+          "text": "Nur wenn der Rennleiter damit einverstanden ist",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein, da die Lizenz nicht mehr gültig ist",
+      "sources": []
+    },
+    {
+      "id": "5.05",
+      "chapter": 5,
+      "question": "Seit einiger Zeit kann über www.dmsbnet.de die DMSB Race Card online erworben werden. Welcher Lizenzstufe entspricht die DMSB Race Card?",
+      "answers": [
+        {
+          "text": "Sie entspricht der Nationalen Lizenz Stufe C",
+          "correct": true
+        },
+        {
+          "text": "Sie entspricht der Nationalen Lizenz Stufe A",
+          "correct": false
+        },
+        {
+          "text": "Sie entspricht einer Internationalen Kart-Lizenz",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Sie entspricht der Nationalen Lizenz Stufe C",
+      "sources": []
+    },
+    {
+      "id": "5.06",
+      "chapter": 5,
+      "question": "Welche Gültigkeitsdauer hat die DMSB Race Card?",
+      "answers": [
+        {
+          "text": "Die DMSB Race Card gilt für 12 Monate (ab Ausstellungsdatum)",
+          "correct": false
+        },
+        {
+          "text": "Die DMSB Race Card gilt für einen Monat (ab Ausstellungsdatum)",
+          "correct": false
+        },
+        {
+          "text": "Die DMSB Race Card gilt für den Rest des Jahres",
+          "correct": false
+        },
+        {
+          "text": "Die DMSB Race Card gilt nur für die beantragte Veranstaltung",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die DMSB Race Card gilt nur für die beantragte Veranstaltung",
+      "sources": []
+    },
+    {
+      "id": "6.01",
+      "chapter": 6,
+      "question": "Wer gibt bei einer Veranstaltung verbindliche                                 Informationen        zu Veranstaltungsabläufen und organisatorischen Fragen?",
+      "answers": [
+        {
+          "text": "Der Sportwart am Einlass",
+          "correct": false
+        },
+        {
+          "text": "Der Rennleiter",
+          "correct": true
+        },
+        {
+          "text": "Der Vorsitzende des Veranstalter-Clubs",
+          "correct": false
+        },
+        {
+          "text": "Die CIK",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Rennleiter",
+      "sources": []
+    },
+    {
+      "id": "6.02",
+      "chapter": 6,
+      "question": "Wer entscheidet bei einem DMSB-Kartrennen über einen Protest?",
+      "answers": [
+        {
+          "text": "Vorstand des Veranstalter-Clubs",
+          "correct": false
+        },
+        {
+          "text": "Der Rennleiter",
+          "correct": false
+        },
+        {
+          "text": "Die Sportkommissare",
+          "correct": true
+        },
+        {
+          "text": "Der DMSB",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die Sportkommissare",
+      "sources": []
+    },
+    {
+      "id": "6.03",
+      "chapter": 6,
+      "question": "Wie heißt das Rechtsmittel bei einem DMSB-Kartrennen, welches ein Teilnehmer anwenden kann, um vermeintlich ungerechtfertigte Entscheidungen des Rennleiters anfechten zu können?",
+      "answers": [
+        {
+          "text": "Beschwerde",
+          "correct": false
+        },
+        {
+          "text": "Einspruch",
+          "correct": false
+        },
+        {
+          "text": "Protest",
+          "correct": true
+        },
+        {
+          "text": "Berufung",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Protest",
+      "sources": []
+    },
+    {
+      "id": "6.04",
+      "chapter": 6,
+      "question": "Was muss ein Teilnehmer bei der Einlegung eines Protests beachten?",
+      "answers": [
+        {
+          "text": "Es muss in jedem Fall schriftlich erfolgen",
+          "correct": true
+        },
+        {
+          "text": "Dieses Rechtsmittel muss der betreffende Fahrer dem Fahrer mitteilen, gegen den es gerichtet ist",
+          "correct": false
+        },
+        {
+          "text": "Die Zeitdauer zum Einlegen dieses Rechtsmittels ist eingeschränkt",
+          "correct": true
+        },
+        {
+          "text": "Das Rechtsmittel kann jederzeit eingelegt werden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Es muss in jedem Fall schriftlich erfolgen / Die Zeitdauer zum Einlegen dieses Rechtsmittels ist eingeschränkt",
+      "sources": []
+    },
+    {
+      "id": "6.05",
+      "chapter": 6,
+      "question": "Sportkommissare stellen im Rahmen von DMSB-Veranstaltungen das höchste Gremium für Entscheidungen dar. Wie heißt das Rechtsmittel, welches ein Teilnehmer anwenden kann, um vermeintlich ungerechtfertigte Entscheidungen der Sportkommissare anfechten zu können und einer weiteren Überprüfung zuleiten zu können?",
+      "answers": [
+        {
+          "text": "Einspruch",
+          "correct": false
+        },
+        {
+          "text": "Protest",
+          "correct": false
+        },
+        {
+          "text": "Berufung",
+          "correct": true
+        },
+        {
+          "text": "Klage",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Berufung",
+      "sources": []
+    },
+    {
+      "id": "6.06",
+      "chapter": 6,
+      "question": "Wer spricht Wertungsstrafen (z. B. Zeitstrafen) gegen einen Teilnehmer aus?",
+      "answers": [
+        {
+          "text": "Der Vorsitzende des Veranstalter-Clubs",
+          "correct": false
+        },
+        {
+          "text": "Der Rennsekretär",
+          "correct": false
+        },
+        {
+          "text": "Der Rennleiter",
+          "correct": true
+        },
+        {
+          "text": "Der Sachrichter",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Rennleiter",
+      "sources": []
+    },
+    {
+      "id": "6.07",
+      "chapter": 6,
+      "question": "Wer ist für das eingesetzte Wettbewerbsmaterial hinsichtlich der Übereinstimmung mit dem technischen Reglement aus sportrechtlicher Sicht verantwortlich?",
+      "answers": [
+        {
+          "text": "Der Fahrer / Bewerber",
+          "correct": true
+        },
+        {
+          "text": "Der Mechaniker",
+          "correct": false
+        },
+        {
+          "text": "Die Eltern",
+          "correct": false
+        },
+        {
+          "text": "Der Teamchef",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Fahrer / Bewerber",
+      "sources": []
+    },
+    {
+      "id": "7.01",
+      "chapter": 7,
+      "question": "Woher kann ein Teilnehmer erfahren, welche Sportwarte/Offizielle im Rahmen einer Veranstaltung eingesetzt sind?",
+      "answers": [
+        {
+          "text": "Aus der offiziellen Pressemitteilung",
+          "correct": false
+        },
+        {
+          "text": "Aus der Veranstaltungsausschreibung",
+          "correct": true
+        },
+        {
+          "text": "Aus dem Veranstaltungsreglement des DMSB",
+          "correct": false
+        },
+        {
+          "text": "Aus der Sportwarteliste des DMSB",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Aus der Veranstaltungsausschreibung",
+      "sources": []
+    },
+    {
+      "id": "7.02",
+      "chapter": 7,
+      "question": "Wer kann im Rahmen einer Veranstaltung einem Teilnehmer zu technischen Fragen verbindlich Auskunft geben oder auch auf Nachfrage ein Bauteil auf Übereinstimmung zum Reglement überprüfen?",
+      "answers": [
+        {
+          "text": "Der Technische Kommissar",
+          "correct": true
+        },
+        {
+          "text": "Der Sportwart am Vorstart",
+          "correct": false
+        },
+        {
+          "text": "Der Serien-Organisator",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Technische Kommissar",
+      "sources": []
+    },
+    {
+      "id": "7.03",
+      "chapter": 7,
+      "question": "Wo befinden sich die Sportwarte der Streckensicherung?",
+      "answers": [
+        {
+          "text": "Im Fahrerlager",
+          "correct": false
+        },
+        {
+          "text": "An den festgelegten Standorten der Streckenposten",
+          "correct": true
+        },
+        {
+          "text": "Beim Rennleiter",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: An den festgelegten Standorten der Streckenposten",
+      "sources": []
+    },
+    {
+      "id": "7.04",
+      "chapter": 7,
+      "question": "Womit muss ein Fahrer hinsichtlich der Sportwarte rechnen, wenn gelbe Flaggen geschwenkt werden?",
+      "answers": [
+        {
+          "text": "Keine Gefahr. Das ist das Zeichen, dass das Rennen begonnen hat",
+          "correct": false
+        },
+        {
+          "text": "Die Geschwindigkeit ist zu verringern und es herrscht Überholverbot",
+          "correct": true
+        },
+        {
+          "text": "Die Strecke ist vom einsetzenden Regen nass geworden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Die Geschwindigkeit ist zu verringern und es herrscht Überholverbot",
+      "sources": []
+    },
+    {
+      "id": "7.05",
+      "chapter": 7,
+      "question": "Müssen alle Fahrer - auch die, die während des Rennens ausgefallen sind - den Anweisungen der Sportwarte der Streckensicherung folgen?",
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "text": "Nein",
+          "correct": false
+        },
+        {
+          "text": "Das entscheidet der betreffende Fahrer selbst",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja",
+      "sources": []
+    },
+    {
+      "id": "8.01",
+      "chapter": 8,
+      "question": "In welchem Zustand muss der Fahrer das Kart zur Technischen Abnahme vorführen?",
+      "answers": [
+        {
+          "text": "Das Kart muss nicht komplett vorgeführt werden, sondern nur Motor und Rahmen",
+          "correct": false
+        },
+        {
+          "text": "Das Kart muss bereits mit den richtigen Startnummern versehen sein",
+          "correct": true
+        },
+        {
+          "text": "Das Kart muss sich in dem Zustand befinden, wie es auch zum Wettbewerb eingesetzt werden soll",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Das Kart muss bereits mit den richtigen Startnummern versehen sein / Das Kart muss sich in dem Zustand befinden, wie es auch zum Wettbewerb eingesetzt werden soll",
+      "sources": []
+    },
+    {
+      "id": "8.02",
+      "chapter": 8,
+      "question": "Was muss der Teilnehmer beachten, wenn er in eine Kollision verwickelt war und das Kart beschädigt wurde?",
+      "answers": [
+        {
+          "text": "Er muss nichts beachten, sofern er sich selbst nicht verletzt hat",
+          "correct": false
+        },
+        {
+          "text": "Er darf das Veranstaltungsgelände nicht ohne Einverständnis des Rennleiters verlassen",
+          "correct": false
+        },
+        {
+          "text": "Er muss vor dem erneuten Einsatz das reparierte Kart bei den Technischen Kommissaren vorführen",
+          "correct": true
+        },
+        {
+          "text": "Beide beteiligten Fahrer müssen sich unaufgefordert bei den Sportkommissaren melden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Er muss vor dem erneuten Einsatz das reparierte Kart bei den Technischen Kommissaren vorführen",
+      "sources": []
+    },
+    {
+      "id": "8.03",
+      "chapter": 8,
+      "question": "Wo befindet sich die Kennzeichnung im Fahreroverall, woraus die Gültigkeit der Homologation des Fahreranzugs ersichtlich ist?",
+      "answers": [
+        {
+          "text": "Eine solche Markierung gibt es nicht",
+          "correct": false
+        },
+        {
+          "text": "Diese Markierung ist im vorderen Verschlussband des Kragens vorhanden",
+          "correct": false
+        },
+        {
+          "text": "Diese Markierung befindet sich hinten am oder in der Nähe des Kragens",
+          "correct": true
+        },
+        {
+          "text": "Diese Markierung befindet sich an der linken Seitentasche",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Diese Markierung befindet sich hinten am oder in der Nähe des Kragens",
+      "sources": []
+    },
+    {
+      "id": "8.04",
+      "chapter": 8,
+      "question": "In welcher Kart-Klasse ist im DMSB-Bereich eine Halskrause für den Fahrer vorgeschrieben?",
+      "answers": [
+        {
+          "text": "In allen Kartklassen",
+          "correct": false
+        },
+        {
+          "text": "In allen Junior-Klassen",
+          "correct": false
+        },
+        {
+          "text": "In den Mini-Klassen",
+          "correct": true
+        },
+        {
+          "text": "In den Getriebe-Klassen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In den Mini-Klassen",
+      "sources": []
+    },
+    {
+      "id": "8.05",
+      "chapter": 8,
+      "question": "Wo kann man die zusätzlichen Sicherheitsbestimmungen für den Kartsport der \"Altersklasse 8 bis 13 (Pre Juniors)\" nachlesen?",
+      "answers": [
+        {
+          "text": "Diese Bestimmungen gibt es im internationalen Reglement der CIK",
+          "correct": false
+        },
+        {
+          "text": "Im DMSB-Kart-Reglement",
+          "correct": true
+        },
+        {
+          "text": "Im DMSB-Veranstaltungsreglement",
+          "correct": false
+        },
+        {
+          "text": "In den Technischen Bestimmungen der CIK",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Im DMSB-Kart-Reglement",
+      "sources": []
+    },
+    {
+      "id": "8.06",
+      "chapter": 8,
+      "question": "Was muss man hinsichtlich der Zulassung von Schutzhelmen beachten, die in der Kart-Klasse Mini oder einer Junioren-Klasse verwendet werden sollen.",
+      "answers": [
+        {
+          "text": "Alle Helme, die auch im Straßenverkehr zugelassen sind, sind auch im Kartsport erlaubt",
+          "correct": false
+        },
+        {
+          "text": "Die Helme müssen bestimmten Normen und Standards entsprechen",
+          "correct": true
+        },
+        {
+          "text": "Der Helm muss den betreffenden Bestimmungen des DMSB-Kart-Reglement, Teil D, entsprechen",
+          "correct": true
+        },
+        {
+          "text": "Der Helm dar nicht älter als drei Jahre sein",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "medium",
+      "quickTip": "Merke dir für diese Frage: Die Helme müssen bestimmten Normen und Standards entsprechen / Der Helm muss den betreffenden Bestimmungen des DMSB-Kart-Reglement, Teil D, entsprechen",
+      "sources": []
+    },
+    {
+      "id": "8.07",
+      "chapter": 8,
+      "question": "Sind aktuell FIA-homologierte Fahreranzüge des Automobilsports auch im Kartsport zulässig?",
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
+    },
+    {
+      "id": "8.08",
+      "chapter": 8,
+      "question": "Was gehört zwingend zur Fahrerausrüstung im Kartsport?",
+      "answers": [
+        {
+          "text": "Zugelassener Schutzhelm",
+          "correct": true
+        },
+        {
+          "text": "Feuerhemmende Unterwäsche",
+          "correct": false
+        },
+        {
+          "text": "Handschuhe",
+          "correct": true
+        },
+        {
+          "text": "Sportschuhe",
+          "correct": false
+        },
+        {
+          "text": "Schuhe",
+          "correct": true
+        },
+        {
+          "text": "Kopfhaube",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Zugelassener Schutzhelm / Handschuhe / Schuhe",
+      "sources": []
+    },
+    {
+      "id": "8.09",
+      "chapter": 8,
+      "question": "Darf aus Sicherheitsgründen während des Rennens eine Funkverbindung zwischen Fahrer und Betreuer/Teamchef bestehen?",
+      "answers": [
+        {
+          "text": "Ja, aber nur von Teamchef zum Fahrer",
+          "correct": false
+        },
+        {
+          "text": "Ja, aber nur vom Fahrer zum Teamchef",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        },
+        {
+          "text": "Ja, ohne Einschränkungen",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
+    },
+    {
+      "id": "8.10",
+      "chapter": 8,
+      "question": "Darf ein für den Kartsport zugelassener Helm lackiert werden?",
+      "answers": [
+        {
+          "text": "Ja, wenn der Helmhersteller dieses zulässt",
+          "correct": true
+        },
+        {
+          "text": "Ja, ohne Einschränkungen",
+          "correct": false
+        },
+        {
+          "text": "Ja, aber es dürfen keine leuchtenden Farben verwendet werden",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja, wenn der Helmhersteller dieses zulässt",
+      "sources": []
+    },
+    {
+      "id": "9.01",
+      "chapter": 9,
+      "question": "Darf ein Kartfahrer bei einem nationalen Kartrennen einer Dopingkontrolle unterzogen werden?",
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "text": "Nein",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Ja",
+      "sources": []
+    },
+    {
+      "id": "9.02",
+      "chapter": 9,
+      "question": "Darf ein Kartfahrer eine Dopingkontrolle verweigern, wenn er zwingend zur Siegerehrung muss?",
+      "answers": [
+        {
+          "text": "Nein",
+          "correct": true
+        },
+        {
+          "text": "Ja",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
+    },
+    {
+      "id": "9.03",
+      "chapter": 9,
+      "question": "Darf ein Kartfahrer davon ausgehen, dass alle frei erhältlichen Arzneimittel, z. B. Erkältungs- oder Schnupfenmittel, hinsichtlich der Anti-Doping-Bestimmungen uneingeschränkt zulässig sind?",
+      "answers": [
+        {
+          "text": "Nein, hierzu muss er sich erkundigen (z. B. bei seinem Arzt oder mithilfe der Verbotsliste der WADA/NADA",
+          "correct": true
+        },
+        {
+          "text": "Ja, in frei verkäufliche Arzneimitteln befinden sich keine verbotenen Substanzen",
+          "correct": false
+        },
+        {
+          "text": "Ja, da der Fahrer automatisch informiert wird, wenn die Arzneimittel nicht zulässig sind",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein, hierzu muss er sich erkundigen (z. B. bei seinem Arzt oder mithilfe der Verbotsliste der WADA/NADA",
+      "sources": []
+    },
+    {
+      "id": "9.04",
+      "chapter": 9,
+      "question": "Was kann ein Verstoß gegen die Anti-Doping-Bestimmungen für einen Kartfahrer nach sich ziehen?",
+      "answers": [
+        {
+          "text": "Eigentlich nichts, da Doping im Kartsport nicht leistungsfördernd ist",
+          "correct": false
+        },
+        {
+          "text": "Die Sportkommissare könnten eine Geldstrafe verhängen",
+          "correct": false
+        },
+        {
+          "text": "Ein Verstoß kann zum Entzug der Fahrerlizenz führen",
+          "correct": true
+        },
+        {
+          "text": "Der Fahrer kann für eine bestimmte Zeit suspendiert werden",
+          "correct": true
+        },
+        {
+          "text": "Disqualifikation vom betreffenden Wettbewerb",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Ein Verstoß kann zum Entzug der Fahrerlizenz führen / Der Fahrer kann für eine bestimmte Zeit suspendiert werden / Disqualifikation vom betreffenden Wettbewerb",
+      "sources": []
+    },
+    {
+      "id": "9.05",
+      "chapter": 9,
+      "question": "Wo kann ein Kartfahrer nachlesen, inwieweit seine Medikamente zulässig sind und ohne Bedenken eingenommen werden können?",
+      "answers": [
+        {
+          "text": "In jeder Apotheke befindet sich hierzu ein Aushang",
+          "correct": false
+        },
+        {
+          "text": "In der \"Liste der verbotenen Substanzen\" der Anti-Doping-Agentur (NADA / WADA)",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: In der \"Liste der verbotenen Substanzen\" der Anti-Doping-Agentur (NADA / WADA)",
+      "sources": []
+    },
+    {
+      "id": "9.06",
+      "chapter": 9,
+      "question": "Wie viele Promille Blutalkohol sind bei motorsportlicher Betätigung (Teilnahme an Rennen) zulässig?",
+      "answers": [
+        {
+          "text": "0,3 Promille",
+          "correct": false
+        },
+        {
+          "text": "0,8 Promille",
+          "correct": false
+        },
+        {
+          "text": "0,0 Promille",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: 0,0 Promille",
+      "sources": []
+    },
+    {
+      "id": "10.01",
+      "chapter": 10,
+      "question": "Was bezeichnet man als \"Ideallinie\"",
+      "answers": [
+        {
+          "text": "Das ist die kürzeste Fahrlinie auf einer Rennstrecke",
+          "correct": false
+        },
+        {
+          "text": "Das ist die Fahrlinie, die die höchste Geschwindigkeit zulässt und damit die beste Fahrzeit ermöglicht",
+          "correct": true
+        },
+        {
+          "text": "Das ist genau die Mittellinie einer Rennstrecke",
+          "correct": false
+        },
+        {
+          "text": "Es ist die eigene, untypische Fahrlinie, die ein Überholen durch andere sehr erschwert",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Das ist die Fahrlinie, die die höchste Geschwindigkeit zulässt und damit die beste Fahrzeit ermöglicht",
+      "sources": []
+    },
+    {
+      "id": "10.02",
+      "chapter": 10,
+      "question": "Ist es für eine ideale Kurvenfahrt sinnvoll, wenn man sich mit seinem Körper mit \"in die Kurve legt\"?",
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
+    },
+    {
+      "id": "10.03",
+      "chapter": 10,
+      "question": "Was versteht man beim Fahren unter \"Untersteuern\"?",
+      "answers": [
+        {
+          "text": "Man muss in der Kurve mehr einlenken, weil das Kart mehr zur Kurven-Außenseite drängt",
+          "correct": true
+        },
+        {
+          "text": "Man muss weniger einlenken oder gar gegenlenken, weil das Heck des Karts nach außen drängt",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Man muss in der Kurve mehr einlenken, weil das Kart mehr zur Kurven-Außenseite drängt",
+      "sources": []
+    },
+    {
+      "id": "10.04",
+      "chapter": 10,
+      "question": "Was versteht man beim Fahren unter \"Übersteuern\"?",
+      "answers": [
+        {
+          "text": "Man muss in der Kurve mehr einlenken, weil das Kart mehr zur Kurven-Außenseite drängt",
+          "correct": false
+        },
+        {
+          "text": "Man muss weniger einlenken oder gar gegenlenken, weil das Heck des Karts nach außen drängt",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Man muss weniger einlenken oder gar gegenlenken, weil das Heck des Karts nach außen drängt",
+      "sources": []
+    },
+    {
+      "id": "10.05",
+      "chapter": 10,
+      "question": "Der rollende Start stellt eine hohe Anforderung an das fahrerische Können aller Fahrer dar. Auf welche Dinge muss ein Fahrer bis zum Startsignal achten, der die Startformation anführt?",
+      "answers": [
+        {
+          "text": "Möglichst schnell nach der \"roten Linie\" beschleunigen, damit kein Stau in der Formation entsteht",
+          "correct": false
+        },
+        {
+          "text": "Möglichst gleichmäßige und angepasste Geschwindigkeit beibehalten, bis das Startsignal erfolgt ist",
+          "correct": true
+        },
+        {
+          "text": "Auf die Fahrer dahinter achten",
+          "correct": true
+        },
+        {
+          "text": "Nach der \"roten Linie\" darauf achten, dass die Reifen die Temperatur behalten (z.B. Zick- Zack-Fahren)",
+          "correct": false
+        },
+        {
+          "text": "Die Linien des Startkorridors dürfen nicht vor dem Startsignal überfahren werden",
+          "correct": true
+        },
+        {
+          "text": "Es darf erst dann beschleunigt werden, wenn die Startampel grünes Licht zeigt",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Möglichst gleichmäßige und angepasste Geschwindigkeit beibehalten, bis das Startsignal erfolgt ist / Auf die Fahrer dahinter achten / Die Linien des Startkorridors dürfen nicht vor dem Startsignal überfahren werden",
+      "sources": []
+    },
+    {
+      "id": "10.06",
+      "chapter": 10,
+      "question": "Darf ein Fahrer, der das voraussichtliche Überholen durch einen nachfolgenden Fahrer verhindern möchte, die Spur wechseln und was hat er dabei gegebenenfalls zu beachten?",
+      "answers": [
+        {
+          "text": "Er darf die Spur einmal wechseln, wenn das Überholmanöver noch nicht begonnen hat",
+          "correct": true
+        },
+        {
+          "text": "Er darf die Spur sooft wechseln, wie es nötig erscheint, da er sich vor dem anderen Fahrer befindet",
+          "correct": false
+        },
+        {
+          "text": "Durch das Spurwechseln darf kein anderer Fahrer behindert werden",
+          "correct": true
+        },
+        {
+          "text": "Die Spur darf gar nicht gewechselt werden, wenn sich andere Fahrer auf der gleichen Geraden befinden",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "low",
+      "quickTip": "Merke dir für diese Frage: Er darf die Spur einmal wechseln, wenn das Überholmanöver noch nicht begonnen hat / Durch das Spurwechseln darf kein anderer Fahrer behindert werden",
+      "sources": []
+    },
+    {
+      "id": "10.07",
+      "chapter": 10,
+      "question": "Darf ein Fahrer während der Startprozedur den Startplatz vor ihm \"auffüllen\", wenn der betreffende Fahrer in diesem Rennen nicht mitfährt?",
+      "answers": [
+        {
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "text": "Nein",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Nein",
+      "sources": []
+    },
+    {
+      "id": "10.08",
+      "chapter": 10,
+      "question": "Womit muss ein Fahrer ausgangs einer Kurve rechnen, wenn er versucht einen Mitbewerber durch diese Kurve außen zu überholen?",
+      "answers": [
+        {
+          "text": "Beim Überholen in einer Kurve kann die Ideallinie nicht gefahren werden und somit könnte eine andere Geschwindigkeit als üblich erforderlich sein",
+          "correct": true
+        },
+        {
+          "text": "Es ist nichts anders, als wenn dieser Fahrer allein auf der Strecke wäre",
+          "correct": false
+        },
+        {
+          "text": "Der überholte Fahrer, der sich auf der inneren Linie befindet, wird ausgangs der Kurve auch nach außen fahren. Ich muss in jedem Fall versuchen, eine Kollision zu vermeiden",
+          "correct": true
+        },
+        {
+          "text": "Da er außen in der Kurve fährt, kann er wegen dem größeren Radius gefahrlos wesentlich schneller als üblich fahren",
+          "correct": false
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Beim Überholen in einer Kurve kann die Ideallinie nicht gefahren werden und somit könnte eine andere Geschwindigkeit als üblich erforderlich sein / Der überholte Fahrer, der sich auf der inneren Linie befindet, wird ausgangs der Kurve auch nach außen fahren. Ich muss in jedem Fall versuchen, eine Kollision zu vermeiden",
+      "sources": []
+    },
+    {
+      "id": "10.09",
+      "chapter": 10,
+      "question": "Was muss ein Fahrer hinsichtlich des Bremspunktes berücksichtigen, wenn er am Ende eines Pulks von mehreren Fahrern in einer langen Reihe fährt?",
+      "answers": [
+        {
+          "text": "Der Bremspunkt wird nicht anders sein",
+          "correct": false
+        },
+        {
+          "text": "Der Bremspunkt wird sicher später sein",
+          "correct": false
+        },
+        {
+          "text": "Der Bremspunkt wird eher als üblich sein",
+          "correct": true
+        }
+      ],
+      "solutionStatus": "provisional",
+      "solutionConfidence": "high",
+      "quickTip": "Merke dir für diese Frage: Der Bremspunkt wird eher als üblich sein",
+      "sources": []
+    }
+  ]
+}

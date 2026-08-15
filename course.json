@@ -1,0 +1,2036 @@
+{
+  "meta": {
+    "version": "0.2-review",
+    "updated": "2026-08-15",
+    "status": "editorial-review",
+    "title": "Kart-Lizenz-Kurs",
+    "note": "Redaktionsfassung. Alle 10 Kapitel sind angelegt. Fachliche Freigabe nach Review."
+  },
+  "chapters": [
+    {
+      "id": "1",
+      "title": "Wer macht die Regeln?",
+      "subtitle": "DMSB, FIA und CIK-FIA kennenlernen",
+      "lessons": [
+        {
+          "id": "1.1",
+          "title": "Motorsport hat Regeln",
+          "emoji": "🏁",
+          "minutes": 3,
+          "intro": "Auch beim Kartfahren braucht es Organisationen, die gemeinsame Regeln festlegen.",
+          "sections": [
+            {
+              "heading": "Der DMSB in Deutschland",
+              "text": "Der Deutsche Motor Sport Bund (DMSB) ist der deutsche Motorsport-Dachverband. Er veröffentlicht unter anderem Reglements und erteilt Motorsport-Lizenzen."
+            },
+            {
+              "heading": "Die FIA international",
+              "text": "Die FIA ist der internationale Automobil-Weltverband. Zum internationalen Kartsport gehört die CIK-FIA. Sie kümmert sich innerhalb der FIA um den Kartsport und seine internationalen Wettbewerbe."
+            }
+          ],
+          "remember": "Deutschland: DMSB. International: FIA. Für den internationalen Kartsport ist die CIK-FIA wichtig.",
+          "questions": [
+            {
+              "q": "Welche Organisation ist der deutsche Motorsport-Dachverband?",
+              "answers": [
+                "DMSB",
+                "CIK-FIA",
+                "WADA"
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Der DMSB ist der Deutsche Motor Sport Bund."
+            },
+            {
+              "q": "Wofür ist die CIK-FIA zuständig?",
+              "answers": [
+                "Für den internationalen Kartsport.",
+                "Nur für deutsche Clubrennen.",
+                "Für die Straßenverkehrsordnung."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die CIK-FIA ist die Kart-Kommission im internationalen FIA-System."
+            }
+          ],
+          "dmsbQuestions": [
+            "1.01",
+            "1.02"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Handbuch",
+              "section": "Allgemeine Regelwerke"
+            },
+            {
+              "document": "FIA / CIK-FIA",
+              "section": "Internationaler Kartsport"
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "title": "Die Fahrerlizenz",
+          "emoji": "🪪",
+          "minutes": 3,
+          "intro": "Wer an einem lizenzpflichtigen Kart-Wettbewerb teilnimmt, braucht die passende Fahrerlizenz.",
+          "sections": [
+            {
+              "heading": "Woher kommt sie?",
+              "text": "DMSB-Lizenzen werden beim DMSB beantragt. Welche Lizenz du brauchst, hängt vom Wettbewerb und dessen Status ab."
+            },
+            {
+              "heading": "Hilfe ist erlaubt",
+              "text": "Gerade am Anfang musst du das Lizenzsystem nicht allein durchschauen. Verein, Trainer oder erfahrene Kartfahrer können helfen – verbindlich sind aber die aktuellen DMSB-Bestimmungen."
+            }
+          ],
+          "remember": "Die passende Lizenz wird beim DMSB beantragt. Vorher prüfen, welche Lizenz der Wettbewerb verlangt.",
+          "questions": [
+            {
+              "q": "Wo beantragst du eine DMSB-Fahrerlizenz?",
+              "answers": [
+                "Beim DMSB.",
+                "Beim Streckenposten am Renntag.",
+                "Beim Reifenhersteller."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Lizenz kommt vom DMSB."
+            },
+            {
+              "q": "Warum lohnt sich vor dem Antrag ein Blick in die Bestimmungen?",
+              "answers": [
+                "Weil nicht jeder Wettbewerb dieselbe Lizenz verlangt.",
+                "Weil dort die Startnummer ausgelost wird."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Der Status des Wettbewerbs bestimmt mit, welche Lizenz benötigt wird."
+            }
+          ],
+          "dmsbQuestions": [
+            "1.03"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Lizenzbestimmungen Automobilsport",
+              "section": "Fahrer-Lizenzen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Welche Regeln gelten?",
+      "subtitle": "Nationale und internationale Regelwerke",
+      "lessons": [
+        {
+          "id": "2.1",
+          "title": "Die wichtigsten Regelbücher",
+          "emoji": "📚",
+          "minutes": 4,
+          "intro": "Eine einzelne Regeldatei beantwortet nicht jede Frage. Im Kartsport greifen mehrere Regelwerke ineinander.",
+          "sections": [
+            {
+              "heading": "DMSB-Regeln",
+              "text": "Für nationale Veranstaltungen sind besonders das DMSB-Kart-Reglement und das DMSB-Veranstaltungsreglement wichtig."
+            },
+            {
+              "heading": "Internationale Regeln",
+              "text": "Je nach Wettbewerb und Klasse spielen auch das Internationale Sportgesetz der FIA, CIK-FIA-Bestimmungen und technische CIK-FIA-Regeln eine Rolle."
+            }
+          ],
+          "remember": "Erst prüfen, welcher Wettbewerb und welche Klasse gemeint sind – dann das passende Regelwerk benutzen.",
+          "questions": [
+            {
+              "q": "Welche zwei DMSB-Regelwerke sind für Kartfahrer besonders wichtig?",
+              "answers": [
+                "Kart-Reglement und Veranstaltungsreglement",
+                "Straßenverkehrsordnung und Schulordnung",
+                "Nur die Ausschreibung"
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Kart- und Veranstaltungsreglement bilden wichtige Grundlagen."
+            },
+            {
+              "q": "Können internationale FIA-/CIK-FIA-Regeln auch wichtig sein?",
+              "answers": [
+                "Ja.",
+                "Nein, niemals."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Je nach Status und Klasse gelten auch internationale Regeln."
+            }
+          ],
+          "dmsbQuestions": [
+            "2.01",
+            "2.02"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Handbuch",
+              "section": "Kart- und Veranstaltungsreglement"
+            },
+            {
+              "document": "CIK-FIA",
+              "section": "Internationale Kart-Reglements"
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "International starten",
+          "emoji": "🌍",
+          "minutes": 3,
+          "intro": "Bei einem internationalen Wettbewerb reicht eine nationale Kart-Lizenz nicht automatisch aus.",
+          "sections": [
+            {
+              "heading": "Passende Lizenz",
+              "text": "Für internationale Kartrennen wird eine entsprechende internationale Kart-Lizenz benötigt. Welche Stufe passt, ergibt sich aus Lizenzbestimmungen, Alter, Klasse und Wettbewerb."
+            },
+            {
+              "heading": "Offizielle Sprachen",
+              "text": "Im internationalen CIK-FIA-Bereich sind Englisch und Französisch die offiziellen Sprachen."
+            }
+          ],
+          "remember": "Internationaler Wettbewerb = internationale Regeln und passende internationale Lizenz prüfen.",
+          "questions": [
+            {
+              "q": "Was brauchst du für einen internationalen Kart-Wettbewerb?",
+              "answers": [
+                "Eine passende internationale Kart-Lizenz.",
+                "Immer nur eine Race Card.",
+                "Gar keine Lizenz."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Internationale Wettbewerbe verlangen eine dafür gültige Lizenz."
+            },
+            {
+              "q": "Welche Sprachen sind bei der CIK-FIA offiziell?",
+              "answers": [
+                "Englisch und Französisch",
+                "Deutsch und Italienisch",
+                "Nur Englisch"
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Englisch und Französisch sind die offiziellen Sprachen."
+            }
+          ],
+          "dmsbQuestions": [
+            "2.03",
+            "2.04"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Lizenzbestimmungen Automobilsport",
+              "section": "Internationale Lizenzen"
+            },
+            {
+              "document": "CIK-FIA",
+              "section": "Regelwerke"
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "Wo finde ich den aktuellen Stand?",
+          "emoji": "🔎",
+          "minutes": 3,
+          "intro": "Regeln ändern sich. Eine alte PDF auf irgendeinem Rechner kann deshalb die falsche Antwort liefern.",
+          "sections": [
+            {
+              "heading": "Nationale Regeln",
+              "text": "Aktuelle DMSB-Reglements findest du auf den offiziellen DMSB-Seiten und im DMSB-Handbuch."
+            },
+            {
+              "heading": "Internationale Regeln",
+              "text": "CIK-FIA-Regeln werden über die offiziellen FIA-/Karting-Seiten veröffentlicht. Achte immer auf Jahr, Version und mögliche Bulletins."
+            }
+          ],
+          "remember": "Bei Regeln immer Quelle und Stand prüfen.",
+          "questions": [
+            {
+              "q": "Warum ist das Jahr eines Reglements wichtig?",
+              "answers": [
+                "Weil Regeln geändert werden können.",
+                "Weil ältere PDFs automatisch gelöscht werden.",
+                "Nur wegen der Farbe des Titelblatts."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Für den Wettbewerb zählt der gültige Stand."
+            },
+            {
+              "q": "Wo solltest du Regeln bevorzugt nachlesen?",
+              "answers": [
+                "Auf den offiziellen Seiten von DMSB bzw. FIA/CIK-FIA.",
+                "In irgendeinem alten Forumseintrag."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Offizielle Quellen sind für den aktuellen Regelstand maßgeblich."
+            }
+          ],
+          "dmsbQuestions": [
+            "2.05"
+          ],
+          "sources": [
+            {
+              "document": "DMSB",
+              "section": "Handbuch / Reglements"
+            },
+            {
+              "document": "FIA / CIK-FIA",
+              "section": "Karting Regulations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Ein Rennwochenende",
+      "subtitle": "Von der Ausschreibung bis zur Siegerehrung",
+      "lessons": [
+        {
+          "id": "3.1",
+          "title": "Die Ausschreibung ist dein Fahrplan",
+          "emoji": "🗓️",
+          "minutes": 4,
+          "intro": "Schon vor der Anreise kannst du viele wichtige Dinge über die Veranstaltung herausfinden.",
+          "sections": [
+            {
+              "heading": "Was steht drin?",
+              "text": "Die Veranstaltungsausschreibung nennt Teilnahmebedingungen, Status des Wettbewerbs und wichtige organisatorische Angaben."
+            },
+            {
+              "heading": "Zeitplan und Fahrerbesprechung",
+              "text": "Zeit und Ort einer Fahrerbesprechung stehen in den Veranstaltungsunterlagen beziehungsweise im offiziellen Zeitplan. Der Fahrer selbst muss an einer vorgeschriebenen Fahrerbesprechung teilnehmen."
+            }
+          ],
+          "remember": "Vor dem Rennwochenende Ausschreibung und Zeitplan lesen.",
+          "questions": [
+            {
+              "q": "Wo findest du die Teilnahmebedingungen?",
+              "answers": [
+                "In der Veranstaltungsausschreibung.",
+                "Auf der Rückseite des Helms.",
+                "Erst nach dem Rennen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Ausschreibung ist eine zentrale Informationsquelle."
+            },
+            {
+              "q": "Wer muss bei einer vorgeschriebenen Fahrerbesprechung teilnehmen?",
+              "answers": [
+                "Der Fahrer selbst.",
+                "Nur die Eltern.",
+                "Niemand, wenn man die Strecke kennt."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Fahrerbesprechung richtet sich an die Fahrer."
+            }
+          ],
+          "dmsbQuestions": [
+            "3.01",
+            "3.06",
+            "3.07",
+            "3.08",
+            "3.09",
+            "3.10"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Veranstaltungsreglement",
+              "section": "Ausschreibung / Veranstaltungsorganisation"
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Dokumente und Technische Abnahme",
+          "emoji": "✅",
+          "minutes": 4,
+          "intro": "Bevor es auf die Strecke geht, werden Fahrerunterlagen und Kart kontrolliert.",
+          "sections": [
+            {
+              "heading": "Dokumentenabnahme",
+              "text": "Sportrechtlich beginnt die Veranstaltung für den Teilnehmer mit der Dokumentenabnahme beziehungsweise Registrierung. Dort werden unter anderem die erforderlichen Lizenzen und Veranstaltungsunterlagen geprüft."
+            },
+            {
+              "heading": "Technische Abnahme",
+              "text": "Das Kart wird im vorgesehenen Wettbewerbszustand vorgestellt. Auch die vorgeschriebene persönliche Sicherheitsausrüstung gehört zur Kontrolle."
+            }
+          ],
+          "remember": "Erst Papierkram und Technik in Ordnung bringen – dann auf die Strecke.",
+          "questions": [
+            {
+              "q": "Was wird bei der Dokumentenabnahme besonders geprüft?",
+              "answers": [
+                "Erforderliche Unterlagen und Lizenzen.",
+                "Nur der Reifendruck.",
+                "Die schnellste Rundenzeit."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Dokumentenabnahme prüft die Teilnahmeunterlagen."
+            },
+            {
+              "q": "Was gehört zur Technischen Abnahme?",
+              "answers": [
+                "Kart und vorgeschriebene Sicherheitsausrüstung.",
+                "Nur der Motor.",
+                "Nur der Helm."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Kart und Ausrüstung müssen den Bestimmungen entsprechen."
+            }
+          ],
+          "dmsbQuestions": [
+            "3.02",
+            "3.04",
+            "3.05"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Veranstaltungsreglement",
+              "section": "Dokumenten- und Technische Abnahme"
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Nennung, Protest und Fristen",
+          "emoji": "⚖️",
+          "minutes": 5,
+          "intro": "Motorsport hat ein eigenes sportrechtliches Verfahren. Deshalb sind Begriffe und Fristen wichtig.",
+          "sections": [
+            {
+              "heading": "Nennung",
+              "text": "Eine Nennung ist die Anmeldung zur Veranstaltung. Ein Veranstalter kann eine Nennung nach den geltenden Regeln ablehnen; eine Ablehnung muss entsprechend behandelt beziehungsweise begründet werden."
+            },
+            {
+              "heading": "Protest",
+              "text": "Ein Protest ist ein formelles sportrechtliches Mittel. Für Proteste gelten Form, Zuständigkeit und kurze Fristen. Bei einem veröffentlichten Ergebnis kann beispielsweise eine Protestfrist laufen."
+            }
+          ],
+          "remember": "Sportrechtliche Fragen nicht mit einer Diskussion im Fahrerlager verwechseln: Form und Frist zählen.",
+          "questions": [
+            {
+              "q": "Wie heißt die formelle sportrechtliche Beschwerdemöglichkeit?",
+              "answers": [
+                "Protest",
+                "Boxenfunk",
+                "Training"
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Der Protest ist ein geregeltes sportrechtliches Verfahren."
+            },
+            {
+              "q": "Warum muss man bei einem Protest schnell handeln?",
+              "answers": [
+                "Weil dafür Fristen gelten.",
+                "Weil das Kart sonst schwerer wird."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Nach Ablauf einer Frist kann ein Protest unzulässig sein."
+            }
+          ],
+          "dmsbQuestions": [
+            "3.03",
+            "3.11",
+            "3.12"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Veranstaltungsreglement",
+              "section": "Nennungen / Proteste"
+            },
+            {
+              "document": "Internationales Sportgesetz FIA",
+              "section": "Proteste"
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "Bis zum Schluss gehört es dazu",
+          "emoji": "🏆",
+          "minutes": 4,
+          "intro": "Ein Rennwochenende endet nicht einfach mit deiner letzten Runde.",
+          "sections": [
+            {
+              "heading": "Siegerehrung",
+              "text": "Die vorgeschriebene Siegerehrung gehört zur Veranstaltung. Platzierte Fahrer müssen die entsprechenden Pflichten beachten."
+            },
+            {
+              "heading": "Abmelden",
+              "text": "Kannst du nicht teilnehmen oder willst du vorzeitig abreisen, meldest du dich an der vorgesehenen Stelle ab. So weiß die Organisation, dass niemand vermisst wird."
+            },
+            {
+              "heading": "Fahrerlager",
+              "text": "Beim Verlassen bleibt dein Platz sauber. Abfälle und Betriebsstoffe werden umweltgerecht entsorgt."
+            }
+          ],
+          "remember": "Verantwortung endet erst, wenn du Veranstaltung und Fahrerlager ordentlich verlassen hast.",
+          "questions": [
+            {
+              "q": "Was solltest du tun, wenn du kurzfristig nicht teilnehmen kannst?",
+              "answers": [
+                "Den Veranstalter so früh wie möglich informieren.",
+                "Einfach nicht erscheinen.",
+                "Nur einem anderen Fahrer schreiben."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Organisation muss wissen, dass du nicht kommst."
+            },
+            {
+              "q": "Was gehört beim Verlassen des Fahrerlagers dazu?",
+              "answers": [
+                "Platz sauber hinterlassen und Abfälle richtig entsorgen.",
+                "Müll liegen lassen, weil aufgeräumt wird."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Teilnehmer tragen Verantwortung für ihren Platz."
+            }
+          ],
+          "dmsbQuestions": [
+            "3.13",
+            "3.14",
+            "3.15",
+            "3.16"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Veranstaltungsreglement",
+              "section": "Siegerehrung / Teilnehmerpflichten"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Auf der Rennstrecke",
+      "subtitle": "Flaggen, Start, SLOW, Reparaturzone und Parc Fermé",
+      "lessons": [
+        {
+          "id": "4.1",
+          "title": "Flaggen – die Sprache der Rennleitung",
+          "emoji": "🚩",
+          "minutes": 5,
+          "intro": "Auf der Strecke kann dir die Rennleitung nicht einfach etwas zurufen. Dafür gibt es Flaggen. Wer ihre Sprache versteht, weiß sofort, was zu tun ist.",
+          "sections": [
+            {
+              "heading": "Warum gibt es Flaggen?",
+              "text": "Beim Kartfahren passiert vieles sehr schnell. Eine Gefahr kann hinter der nächsten Kurve liegen, ein Fahrer kann ein technisches Problem haben oder ein Rennen muss beendet werden. Flaggen geben dir solche Informationen sofort. Darum behältst du auch die Streckenposten im Blick."
+            },
+            {
+              "heading": "Drei besonders wichtige Signale",
+              "text": "Gelb bedeutet Gefahr: Geschwindigkeit verringern, besonders aufmerksam sein und nicht überholen. Rot bedeutet, dass Training oder Rennen unterbrochen wird; du fährst kontrolliert weiter und beachtest die Anweisungen. Die schwarz-weiß karierte Flagge beendet Training oder Rennen für dich: Nach dem Abwinken fährst du die vorgeschriebene Auslaufrunde beziehungsweise zum vorgesehenen Bereich."
+            },
+            {
+              "heading": "Flaggen für einen bestimmten Fahrer",
+              "text": "Manche Flaggen werden zusammen mit deiner Startnummer gezeigt. Schwarz-weiß diagonal geteilt ist eine Verwarnung wegen unsportlichen Verhaltens. Schwarz mit orangefarbener Scheibe weist auf ein technisches Problem hin: Du musst bei der nächsten Möglichkeit die Reparaturzone anfahren. Eine schwarze Flagge bedeutet für den betroffenen Fahrer, dass er das Rennen beenden und sich bei der Rennleitung melden muss."
+            }
+          ],
+          "remember": "Flaggen sind Anweisungen, keine Tipps. Auch wenn du die Gefahr selbst noch nicht siehst, gilt das gezeigte Signal.",
+          "questions": [
+            {
+              "q": "Warum musst du eine gelbe Flagge beachten, obwohl du selbst noch keine Gefahr siehst?",
+              "answers": [
+                "Weil der Streckenposten dich vor einer Gefahr warnt, die du vielleicht noch nicht erkennen kannst.",
+                "Nur damit alle Fahrer gleich schnell fahren.",
+                "Gelb ist nur eine Empfehlung."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Der Streckenposten hat einen anderen Blick auf die Situation und warnt dich rechtzeitig."
+            },
+            {
+              "q": "Was ist bei einer gelben Flagge besonders wichtig?",
+              "answers": [
+                "Beschleunigen, damit die Gefahrenstelle schnell vorbei ist.",
+                "Geschwindigkeit verringern, aufmerksam sein und nicht überholen.",
+                "Nur den Fahrer direkt vor mir nicht überholen."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Im Gefahrenbereich gilt Überholverbot und du musst so fahren, dass du reagieren kannst."
+            },
+            {
+              "q": "Die schwarze Flagge mit orangefarbener Scheibe wird mit deiner Startnummer gezeigt. Was ist der Grund?",
+              "answers": [
+                "Ein technisches Problem an deinem Kart.",
+                "Du hast das Rennen gewonnen.",
+                "Die Strecke ist wieder frei."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Das Signal weist den betroffenen Fahrer auf ein technisches Problem hin."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.06",
+            "4.07",
+            "4.08",
+            "4.09",
+            "4.10",
+            "4.11",
+            "4.12",
+            "4.13",
+            "4.14",
+            "4.15",
+            "4.16"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.5 Flaggen / Startampel"
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "SLOW und Rennunterbrechung",
+          "emoji": "🐢",
+          "minutes": 5,
+          "intro": "Manchmal ist Weiterfahren möglich, aber normales Renntempo wäre zu gefährlich. Dann kann das Rennen neutralisiert werden.",
+          "sections": [
+            {
+              "heading": "Was bedeutet SLOW?",
+              "text": "Werden gelbe Flaggen zusammen mit einem SLOW-Schild gezeigt, ist das Rennen neutralisiert. Es gilt Überholverbot. Die Fahrer bilden eine Reihe hinter dem Führenden und fahren so geschlossen wie möglich. Der Führende bestimmt eine stark reduzierte Geschwindigkeit."
+            },
+            {
+              "heading": "Die Runden zählen weiter",
+              "text": "SLOW ist keine Pause. Die unter SLOW gefahrenen Runden gehören zur Renndistanz. Du bleibst also konzentriert und hältst deine Position."
+            },
+            {
+              "heading": "Wenn Rot gezeigt wird",
+              "text": "Eine rote Flagge unterbricht den Wettbewerb. Dann geht es nicht darum, möglichst schnell noch irgendwohin zu kommen. Du verringerst die Geschwindigkeit, überholst nicht und fährst zu dem im Reglement beziehungsweise von der Rennleitung vorgesehenen Bereich. Dort wartest du auf weitere Anweisungen."
+            }
+          ],
+          "remember": "SLOW heißt: Rennen läuft weiter, aber neutralisiert. Rot heißt: Wettbewerb ist unterbrochen.",
+          "questions": [
+            {
+              "q": "Darfst du während einer SLOW-Phase überholen?",
+              "answers": [
+                "Ja, wenn der Vordermann sehr langsam ist.",
+                "Nein.",
+                "Nur auf der Start-Ziel-Geraden."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Während der Neutralisation gilt Überholverbot."
+            },
+            {
+              "q": "Zählen SLOW-Runden zur Renndistanz?",
+              "answers": [
+                "Ja.",
+                "Nein, sie werden später abgezogen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "SLOW-Runden gehören zur vorgesehenen Rundenzahl."
+            },
+            {
+              "q": "Warum gibt es bei SLOW keine feste Aufgabe, möglichst schnell zum Führenden aufzuschließen?",
+              "answers": [
+                "Weil Sicherheit und eine kontrollierte, geschlossene Reihe wichtiger sind als Renntempo.",
+                "Weil nur der Letzte langsam fahren muss."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Neutralisation soll die gefährliche Situation beherrschbar machen."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.17",
+            "4.34",
+            "4.35",
+            "4.37"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.14 Neutralisation / Unterbrechung / Fortführung"
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Vorstart und Start",
+          "emoji": "🏁",
+          "minutes": 6,
+          "intro": "Ein Rennen beginnt nicht erst beim Startsignal. Schon im Vorstart und in der Formationsrunde gelten feste Regeln.",
+          "sections": [
+            {
+              "heading": "Der Vorstart ist kein Werkstattplatz",
+              "text": "Im Vorstart werden Fahrer und Karts für den Start gesammelt. Der Bereich wird vor dem Rennen geschlossen. Deshalb musst du rechtzeitig dort sein. Nur die ausdrücklich erlaubten Personen und Dinge dürfen hinein; Arbeiten am Kart sind stark eingeschränkt."
+            },
+            {
+              "heading": "Formationsrunde",
+              "text": "Vor dem Start fahren die Karts in ihrer Startordnung. Diese Runde dient dazu, das Feld für den Start zu formieren. Wer seine Position verloren hat, darf sie nur unter den dafür vorgesehenen Bedingungen wieder einnehmen. Eigenmächtiges Drängeln oder gefährliches Überholen gehört nicht dazu."
+            },
+            {
+              "heading": "Rollend oder stehend",
+              "text": "Im Kartsport gibt es rollende und stehende Starts. Welche Startart verwendet wird, hängt von der Klasse ab. Entscheidend ist immer das Startsignal und die dafür festgelegte Linie beziehungsweise der Zeitpunkt, ab dem wieder überholt werden darf."
+            }
+          ],
+          "remember": "Rechtzeitig im Vorstart sein, Startordnung beachten und erst dann Rennen fahren, wenn der Start wirklich freigegeben ist.",
+          "questions": [
+            {
+              "q": "Warum solltest du nicht erst in letzter Sekunde zum Vorstart kommen?",
+              "answers": [
+                "Weil der Vorstart vor dem Rennen geschlossen wird.",
+                "Weil dort die schnellsten Runden gemessen werden.",
+                "Weil danach automatisch die Startnummer wechselt."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Wer zu spät kommt, kann seinen normalen Startplatz beziehungsweise die normale Startprozedur verlieren."
+            },
+            {
+              "q": "Wozu dient die Formationsrunde?",
+              "answers": [
+                "Das Feld wird für den Start geordnet.",
+                "Sie ist bereits die erste Rennrunde.",
+                "Man darf dort beliebig Plätze tauschen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Fahrer sollen in der vorgesehenen Ordnung zum Start kommen."
+            },
+            {
+              "q": "Gibt es im Kartsport nur eine einzige Startart?",
+              "answers": [
+                "Ja, immer rollend.",
+                "Ja, immer stehend.",
+                "Nein, es gibt rollende und stehende Starts."
+              ],
+              "correct": [
+                2
+              ],
+              "explain": "Je nach Klasse wird unterschiedlich gestartet."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.01",
+            "4.18",
+            "4.19",
+            "4.20",
+            "4.21",
+            "4.22",
+            "4.23",
+            "4.24",
+            "4.29",
+            "4.33",
+            "4.36",
+            "4.02"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.9–B.12 Vorstart / Formationsrunde / Start / Fehlstart"
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Sicher fahren – auch wenn etwas schiefgeht",
+          "emoji": "🛠️",
+          "minutes": 5,
+          "intro": "Ein Defekt, ein Dreher oder ein langsames Kart darf nicht zu einer zusätzlichen Gefahr für andere werden.",
+          "sections": [
+            {
+              "heading": "Probleme auf der Strecke",
+              "text": "Wenn dein Kart ein Problem hat, ist zuerst wichtig, dass du niemanden gefährdest. Ein liegen gebliebenes Kart wird an eine möglichst sichere Stelle gebracht, soweit das gefahrlos möglich ist. Anweisungen der Sportwarte haben Vorrang."
+            },
+            {
+              "heading": "Langsamer als die anderen",
+              "text": "Wenn du aus irgendeinem Grund deutlich langsamer fahren musst, beobachtest du besonders aufmerksam den Verkehr. Deine Fahrweise muss vorhersehbar sein. Plötzliche Richtungswechsel vor einem schnelleren Kart sind gefährlich."
+            },
+            {
+              "heading": "Zurück auf die Strecke",
+              "text": "Nach einem Ausritt darfst du nicht blind wieder auf die Ideallinie fahren. Eine Rückkehr ist nur so zulässig, dass andere Teilnehmer nicht gefährdet oder behindert werden und die Regeln für fremde Hilfe eingehalten werden."
+            }
+          ],
+          "remember": "Bei einem Problem gilt zuerst: berechenbar bleiben, niemanden gefährden und die Sportwarte beachten.",
+          "questions": [
+            {
+              "q": "Was ist wichtiger, wenn dein Kart plötzlich ein Problem hat?",
+              "answers": [
+                "Trotzdem unbedingt die Position verteidigen.",
+                "Eine zusätzliche Gefahr vermeiden.",
+                "Sofort auf der Ideallinie anhalten."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Sicherheit geht vor dem Rennergebnis."
+            },
+            {
+              "q": "Du kommst nach einem Ausritt zurück zur Strecke. Was musst du besonders beachten?",
+              "answers": [
+                "Andere Fahrer dürfen nicht gefährdet oder behindert werden.",
+                "Du hast immer Vorfahrt.",
+                "Du musst sofort auf die Ideallinie."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die sichere Rückkehr in den Verkehr ist entscheidend."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.25",
+            "4.26",
+            "4.28",
+            "4.31",
+            "4.32",
+            "4.40",
+            "4.43",
+            "4.03",
+            "4.04",
+            "4.05"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.4 Allgemeine Sicherheit / B.13 Fremde Hilfe und Reparaturzone"
+            }
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Reparaturzone und technische Probleme",
+          "emoji": "🔧",
+          "minutes": 5,
+          "intro": "Reparieren darf man im Rennen nicht einfach überall. Dafür gibt es einen festgelegten Bereich.",
+          "sections": [
+            {
+              "heading": "Warum eine Reparaturzone?",
+              "text": "Arbeiten an einem Kart mitten auf oder direkt neben der Rennstrecke wären gefährlich. Die Reparaturzone schafft einen festgelegten Ort, an dem erlaubte Hilfe stattfinden kann. Wer sie anfährt oder wieder verlässt, muss besonders auf den übrigen Verkehr achten."
+            },
+            {
+              "heading": "Fremde Hilfe",
+              "text": "Fremde Hilfe ist während eines Wettbewerbsteils grundsätzlich nur dort erlaubt, wo das Reglement sie zulässt. Deshalb ist die Reparaturzone so wichtig: Sie trennt Reparatur und Hilfe vom normalen Renngeschehen."
+            },
+            {
+              "heading": "Technisches Signal",
+              "text": "Zeigt die Rennleitung die schwarze Flagge mit orangefarbener Scheibe zusammen mit deiner Startnummer, wurde ein technisches Problem erkannt. Dann fährst du bei der nächsten Möglichkeit die Reparaturzone an. Dort kann das Problem behoben werden, soweit die Regeln dies erlauben."
+            }
+          ],
+          "remember": "Reparaturen gehören in die Reparaturzone – nicht irgendwo an die Strecke.",
+          "questions": [
+            {
+              "q": "Warum gibt es eine Reparaturzone?",
+              "answers": [
+                "Damit Arbeiten und Hilfe in einem festgelegten, sichereren Bereich stattfinden.",
+                "Damit man dort überholen kann.",
+                "Damit jede Runde ein Mechaniker das Kart prüfen kann."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Reparaturen sollen vom normalen Rennverkehr getrennt sein."
+            },
+            {
+              "q": "Was bedeutet die schwarze Flagge mit orangefarbener Scheibe zusammen mit deiner Startnummer?",
+              "answers": [
+                "Technisches Problem – Reparaturzone bei der nächsten Möglichkeit anfahren.",
+                "Sofortiger Rennsieg.",
+                "Freie Fahrt ohne Geschwindigkeitsbegrenzung."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Das Signal informiert den betroffenen Fahrer über ein technisches Problem."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.09",
+            "4.22",
+            "4.28",
+            "4.31",
+            "4.40",
+            "4.27",
+            "4.30"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.5 Flaggen / B.13 Reparaturzone"
+            }
+          ]
+        },
+        {
+          "id": "4.6",
+          "title": "Frontspoiler: Nicht einfach zurückdrücken",
+          "emoji": "🧩",
+          "minutes": 4,
+          "intro": "Der Frontspoiler besitzt ein Befestigungssystem, das bei einem entsprechenden Kontakt auslösen kann. Danach gelten klare Regeln.",
+          "sections": [
+            {
+              "heading": "Ausgelöst heißt ausgelöst",
+              "text": "Ist das Frontspoiler-Befestigungskit ausgelöst, darfst du es nicht einfach während der Fahrt oder irgendwo am Streckenrand wieder in Position bringen. Das Zurücksetzen wird als Reparatur angesehen."
+            },
+            {
+              "heading": "Während des Wettbewerbsteils",
+              "text": "Soll der Frontspoiler vor dem Ende des Wettbewerbsteils zurückgesetzt werden, darf das ausschließlich in der Reparaturzone geschehen, wenn diese auf dem vorgeschriebenen Weg erreicht wird."
+            },
+            {
+              "heading": "Nach dem Abwinken",
+              "text": "Auch nach der Zielflagge darf nicht sofort am Kart gearbeitet werden. Bis zum Ende des vorgeschriebenen Bereichs rund um die Wiegeprozedur gelten Parc-Fermé-Bedingungen. Erst nach der Freigabe ist der Wettbewerbsteil für diese Frage praktisch erledigt und der Spoiler kann wieder in Ordnung gebracht werden."
+            }
+          ],
+          "remember": "Frontspoiler zurücksetzen = Reparatur. Im Wettbewerb nur Reparaturzone; nach dem Ziel erst nach Freigabe aus dem Parc Fermé.",
+          "questions": [
+            {
+              "q": "Darfst du einen ausgelösten Frontspoiler während der Fahrt mit der Hand zurückdrücken?",
+              "answers": [
+                "Ja.",
+                "Nein."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Das Zurücksetzen gilt als Reparatur."
+            },
+            {
+              "q": "Wo darf der Frontspoiler während des Wettbewerbsteils regelgerecht zurückgesetzt werden?",
+              "answers": [
+                "In der Reparaturzone.",
+                "Auf der Startaufstellung während der Fahrt.",
+                "An jeder sicheren Stelle neben der Strecke."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Während des Wettbewerbsteils ist dafür die Reparaturzone vorgesehen."
+            },
+            {
+              "q": "Darfst du direkt nach der Zielflagge vor der Waage am Frontspoiler arbeiten?",
+              "answers": [
+                "Ja, das Rennen ist ja abgewinkt.",
+                "Nein, dort gelten noch Parc-Fermé-Regeln."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Nach dem Abwinken darf das Kart bis zur Freigabe nicht einfach verändert werden."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.38",
+            "4.42"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.15 Parc Fermé / B.18 Frontspoiler-Befestigung"
+            }
+          ]
+        },
+        {
+          "id": "4.7",
+          "title": "Ziel, Waage und Parc Fermé",
+          "emoji": "⚖️",
+          "minutes": 5,
+          "intro": "Mit der karierten Flagge ist die schnelle Fahrt vorbei – die Regeln aber noch nicht.",
+          "sections": [
+            {
+              "heading": "Nach der Zielflagge",
+              "text": "Nach dem Abwinken fährst du kontrolliert den vorgeschriebenen Weg. Du darfst nicht plötzlich anhalten, feiern oder am Kart schrauben. Die Veranstaltung braucht ein korrektes Ergebnis und möglicherweise technische Kontrollen."
+            },
+            {
+              "heading": "Warum wird gewogen?",
+              "text": "Im Kartsport gelten technische Vorgaben, zu denen auch Gewichtsbestimmungen gehören können. Deshalb führt der Weg nach dem Rennen in den vorgesehenen Wiege- und Parc-Fermé-Bereich. Dort darf das Kart nicht eigenmächtig verändert werden."
+            },
+            {
+              "heading": "Wann ist wirklich Schluss?",
+              "text": "Ein Wettbewerb ist nicht in dem Augenblick vollständig erledigt, in dem du die Zielflagge siehst. Ergebnis, Kontrollen und die vorgesehenen Fristen gehören ebenfalls zum Ablauf. Für dich heißt das vor allem: Nach dem Ziel weiterhin Anweisungen beachten und das Kart erst verändern, wenn es freigegeben ist."
+            }
+          ],
+          "remember": "Zielflagge bedeutet: Fahrt beendet. Sie bedeutet nicht: Regeln beendet.",
+          "questions": [
+            {
+              "q": "Darfst du direkt nach dem Abwinken am Kart etwas verändern?",
+              "answers": [
+                "Ja, immer.",
+                "Nein, im vorgeschriebenen Parc-Fermé-/Wiegebereich nicht."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Nach dem Ziel können Kontrollen folgen; das Kart muss unverändert bleiben."
+            },
+            {
+              "q": "Warum gibt es nach dem Rennen einen Parc Fermé?",
+              "answers": [
+                "Damit Karts für Kontrollen unverändert bleiben.",
+                "Damit dort noch eine Extrarunde gefahren wird.",
+                "Damit Fahrer ihre Startplätze tauschen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Kontrollen sollen am Zustand nach dem Wettbewerb möglich sein."
+            },
+            {
+              "q": "Ist mit dem Sehen der Zielflagge sofort jede Regel des Wettbewerbs erledigt?",
+              "answers": [
+                "Ja.",
+                "Nein."
+              ],
+              "correct": [
+                1
+              ],
+              "explain": "Nach dem Abwinken folgen noch vorgeschriebene Abläufe und gegebenenfalls Kontrollen."
+            }
+          ],
+          "dmsbQuestions": [
+            "4.07",
+            "4.39",
+            "4.41",
+            "4.42",
+            "4.43",
+            "4.44"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "B.15 Beendigung des Rennens / Parc Fermé / Nachkontrolle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Deine Fahrerlizenz",
+      "subtitle": "Beantragung, Gültigkeit und Race Card",
+      "lessons": [
+        {
+          "id": "5.1",
+          "title": "Lizenz beantragen und gültig halten",
+          "emoji": "🪪",
+          "minutes": 4,
+          "intro": "Die Fahrerlizenz zeigt, für welche Wettbewerbe du startberechtigt bist.",
+          "sections": [
+            {
+              "heading": "Beantragung",
+              "text": "DMSB-Lizenzen werden online über das Lizenzportal beantragt. Die Voraussetzungen hängen von der Lizenzstufe ab."
+            },
+            {
+              "heading": "Gültigkeit",
+              "text": "Eine Jahreslizenz gilt für das jeweilige Kalenderjahr. Eine Lizenz aus dem Vorjahr ist deshalb nicht einfach im neuen Jahr weiter gültig."
+            }
+          ],
+          "remember": "Vor dem ersten Rennen der Saison prüfen: Ist die richtige Lizenz für dieses Jahr gültig?",
+          "questions": [
+            {
+              "q": "Wie lange gilt eine normale DMSB-Jahreslizenz?",
+              "answers": [
+                "Bis zum Ende des jeweiligen Kalenderjahres.",
+                "Für immer.",
+                "Genau 30 Tage."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Jahreslizenz endet mit dem Lizenzjahr."
+            },
+            {
+              "q": "Kannst du im neuen Jahr einfach mit der Lizenz vom Vorjahr starten?",
+              "answers": [
+                "Nein.",
+                "Ja, immer."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Für das neue Lizenzjahr brauchst du eine gültige Lizenz."
+            }
+          ],
+          "dmsbQuestions": [
+            "5.01",
+            "5.02",
+            "5.04"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Lizenzbestimmungen Automobilsport",
+              "section": "Lizenzerteilung / zeitliche Gültigkeit"
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Race Card und Clubsport",
+          "emoji": "🎫",
+          "minutes": 4,
+          "intro": "Für bestimmte Veranstaltungen gibt es neben Jahreslizenzen auch eine veranstaltungsbezogene Lösung.",
+          "sections": [
+            {
+              "heading": "Race Card",
+              "text": "Die DMSB Race Card entspricht der Nationalen Lizenz Stufe C und gilt für die beantragte Veranstaltung."
+            },
+            {
+              "heading": "Clubsport",
+              "text": "Welche Lizenz oder Genehmigung bei einem Clubsport-Kartrennen verlangt wird, steht in den dafür geltenden Bestimmungen und der Ausschreibung."
+            }
+          ],
+          "remember": "Race Card: veranstaltungsbezogen. Jahreslizenz: für das jeweilige Lizenzjahr.",
+          "questions": [
+            {
+              "q": "Gilt eine Race Card automatisch für die ganze Saison?",
+              "answers": [
+                "Nein, sie gilt für die beantragte Veranstaltung.",
+                "Ja."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Race Card ist veranstaltungsbezogen."
+            },
+            {
+              "q": "Welcher Lizenzstufe entspricht die Race Card im Fragenkatalog?",
+              "answers": [
+                "Nationale Lizenz Stufe C",
+                "Internationale Lizenz A",
+                "Sportwartlizenz"
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Im Fragenkatalog wird sie der Nationalen Lizenz Stufe C zugeordnet."
+            }
+          ],
+          "dmsbQuestions": [
+            "5.03",
+            "5.05",
+            "5.06"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Lizenzbestimmungen Automobilsport",
+              "section": "Nationale Lizenz / Race Card"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Entscheidungen und Sportrecht",
+      "subtitle": "Wer entscheidet – und wie kann man sich wehren?",
+      "lessons": [
+        {
+          "id": "6.1",
+          "title": "Rennleiter und Sportkommissare",
+          "emoji": "👩‍⚖️",
+          "minutes": 4,
+          "intro": "Bei einer Veranstaltung haben Offizielle unterschiedliche Aufgaben und Befugnisse.",
+          "sections": [
+            {
+              "heading": "Rennleiter",
+              "text": "Der Rennleiter steuert den sportlichen Ablauf und gibt verbindliche Informationen zum Veranstaltungsablauf. Im Rahmen seiner Befugnisse kann er auch Wertungsstrafen aussprechen."
+            },
+            {
+              "heading": "Sportkommissare",
+              "text": "Die Sportkommissare sind das sportrechtliche Entscheidungsgremium der Veranstaltung und entscheiden unter anderem über Proteste."
+            }
+          ],
+          "remember": "Rennleiter: Ablauf und Rennleitung. Sportkommissare: sportrechtliches Gremium.",
+          "questions": [
+            {
+              "q": "Wer gibt verbindliche Informationen zum Veranstaltungsablauf?",
+              "answers": [
+                "Der Rennleiter.",
+                "Ein Zuschauer.",
+                "Der schnellste Fahrer."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Dafür ist die Rennleitung zuständig."
+            },
+            {
+              "q": "Wer entscheidet über einen Protest?",
+              "answers": [
+                "Die Sportkommissare.",
+                "Der Mechaniker.",
+                "Der Streckenposten allein."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Proteste werden sportrechtlich von den Sportkommissaren behandelt."
+            }
+          ],
+          "dmsbQuestions": [
+            "6.01",
+            "6.02",
+            "6.06"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Veranstaltungsreglement",
+              "section": "Rennleiter / Sportkommissare"
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Protest und Berufung",
+          "emoji": "📄",
+          "minutes": 5,
+          "intro": "Wer eine sportrechtliche Entscheidung anfechten will, muss das vorgesehene Verfahren benutzen.",
+          "sections": [
+            {
+              "heading": "Protest",
+              "text": "Ein Protest muss formgerecht und innerhalb der vorgeschriebenen Frist eingelegt werden. Ein Zuruf im Fahrerlager ersetzt keinen Protest."
+            },
+            {
+              "heading": "Berufung",
+              "text": "Gegen bestimmte Entscheidungen der Sportkommissare kann als weiteres Rechtsmittel eine Berufung vorgesehen sein. Auch dafür gelten genaue Regeln und Fristen."
+            }
+          ],
+          "remember": "Protest und Berufung sind formelle Rechtsmittel – immer Frist und Form beachten.",
+          "questions": [
+            {
+              "q": "Was ist bei einem Protest besonders wichtig?",
+              "answers": [
+                "Form und Frist.",
+                "Die Farbe des Karts.",
+                "Die Startnummer muss gerade sein."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Ein Rechtsmittel kann an Form- oder Fristfehlern scheitern."
+            },
+            {
+              "q": "Wie heißt das Rechtsmittel gegen bestimmte Entscheidungen der Sportkommissare?",
+              "answers": [
+                "Berufung",
+                "Training",
+                "Nennung"
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die weitere Überprüfung kann über eine Berufung erfolgen."
+            }
+          ],
+          "dmsbQuestions": [
+            "6.03",
+            "6.04",
+            "6.05"
+          ],
+          "sources": [
+            {
+              "document": "Internationales Sportgesetz FIA / DMSB-Regelwerk",
+              "section": "Protest und Berufung"
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Wer trägt die Verantwortung?",
+          "emoji": "🔧",
+          "minutes": 3,
+          "intro": "Auch wenn Mechaniker am Kart arbeiten, bleibt die sportrechtliche Verantwortung klar geregelt.",
+          "sections": [
+            {
+              "heading": "Wettbewerbsmaterial",
+              "text": "Fahrer beziehungsweise Bewerber sind dafür verantwortlich, dass das eingesetzte Material den technischen Regeln entspricht."
+            },
+            {
+              "heading": "Vor dem Start prüfen",
+              "text": "Darum ist 'Das hat mein Mechaniker gemacht' keine sichere Antwort auf ein technisches Problem im Reglement."
+            }
+          ],
+          "remember": "Wer startet, muss sicherstellen, dass sein Wettbewerbsmaterial regelkonform ist.",
+          "questions": [
+            {
+              "q": "Wer trägt sportrechtlich die Verantwortung für regelkonformes Wettbewerbsmaterial?",
+              "answers": [
+                "Fahrer/Bewerber.",
+                "Nur der Hersteller.",
+                "Ein Zuschauer."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Verantwortung liegt beim Teilnehmer beziehungsweise Bewerber."
+            }
+          ],
+          "dmsbQuestions": [
+            "6.07"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Regelwerk",
+              "section": "Verantwortlichkeit des Teilnehmers/Bewerbers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Die Sportwarte",
+      "subtitle": "Wer dir an der Strecke begegnet",
+      "lessons": [
+        {
+          "id": "7.1",
+          "title": "Offizielle erkennen und richtig fragen",
+          "emoji": "👷",
+          "minutes": 4,
+          "intro": "Eine Kartveranstaltung funktioniert nur mit vielen Sportwarten.",
+          "sections": [
+            {
+              "heading": "Wer ist eingesetzt?",
+              "text": "Welche Offiziellen eingesetzt sind, steht in den Veranstaltungsunterlagen beziehungsweise der Ausschreibung."
+            },
+            {
+              "heading": "Technische Fragen",
+              "text": "Für verbindliche technische Kontrollen und Auskünfte ist der Technische Kommissar der richtige Ansprechpartner."
+            }
+          ],
+          "remember": "Bei einer wichtigen Frage den zuständigen Offiziellen ansprechen – nicht auf Fahrerlager-Gerüchte verlassen.",
+          "questions": [
+            {
+              "q": "Wer ist der richtige Ansprechpartner für eine technische Regelfrage am Kart?",
+              "answers": [
+                "Der Technische Kommissar.",
+                "Irgendein Zuschauer.",
+                "Nur ein anderer Fahrer."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Technische Kommissare prüfen die Übereinstimmung mit technischen Bestimmungen."
+            },
+            {
+              "q": "Wo findest du die eingesetzten Offiziellen?",
+              "answers": [
+                "In den Veranstaltungsunterlagen/Ausschreibung.",
+                "Auf dem Reifen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Veranstaltung benennt ihre Offiziellen."
+            }
+          ],
+          "dmsbQuestions": [
+            "7.01",
+            "7.02"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Veranstaltungsreglement",
+              "section": "Offizielle / Sportwarte"
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "Streckensicherung",
+          "emoji": "🚩",
+          "minutes": 4,
+          "intro": "Die Sportwarte der Streckensicherung beobachten ihren Streckenabschnitt und warnen Fahrer vor Gefahren.",
+          "sections": [
+            {
+              "heading": "Streckenposten",
+              "text": "Sie stehen an festgelegten Posten rund um die Strecke und benutzen unter anderem Flaggen."
+            },
+            {
+              "heading": "Anweisungen gelten für alle",
+              "text": "Auch ein Fahrer, der ausgefallen ist, muss Anweisungen der Sportwarte beachten. Bei Gelb wird die Geschwindigkeit verringert und es gilt Überholverbot."
+            }
+          ],
+          "remember": "Sportwarte schützen dich und andere – ihre Signale gelten auch dann, wenn dein eigenes Rennen schon vorbei ist.",
+          "questions": [
+            {
+              "q": "Was erwartest du bei geschwenkter gelber Flagge?",
+              "answers": [
+                "Gefahr: langsamer und nicht überholen.",
+                "Freie Fahrt.",
+                "Rennen gewonnen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Gelb warnt vor Gefahr."
+            },
+            {
+              "q": "Muss ein ausgefallener Fahrer Anweisungen der Sportwarte beachten?",
+              "answers": [
+                "Ja.",
+                "Nein."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Anweisungen gelten weiterhin."
+            }
+          ],
+          "dmsbQuestions": [
+            "7.03",
+            "7.04",
+            "7.05"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "Flaggensignale / Sicherheit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Kart und Sicherheitsausrüstung",
+      "subtitle": "Technische Abnahme, Helm und Kleidung",
+      "lessons": [
+        {
+          "id": "8.1",
+          "title": "Bereit für die Technische Abnahme",
+          "emoji": "🔍",
+          "minutes": 4,
+          "intro": "Zur Technischen Abnahme kommt das Kart nicht als Baustelle, sondern so, wie es eingesetzt werden soll.",
+          "sections": [
+            {
+              "heading": "Wettbewerbszustand",
+              "text": "Das Kart trägt die vorgeschriebenen Startnummern und befindet sich im vorgesehenen Wettbewerbszustand."
+            },
+            {
+              "heading": "Nach einem Schaden",
+              "text": "War das Kart in eine Kollision verwickelt und wurde beschädigt, muss ein repariertes Kart vor dem erneuten Einsatz gegebenenfalls erneut den Technischen Kommissaren gezeigt werden."
+            }
+          ],
+          "remember": "Nach einer Reparatur nicht einfach weiterfahren – vorgeschriebene Nachkontrolle beachten.",
+          "questions": [
+            {
+              "q": "Wie stellst du das Kart zur Technischen Abnahme vor?",
+              "answers": [
+                "Im vorgesehenen Wettbewerbszustand.",
+                "Ohne Startnummern und halb zerlegt.",
+                "Nur mit Motor."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Kommissare sollen das einsatzbereite Kart prüfen."
+            },
+            {
+              "q": "Was ist nach einer reparierten Unfallschädigung wichtig?",
+              "answers": [
+                "Vor erneutem Einsatz die vorgeschriebene technische Kontrolle beachten.",
+                "Nichts, solange der Motor läuft."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Ein beschädigtes und repariertes Kart kann erneut geprüft werden müssen."
+            }
+          ],
+          "dmsbQuestions": [
+            "8.01",
+            "8.02"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "Technische Abnahme / Sicherheit"
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Anzug, Schuhe und Handschuhe",
+          "emoji": "🧤",
+          "minutes": 4,
+          "intro": "Die Fahrerausrüstung soll dich bei einem Unfall schützen. Deshalb gibt es genaue Anforderungen.",
+          "sections": [
+            {
+              "heading": "Kartoverall",
+              "text": "Kartoveralls besitzen eine vorgeschriebene Kennzeichnung. Bei homologierten Anzügen findest du die relevante Markierung im Bereich hinten am beziehungsweise nahe dem Kragen."
+            },
+            {
+              "heading": "Komplette Ausrüstung",
+              "text": "Zur vorgeschriebenen Ausrüstung gehören unter anderem zugelassener Helm, geeigneter Fahreranzug, Handschuhe und Schuhe. Die jeweils gültigen Normen stehen im Reglement."
+            }
+          ],
+          "remember": "Sicherheitsausrüstung ist Schutzkleidung – nicht Dekoration.",
+          "questions": [
+            {
+              "q": "Wo findest du die Homologationskennzeichnung des Kartoveralls typischerweise?",
+              "answers": [
+                "Hinten am oder nahe dem Kragen.",
+                "Auf der Schuhsohle.",
+                "Auf dem Lenkrad."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Dort ist die Kennzeichnung vorgesehen."
+            },
+            {
+              "q": "Gehören Handschuhe und Schuhe zur Fahrerausrüstung?",
+              "answers": [
+                "Ja.",
+                "Nein."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Sie gehören zur vollständigen vorgeschriebenen Ausrüstung."
+            }
+          ],
+          "dmsbQuestions": [
+            "8.03",
+            "8.07",
+            "8.08"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "Teil D – Fahrerausrüstung"
+            }
+          ]
+        },
+        {
+          "id": "8.3",
+          "title": "Helm und Schutz für junge Fahrer",
+          "emoji": "🪖",
+          "minutes": 5,
+          "intro": "Beim Helm zählt nicht nur, ob er gut aussieht. Entscheidend sind Zulassung, Zustand und die Regeln für deine Alters- und Kartklasse.",
+          "sections": [
+            {
+              "heading": "Zugelassene Norm",
+              "text": "Helme müssen einer für die jeweilige Klasse zugelassenen Norm entsprechen. Gerade bei Mini- und Junior-Klassen sind die besonderen Vorgaben wichtig."
+            },
+            {
+              "heading": "Halskrause und Zusatzregeln",
+              "text": "Für junge Fahrer können zusätzliche Sicherheitsbestimmungen gelten. Der Fragenkatalog verweist dafür auf das DMSB-Kart-Reglement."
+            },
+            {
+              "heading": "Helm lackieren?",
+              "text": "Lackieren ist nur zulässig, wenn der Helmhersteller dies erlaubt. Falsche Farben oder Lösungsmittel können die Helmschale schädigen."
+            }
+          ],
+          "remember": "Beim Helm niemals raten: Zulassung und Herstellerhinweise prüfen.",
+          "questions": [
+            {
+              "q": "Reicht bei einem Helm die richtige Größe allein aus?",
+              "answers": [
+                "Nein, auch die vorgeschriebene Zulassung muss passen.",
+                "Ja."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Für den Wettbewerb muss der Helm den geltenden Normen entsprechen."
+            },
+            {
+              "q": "Darf jeder Helm beliebig lackiert werden?",
+              "answers": [
+                "Nein, nur wenn der Hersteller es zulässt.",
+                "Ja, mit jeder Farbe."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Material und Lack können sich gegenseitig beeinflussen."
+            }
+          ],
+          "dmsbQuestions": [
+            "8.04",
+            "8.05",
+            "8.06",
+            "8.10"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "Teil D – Sicherheitsausrüstung / Pre-Junior-Bestimmungen"
+            }
+          ]
+        },
+        {
+          "id": "8.4",
+          "title": "Kein Boxenfunk",
+          "emoji": "📵",
+          "minutes": 3,
+          "intro": "Im Rennen soll der Fahrer selbst fahren und die offiziellen Signale beachten.",
+          "sections": [
+            {
+              "heading": "Funkverbindung",
+              "text": "Eine Funkverbindung zwischen Fahrer und Betreuer beziehungsweise Teamchef ist während des Rennens nicht zulässig."
+            },
+            {
+              "heading": "Wichtige Informationen",
+              "text": "Auf der Strecke kommen die maßgeblichen Signale von den Offiziellen – zum Beispiel über Flaggen."
+            }
+          ],
+          "remember": "Im Kart kein Teamfunk während des Rennens – auf Strecke und offizielle Signale achten.",
+          "questions": [
+            {
+              "q": "Darf der Teamchef dem Fahrer während des Rennens per Funk Anweisungen geben?",
+              "answers": [
+                "Nein.",
+                "Ja, jederzeit."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Eine solche Funkverbindung ist nicht zulässig."
+            }
+          ],
+          "dmsbQuestions": [
+            "8.09"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "Kommunikation / Fahrerausrüstung"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Fair und sauber: Anti-Doping",
+      "subtitle": "Kontrollen, Medikamente und Alkohol",
+      "lessons": [
+        {
+          "id": "9.1",
+          "title": "Dopingkontrollen gehören zum Sport",
+          "emoji": "🧪",
+          "minutes": 4,
+          "intro": "Anti-Doping-Regeln gelten auch im Motorsport und damit für Kartfahrer.",
+          "sections": [
+            {
+              "heading": "Kontrollen",
+              "text": "Auch bei nationalen Veranstaltungen kann ein Fahrer zu einer Dopingkontrolle aufgefordert werden. Eine vorgeschriebene Kontrolle darf nicht einfach wegen eines anderen Programmpunkts verweigert werden."
+            },
+            {
+              "heading": "Folgen",
+              "text": "Ein Anti-Doping-Verstoß kann ernste sportrechtliche Folgen haben – zum Beispiel Disqualifikation, Suspendierung oder Auswirkungen auf die Lizenz."
+            }
+          ],
+          "remember": "Eine Dopingkontrolle ist eine offizielle Verpflichtung und wird ernst genommen.",
+          "questions": [
+            {
+              "q": "Kann ein Kartfahrer bei einem nationalen Rennen kontrolliert werden?",
+              "answers": [
+                "Ja.",
+                "Nein."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Anti-Doping-Kontrollen sind auch im Motorsport möglich."
+            },
+            {
+              "q": "Darf man eine Kontrolle einfach wegen der Siegerehrung verweigern?",
+              "answers": [
+                "Nein.",
+                "Ja."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Kontrolle hat verbindliche Regeln."
+            }
+          ],
+          "dmsbQuestions": [
+            "9.01",
+            "9.02",
+            "9.04"
+          ],
+          "sources": [
+            {
+              "document": "DMSB Anti-Doping Code / NADA",
+              "section": "Dopingkontrollen und Sanktionen"
+            }
+          ]
+        },
+        {
+          "id": "9.2",
+          "title": "Medikamente vorher prüfen",
+          "emoji": "💊",
+          "minutes": 5,
+          "intro": "Ein Medikament aus der Apotheke ist nicht automatisch im Sport erlaubt.",
+          "sections": [
+            {
+              "heading": "Auch frei verkäuflich kann problematisch sein",
+              "text": "Erkältungs- oder andere Medikamente können Wirkstoffe enthalten, die im Sport verboten oder nur unter bestimmten Bedingungen erlaubt sind."
+            },
+            {
+              "heading": "Nachschauen statt raten",
+              "text": "Aktuelle Informationen liefern die Verbotslisten und Informationsangebote von NADA/WADA. Bei Medikamenten sollten Fahrer und Eltern rechtzeitig prüfen und bei Bedarf medizinischen Rat einholen."
+            }
+          ],
+          "remember": "Medikament nötig? Erst Wirkstoff und Anti-Doping-Regeln prüfen.",
+          "questions": [
+            {
+              "q": "Ist jedes frei verkäufliche Medikament automatisch erlaubt?",
+              "answers": [
+                "Nein.",
+                "Ja."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Auch frei erhältliche Mittel können problematische Wirkstoffe enthalten."
+            },
+            {
+              "q": "Wo kannst du dich über verbotene Wirkstoffe informieren?",
+              "answers": [
+                "Bei NADA/WADA und deren aktuellen Listen.",
+                "Nur bei anderen Fahrern."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Anti-Doping-Organisationen veröffentlichen die maßgeblichen Informationen."
+            }
+          ],
+          "dmsbQuestions": [
+            "9.03",
+            "9.05"
+          ],
+          "sources": [
+            {
+              "document": "NADA / WADA",
+              "section": "Aktuelle Verbotsliste"
+            },
+            {
+              "document": "DMSB",
+              "section": "Anti-Doping-Bestimmungen"
+            }
+          ]
+        },
+        {
+          "id": "9.3",
+          "title": "Alkohol und Motorsport",
+          "emoji": "0️⃣",
+          "minutes": 3,
+          "intro": "Wer ein Kart im Wettbewerb fährt, braucht volle Aufmerksamkeit und Reaktionsfähigkeit.",
+          "sections": [
+            {
+              "heading": "Klare Grenze",
+              "text": "Für motorsportliche Betätigung gilt im Fragenkatalog 0,0 Promille. Alkohol und Fahren gehören nicht zusammen."
+            },
+            {
+              "heading": "Warum so streng?",
+              "text": "Schon kleine Beeinträchtigungen können Reaktion, Wahrnehmung und Entscheidungen verschlechtern – auf der Rennstrecke zählt jede davon."
+            }
+          ],
+          "remember": "Motorsport und Alkohol: 0,0.",
+          "questions": [
+            {
+              "q": "Wie viel Blutalkohol ist bei der Teilnahme am Rennen zulässig?",
+              "answers": [
+                "0,0 Promille",
+                "0,5 Promille",
+                "Ein kleines Glas ist immer erlaubt"
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Für motorsportliche Betätigung gilt 0,0."
+            }
+          ],
+          "dmsbQuestions": [
+            "9.06"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Regelwerk",
+              "section": "Alkoholverbot / Sicherheit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Schnell und fair fahren",
+      "subtitle": "Ideallinie, Fahrzeugreaktionen und Zweikampf",
+      "lessons": [
+        {
+          "id": "10.1",
+          "title": "Die Ideallinie",
+          "emoji": "〰️",
+          "minutes": 4,
+          "intro": "Eine Kurve ist nicht nur 'links' oder 'rechts'. Entscheidend ist, wie du hinein-, hindurch- und wieder herausfährst.",
+          "sections": [
+            {
+              "heading": "Was ist die Ideallinie?",
+              "text": "Die Ideallinie ist die Fahrlinie, auf der eine Kurve beziehungsweise Streckenfolge möglichst schnell und kontrolliert gefahren werden kann."
+            },
+            {
+              "heading": "Körperhaltung",
+              "text": "Beim Kart lenkst du nicht wie auf einem Motorrad durch starkes Hineinlegen des Körpers. Eine ruhige, passende Sitz- und Körperhaltung hilft dem Kart besser."
+            }
+          ],
+          "remember": "Nicht einfach den kürzesten Weg suchen – die schnellste kontrollierte Linie zählt.",
+          "questions": [
+            {
+              "q": "Was beschreibt die Ideallinie?",
+              "answers": [
+                "Die Fahrlinie für eine möglichst gute Rundenzeit.",
+                "Immer die Mitte der Strecke.",
+                "Die Linie am äußersten Streckenrand."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Sie verbindet passende Einlenk-, Scheitel- und Ausfahrpunkte."
+            },
+            {
+              "q": "Solltest du dich wie ein Motorradfahrer stark in die Kurve legen?",
+              "answers": [
+                "Nein.",
+                "Ja, immer."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Ein Kart reagiert anders als ein Motorrad."
+            }
+          ],
+          "dmsbQuestions": [
+            "10.01",
+            "10.02"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Fragenkatalog Kart",
+              "section": "Fahrverhalten / Fahrphysik"
+            }
+          ]
+        },
+        {
+          "id": "10.2",
+          "title": "Untersteuern und Übersteuern",
+          "emoji": "↪️",
+          "minutes": 4,
+          "intro": "Manchmal folgt das Kart nicht genau der Linie, die du mit dem Lenkrad verlangst.",
+          "sections": [
+            {
+              "heading": "Untersteuern",
+              "text": "Beim Untersteuern schiebt das Kart stärker über die Vorderräder zur Kurvenaußenseite. Du müsstest mehr einlenken, als eigentlich erwartet."
+            },
+            {
+              "heading": "Übersteuern",
+              "text": "Beim Übersteuern drängt das Heck nach außen. Dann muss der Fahrer weniger einlenken oder sogar gegenlenken, um das Kart abzufangen."
+            }
+          ],
+          "remember": "Untersteuern: vorne schiebt es nach außen. Übersteuern: das Heck kommt nach außen.",
+          "questions": [
+            {
+              "q": "Welches Ende des Karts drängt beim Übersteuern nach außen?",
+              "answers": [
+                "Das Heck.",
+                "Nur die Nase."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Übersteuern bedeutet, dass das Heck stärker nach außen kommt."
+            },
+            {
+              "q": "Was passiert beim Untersteuern?",
+              "answers": [
+                "Das Kart will stärker zur Kurvenaußenseite als gewünscht.",
+                "Das Heck dreht sofort nach innen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die Vorderachse folgt dem gewünschten Kurvenradius nicht ausreichend."
+            }
+          ],
+          "dmsbQuestions": [
+            "10.03",
+            "10.04"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Fragenkatalog Kart",
+              "section": "Fahrphysik"
+            }
+          ]
+        },
+        {
+          "id": "10.3",
+          "title": "Startformation beherrschen",
+          "emoji": "🚦",
+          "minutes": 4,
+          "intro": "Beim rollenden Start müssen viele Fahrer gleichzeitig eine saubere Formation halten.",
+          "sections": [
+            {
+              "heading": "Vorne Verantwortung tragen",
+              "text": "Der Führende hält bis zum Startsignal eine gleichmäßige, angepasste Geschwindigkeit und achtet darauf, dass die Formation zusammenbleibt."
+            },
+            {
+              "heading": "Startkorridor",
+              "text": "Die vorgeschriebenen Linien des Startkorridors dürfen nicht vor der Freigabe missachtet werden. Ein leerer Startplatz wird nicht einfach eigenmächtig aufgefüllt."
+            }
+          ],
+          "remember": "Vor dem Start zählt Formation – erst nach der Freigabe beginnt der Positionskampf.",
+          "questions": [
+            {
+              "q": "Soll der Führende vor dem Start ständig beschleunigen und bremsen?",
+              "answers": [
+                "Nein, möglichst gleichmäßig und angepasst fahren.",
+                "Ja, um die anderen zu überraschen."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Eine kontrollierte Formation ist Teil der Startprozedur."
+            },
+            {
+              "q": "Darf ein leerer Startplatz einfach aufgefüllt werden?",
+              "answers": [
+                "Nein.",
+                "Ja, immer."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Die vorgegebene Startordnung bleibt maßgeblich."
+            }
+          ],
+          "dmsbQuestions": [
+            "10.05",
+            "10.07"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "Startprozedur"
+            }
+          ]
+        },
+        {
+          "id": "10.4",
+          "title": "Überholen ohne Kollision",
+          "emoji": "🤝",
+          "minutes": 5,
+          "intro": "Ein Überholmanöver funktioniert nur, wenn beide Fahrer noch Platz zum sicheren Fahren haben.",
+          "sections": [
+            {
+              "heading": "Spurwechsel",
+              "text": "Zur Verteidigung darf nicht beliebig hin- und hergefahren werden. Der Fragenkatalog erlaubt einen Spurwechsel, solange das Überholmanöver noch nicht begonnen hat und kein anderer Fahrer behindert wird."
+            },
+            {
+              "heading": "Außen überholen",
+              "text": "Außen in der Kurve kannst du meist nicht deine normale Ideallinie fahren. Außerdem bewegt sich das innen fahrende Kart beim Herausbeschleunigen typischerweise wieder nach außen."
+            },
+            {
+              "heading": "Bremsen im Pulk",
+              "text": "Fährst du dicht hinter mehreren Karts, musst du früher mit Reaktionen rechnen. Dein normaler Bremspunkt kann zu spät sein, weil vor dir mehrere Fahrer verzögern."
+            }
+          ],
+          "remember": "Position gewinnen ist gut. Eine Kollision vermeiden ist wichtiger.",
+          "questions": [
+            {
+              "q": "Darfst du zur Verteidigung beliebig oft die Spur wechseln?",
+              "answers": [
+                "Nein.",
+                "Ja, solange du schnell genug bist."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Unberechenbare Richtungswechsel gefährden andere."
+            },
+            {
+              "q": "Warum kann dein normaler Bremspunkt im Pulk zu spät sein?",
+              "answers": [
+                "Weil vor dir mehrere Fahrer verzögern und weniger Reaktionsraum bleibt.",
+                "Weil die Strecke plötzlich länger wird."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Im Pulk musst du die Reaktionen der Fahrer vor dir mit einplanen."
+            },
+            {
+              "q": "Was ist beim Außenüberholen in einer Kurve wichtig?",
+              "answers": [
+                "Mit einer anderen Linie rechnen und eine Kollision vermeiden.",
+                "Der innere Fahrer muss automatisch anhalten."
+              ],
+              "correct": [
+                0
+              ],
+              "explain": "Beide Karts brauchen beim Kurvenausgang Platz."
+            }
+          ],
+          "dmsbQuestions": [
+            "10.06",
+            "10.08",
+            "10.09"
+          ],
+          "sources": [
+            {
+              "document": "DMSB-Kart-Reglement",
+              "section": "Fahrverhalten / Überholen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
